@@ -1,0 +1,1798 @@
+﻿Log file open, 08/01/19 16:10:34
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Prova
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.392707
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.08.01-14.10.34:817][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.08.01-14.10.34:817][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.08.01-14.10.34:817][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/tecla/Documents/Unreal Projects/Prova/Saved/Config/Windows/Engine.ini]
+[2019.08.01-14.10.34:817][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.08.01-14.10.34:817][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2019.08.01-14.10.34:817][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/tecla/Documents/Unreal Projects/Prova/Saved/Config/Windows/Engine.ini]
+[2019.08.01-14.10.34:817][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/tecla/Documents/Unreal Projects/Prova/Saved/Config/Windows/Engine.ini]
+[2019.08.01-14.10.34:817][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.08.01-14.10.34:817][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.08.01-14.10.34:817][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.08.01-14.10.34:817][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.08.01-14.10.34:817][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.08.01-14.10.34:817][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.08.01-14.10.34:817][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.08.01-14.10.34:817][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.08.01-14.10.34:817][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.08.01-14.10.34:817][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.08.01-14.10.34:817][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.08.01-14.10.34:817][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.08.01-14.10.34:817][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.08.01-14.10.34:817][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/tecla/Documents/Unreal Projects/Prova/Saved/Config/Windows/Engine.ini]
+[2019.08.01-14.10.34:818][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.08.01-14.10.34:818][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.08.01-14.10.34:818][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.08.01-14.10.34:818][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.08.01-14.10.34:818][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.08.01-14.10.34:818][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.08.01-14.10.34:818][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.08.01-14.10.34:818][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.08.01-14.10.34:818][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.08.01-14.10.34:818][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.08.01-14.10.34:818][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.08.01-14.10.34:818][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.08.01-14.10.34:818][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.08.01-14.10.34:818][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/tecla/Documents/Unreal Projects/Prova/Saved/Config/Windows/Engine.ini]
+[2019.08.01-14.10.34:818][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/tecla/Documents/Unreal Projects/Prova/Saved/Config/Windows/Engine.ini]
+[2019.08.01-14.10.34:820][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/tecla/Documents/Unreal Projects/Prova/Saved/Config/Windows/Scalability.ini]
+[2019.08.01-14.10.34:820][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.08.01-14.10.34:820][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.08.01-14.10.34:820][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/tecla/Documents/Unreal Projects/Prova/Saved/Config/Windows/Scalability.ini]
+[2019.08.01-14.10.34:820][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.08.01-14.10.34:820][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/tecla/Documents/Unreal Projects/Prova/Saved/Config/Windows/Scalability.ini]
+[2019.08.01-14.10.34:820][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.08.01-14.10.34:820][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.08.01-14.10.34:820][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.08.01-14.10.34:820][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.08.01-14.10.34:820][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.08.01-14.10.34:820][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.08.01-14.10.34:820][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.08.01-14.10.34:820][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.08.01-14.10.34:820][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.08.01-14.10.34:820][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.08.01-14.10.34:820][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.08.01-14.10.34:820][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.08.01-14.10.34:820][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.08.01-14.10.34:820][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.08.01-14.10.34:820][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.08.01-14.10.34:820][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.08.01-14.10.34:820][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.08.01-14.10.34:820][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.08.01-14.10.34:820][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/tecla/Documents/Unreal Projects/Prova/Saved/Config/Windows/Scalability.ini]
+[2019.08.01-14.10.34:820][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.08.01-14.10.34:820][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.08.01-14.10.34:820][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.08.01-14.10.34:820][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.08.01-14.10.34:820][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.08.01-14.10.34:820][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.08.01-14.10.34:820][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.08.01-14.10.34:820][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.08.01-14.10.34:820][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.08.01-14.10.34:820][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.08.01-14.10.34:820][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.08.01-14.10.34:820][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.08.01-14.10.34:820][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.08.01-14.10.34:820][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.08.01-14.10.34:820][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.08.01-14.10.34:820][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.08.01-14.10.34:820][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.08.01-14.10.34:820][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.08.01-14.10.34:820][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.08.01-14.10.34:820][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.08.01-14.10.34:820][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.08.01-14.10.34:820][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.08.01-14.10.34:820][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.08.01-14.10.34:820][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.08.01-14.10.34:820][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.08.01-14.10.34:820][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.08.01-14.10.34:820][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.08.01-14.10.34:820][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.08.01-14.10.34:820][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.08.01-14.10.34:820][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.08.01-14.10.34:820][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/tecla/Documents/Unreal Projects/Prova/Saved/Config/Windows/Scalability.ini]
+[2019.08.01-14.10.34:820][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.08.01-14.10.34:820][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.08.01-14.10.34:820][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.08.01-14.10.34:820][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.08.01-14.10.34:820][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.08.01-14.10.34:820][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.08.01-14.10.34:820][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.08.01-14.10.34:820][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.08.01-14.10.34:820][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/tecla/Documents/Unreal Projects/Prova/Saved/Config/Windows/Scalability.ini]
+[2019.08.01-14.10.34:820][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.08.01-14.10.34:820][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.08.01-14.10.34:820][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.08.01-14.10.34:820][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.08.01-14.10.34:820][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.08.01-14.10.34:820][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.08.01-14.10.34:820][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.08.01-14.10.34:820][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.08.01-14.10.34:820][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.08.01-14.10.34:821][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.08.01-14.10.34:821][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.08.01-14.10.34:821][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.08.01-14.10.34:821][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.08.01-14.10.34:821][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/tecla/Documents/Unreal Projects/Prova/Saved/Config/Windows/Scalability.ini]
+[2019.08.01-14.10.34:821][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.08.01-14.10.34:821][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.08.01-14.10.34:821][  0]LogInit: Selected Device Profile: [Windows]
+[2019.08.01-14.10.34:821][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.08.01-14.10.34:828][  0]LogHAL: Display: Platform has ~ 16 GB [17030406144 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.08.01-14.10.34:828][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.08.01-14.10.34:828][  0]LogInit: Going up to parent DeviceProfile []
+[2019.08.01-14.10.34:828][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/tecla/Documents/Unreal Projects/Prova/Saved/Config/Windows/Scalability.ini]
+[2019.08.01-14.10.34:828][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.08.01-14.10.34:828][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.08.01-14.10.34:828][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/tecla/Documents/Unreal Projects/Prova/Saved/Config/Windows/Scalability.ini]
+[2019.08.01-14.10.34:828][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.08.01-14.10.34:828][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/tecla/Documents/Unreal Projects/Prova/Saved/Config/Windows/Scalability.ini]
+[2019.08.01-14.10.34:828][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.08.01-14.10.34:828][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.08.01-14.10.34:828][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.08.01-14.10.34:828][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.08.01-14.10.34:828][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.08.01-14.10.34:828][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.08.01-14.10.34:828][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.08.01-14.10.34:828][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.08.01-14.10.34:828][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.08.01-14.10.34:828][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.08.01-14.10.34:828][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.08.01-14.10.34:828][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.08.01-14.10.34:828][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.08.01-14.10.34:828][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.08.01-14.10.34:828][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.08.01-14.10.34:828][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.08.01-14.10.34:828][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.08.01-14.10.34:828][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.08.01-14.10.34:828][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/tecla/Documents/Unreal Projects/Prova/Saved/Config/Windows/Scalability.ini]
+[2019.08.01-14.10.34:828][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.08.01-14.10.34:828][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.08.01-14.10.34:828][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.08.01-14.10.34:828][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.08.01-14.10.34:828][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.08.01-14.10.34:828][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.08.01-14.10.34:828][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.08.01-14.10.34:828][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.08.01-14.10.34:829][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.08.01-14.10.34:829][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.08.01-14.10.34:829][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.08.01-14.10.34:829][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.08.01-14.10.34:829][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.08.01-14.10.34:829][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.08.01-14.10.34:829][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.08.01-14.10.34:829][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.08.01-14.10.34:829][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.08.01-14.10.34:829][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.08.01-14.10.34:829][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.08.01-14.10.34:829][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.08.01-14.10.34:829][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.08.01-14.10.34:829][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.08.01-14.10.34:829][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.08.01-14.10.34:829][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.08.01-14.10.34:829][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.08.01-14.10.34:829][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.08.01-14.10.34:829][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.08.01-14.10.34:829][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.08.01-14.10.34:829][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.08.01-14.10.34:829][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.08.01-14.10.34:829][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/tecla/Documents/Unreal Projects/Prova/Saved/Config/Windows/Scalability.ini]
+[2019.08.01-14.10.34:829][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.08.01-14.10.34:829][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.08.01-14.10.34:829][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.08.01-14.10.34:829][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.08.01-14.10.34:829][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.08.01-14.10.34:829][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.08.01-14.10.34:829][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.08.01-14.10.34:829][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.08.01-14.10.34:829][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/tecla/Documents/Unreal Projects/Prova/Saved/Config/Windows/Scalability.ini]
+[2019.08.01-14.10.34:829][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.08.01-14.10.34:829][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.08.01-14.10.34:829][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.08.01-14.10.34:829][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.08.01-14.10.34:829][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.08.01-14.10.34:829][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.08.01-14.10.34:829][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.08.01-14.10.34:829][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.08.01-14.10.34:829][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.08.01-14.10.34:829][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.08.01-14.10.34:829][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.08.01-14.10.34:829][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.08.01-14.10.34:829][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.08.01-14.10.34:829][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/tecla/Documents/Unreal Projects/Prova/Saved/Config/Windows/Scalability.ini]
+[2019.08.01-14.10.34:829][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.08.01-14.10.34:829][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.08.01-14.10.34:829][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.08.01-14.10.34:829][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.08.01-14.10.34:829][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.08.01-14.10.34:829][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/tecla/Documents/Unreal Projects/Prova/Saved/Config/Windows/Engine.ini]
+[2019.08.01-14.10.34:829][  0]LogInit: Computer: DESKTOP-2RPBAVO
+[2019.08.01-14.10.34:829][  0]LogInit: User: tecla
+[2019.08.01-14.10.34:829][  0]LogInit: CPU Page size=4096, Cores=6
+[2019.08.01-14.10.34:829][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.08.01-14.10.34:830][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.08.01-14.10.34:830][  0]LogMemory: Platform Memory Stats for Windows
+[2019.08.01-14.10.34:830][  0]LogMemory: Process Physical Memory: 97.61 MB used, 97.62 MB peak
+[2019.08.01-14.10.34:830][  0]LogMemory: Process Virtual Memory: 89.55 MB used, 89.55 MB peak
+[2019.08.01-14.10.34:830][  0]LogMemory: Physical Memory: 4789.64 MB used,  11451.82 MB free, 16241.46 MB total
+[2019.08.01-14.10.34:830][  0]LogMemory: Virtual Memory: 4660.38 MB used,  134213064.00 MB free, 134217728.00 MB total
+[2019.08.01-14.10.34:848][  0]LogInit: Overriding language with editor language configuration option (en).
+[2019.08.01-14.10.34:848][  0]LogInit: Overriding locale with editor culture configuration option ().
+[2019.08.01-14.10.34:848][  0]LogInit: Using OS detected locale (es-ES).
+[2019.08.01-14.10.35:001][  0]LogInit: Setting process to per monitor DPI aware
+[2019.08.01-14.10.35:026][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.08.01-14.10.35:026][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.08.01-14.10.35:177][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.08.01-14.10.35:177][  0]LogD3D11RHI: D3D11 adapters:
+[2019.08.01-14.10.35:248][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2060' (Feature Level 11_0)
+[2019.08.01-14.10.35:248][  0]LogD3D11RHI:       5980/0/8120 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.08.01-14.10.35:260][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2019.08.01-14.10.35:260][  0]LogD3D11RHI:       128/0/8120 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.08.01-14.10.35:262][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.08.01-14.10.35:262][  0]LogD3D11RHI:       0/0/8120 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.08.01-14.10.35:262][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.08.01-14.10.35:289][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.08.01-14.10.35:289][  0]LogD3D11RHI:     GPU DeviceId: 0x1f11 (for the marketing name, search the web for "GPU Device Id")
+[2019.08.01-14.10.35:289][  0]LogWindows: EnumDisplayDevices:
+[2019.08.01-14.10.35:289][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2019.08.01-14.10.35:290][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.08.01-14.10.35:290][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.08.01-14.10.35:290][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2019.08.01-14.10.35:290][  0]LogWindows:    4. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2019.08.01-14.10.35:290][  0]LogWindows:    5. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2019.08.01-14.10.35:291][  0]LogWindows:    6. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2019.08.01-14.10.35:291][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2019.08.01-14.10.35:291][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2060
+[2019.08.01-14.10.35:291][  0]LogD3D11RHI:   Driver Version: 431.60 (internal:26.21.14.3160, unified:431.60)
+[2019.08.01-14.10.35:291][  0]LogD3D11RHI:      Driver Date: 7-17-2019
+[2019.08.01-14.10.35:291][  0]LogRHI: Texture pool is 4186 MB (70% of 5980 MB)
+[2019.08.01-14.10.35:330][  0]LogD3D11RHI: Async texture creation enabled
+[2019.08.01-14.10.35:335][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.08.01-14.10.35:336][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.08.01-14.10.35:336][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.08.01-14.10.35:343][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.08.01-14.10.35:586][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.08.01-14.10.35:598][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.08.01-14.10.35:610][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.08.01-14.10.35:623][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.08.01-14.10.35:635][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.08.01-14.10.35:652][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.08.01-14.10.35:666][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.08.01-14.10.35:679][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.08.01-14.10.35:685][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.08.01-14.10.35:752][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.08.01-14.10.35:752][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.08.01-14.10.35:752][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.08.01-14.10.35:752][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.08.01-14.10.35:752][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.08.01-14.10.35:752][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.08.01-14.10.35:752][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.08.01-14.10.35:752][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.08.01-14.10.35:752][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.08.01-14.10.35:752][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.08.01-14.10.35:752][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.08.01-14.10.35:752][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.08.01-14.10.35:752][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.08.01-14.10.35:752][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.08.01-14.10.35:752][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.08.01-14.10.35:752][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.08.01-14.10.35:752][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.08.01-14.10.35:752][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.08.01-14.10.35:753][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.08.01-14.10.35:797][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.08.01-14.10.35:798][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.08.01-14.10.35:817][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.08.01-14.10.35:817][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.08.01-14.10.35:827][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.08.01-14.10.35:838][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.08.01-14.10.35:848][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.08.01-14.10.35:858][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.08.01-14.10.35:895][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.08.01-14.10.35:895][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.08.01-14.10.35:895][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.08.01-14.10.35:901][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.08.01-14.10.35:943][  0]LogShaderCompilers: Guid format shader working directory is -16 characters bigger than the processId version (../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Intermediate/Shaders/WorkingDirectory/12536/).
+[2019.08.01-14.10.35:943][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/tecla/AppData/Local/Temp/UnrealShaderWorkingDir/F92BE2A746F0A49B85789786A536E5E5/'.
+[2019.08.01-14.10.35:945][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.08.01-14.10.35:945][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.08.01-14.10.35:945][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.08.01-14.10.36:455][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.08.01-14.10.36:498][  0]LogDerivedDataCache: Loaded boot cache 0.04s 71MB C:/Users/tecla/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.08.01-14.10.36:498][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/tecla/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.08.01-14.10.36:498][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/tecla/Documents/Unreal Projects/Prova/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.08.01-14.10.36:498][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.08.01-14.10.36:498][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/tecla/Documents/Unreal Projects/Prova/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.08.01-14.10.36:498][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.08.01-14.10.36:509][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.08.01-14.10.36:509][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.08.01-14.10.36:509][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.08.01-14.10.36:521][  0]LogDerivedDataCache: Using Local data cache path C:/Users/tecla/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.08.01-14.10.36:521][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.08.01-14.10.36:521][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.08.01-14.10.36:540][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.08.01-14.10.36:541][  0]LogSlate: Using FreeType 2.6.0
+[2019.08.01-14.10.36:541][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.08.01-14.10.36:613][  0]LogAssetRegistry: FAssetRegistry took 0.0314 seconds to start up
+[2019.08.01-14.10.36:898][  0]LogInit: Selected Device Profile: [Windows]
+[2019.08.01-14.10.37:015][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.08.01-14.10.37:015][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.08.01-14.10.37:015][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.08.01-14.10.37:015][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.08.01-14.10.37:015][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.08.01-14.10.37:024][  0]LogNetVersion: Prova 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 914732070)
+[2019.08.01-14.10.37:355][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.031384 seconds
+[2019.08.01-14.10.37:360][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.08.01-14.10.37:360][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.08.01-14.10.37:360][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.08.01-14.10.38:036][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.08.01-14.10.38:049][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.08.01-14.10.38:146][  0]SourceControl: Source control is disabled
+[2019.08.01-14.10.38:146][  0]SourceControl: Source control is disabled
+[2019.08.01-14.10.38:147][  0]SourceControl: Source control is disabled
+[2019.08.01-14.10.38:148][  0]SourceControl: Source control is disabled
+[2019.08.01-14.10.38:206][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.08.01-14.10.38:269][  0]LogOcInput: OculusInput pre-init called
+[2019.08.01-14.10.38:823][  0]LogEngine: Initializing Engine...
+[2019.08.01-14.10.38:823][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.08.01-14.10.38:824][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.08.01-14.10.39:005][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.08.01-14.10.39:017][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.08.01-14.10.39:028][  0]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.01-14.10.39:046][  0]LogInit: FAudioDevice initialized.
+[2019.08.01-14.10.39:046][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.08.01-14.10.39:088][  0]LogDerivedDataCache: Saved boot cache 0.04s 71MB C:/Users/tecla/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.08.01-14.10.39:088][  0]LogInit: Texture streaming: Enabled
+[2019.08.01-14.10.39:105][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.08.01-14.10.39:123][  0]LogInit: Transaction tracking system initialized
+[2019.08.01-14.10.39:144][  0]BlueprintLog: New page: Editor Load
+[2019.08.01-14.10.39:217][  0]LocalizationService: Localization service is disabled
+[2019.08.01-14.10.39:317][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/ThirdPersonOverview'
+[2019.08.01-14.10.39:317][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/ThirdPersonOverview'
+[2019.08.01-14.10.39:317][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/ThirdPersonBP/ThirdPersonOverview.ThirdPersonOverview_C'
+[2019.08.01-14.10.39:486][  0]LogFileCache: Scanning file cache for directory 'C:/Users/tecla/Documents/Unreal Projects/Prova/Content/' took 0.02s
+[2019.08.01-14.10.39:486][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.08.01-14.10.39:486][  0]LogCook: Display: Mobile HDR setting 1
+[2019.08.01-14.10.39:630][  0]SourceControl: Source control is disabled
+[2019.08.01-14.10.39:630][  0]Cmd: MAP LOAD FILE="../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Content/RuinLevel/RuinLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.08.01-14.10.39:630][  0]LightingResults: New page: Lighting Build
+[2019.08.01-14.10.39:633][  0]MapCheck: New page: Map Check
+[2019.08.01-14.10.39:633][  0]LightingResults: New page: Lighting Build
+[2019.08.01-14.10.39:659][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2019.08.01-14.10.39:946][  0]LogAIModule: Creating AISystem for world RuinLevel
+[2019.08.01-14.10.39:969][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.08.01-14.10.39:995][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2019.08.01-14.10.39:995][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.08.01-14.10.39:995][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,138ms to complete.
+[2019.08.01-14.10.39:996][  0]LogFileHelpers: Loading map 'RuinLevel' took 0.365
+[2019.08.01-14.10.40:110][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.01-14.10.40:117][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.01-14.10.40:123][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.01-14.10.40:130][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.01-14.10.40:267][  0]LogCollectionManager: Loaded 0 collections in 0.001417 seconds
+[2019.08.01-14.10.40:305][  0]LogFileCache: Scanning file cache for directory 'C:/Users/tecla/Documents/Unreal Projects/Prova/Saved/Collections/' took 0.01s
+[2019.08.01-14.10.40:305][  0]LogFileCache: Scanning file cache for directory 'C:/Users/tecla/Documents/Unreal Projects/Prova/Content/Developers/tecla/Collections/' took 0.01s
+[2019.08.01-14.10.40:305][  0]LogFileCache: Scanning file cache for directory 'C:/Users/tecla/Documents/Unreal Projects/Prova/Content/Collections/' took 0.00s
+[2019.08.01-14.10.40:305][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.08.01-14.10.40:313][  0]LogContentBrowser: Native class hierarchy populated in 0.0075 seconds. Added 2733 classes and 661 folders.
+[2019.08.01-14.10.40:325][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.08.01-14.10.40:330][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.01-14.10.40:333][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.01-14.10.40:334][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.01-14.10.40:335][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.01-14.10.40:336][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.01-14.10.40:337][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.01-14.10.40:339][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.01-14.10.40:340][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.01-14.10.40:341][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.01-14.10.40:342][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.01-14.10.40:343][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.01-14.10.40:344][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.01-14.10.40:345][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.01-14.10.40:346][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.01-14.10.40:347][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.01-14.10.40:348][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.01-14.10.40:349][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.01-14.10.40:350][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.01-14.10.40:351][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.01-14.10.40:352][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.01-14.10.40:353][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.01-14.10.40:354][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.01-14.10.40:355][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.01-14.10.40:356][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.01-14.10.40:357][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.01-14.10.40:359][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.01-14.10.40:422][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.08.01-14.10.40:427][  0]LogSlate: Took 0.000092 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.08.01-14.10.40:429][  0]LogSlate: Took 0.000110 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.08.01-14.10.40:500][  0]LogRenderer: Reallocating scene render targets to support 964x708 Format 10 NumSamples 1 (Frame:1).
+[2019.08.01-14.10.40:606][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.08.01-14.10.40:606][  0]LogLoad: (Engine Initialization) Total time: 7.36 seconds
+[2019.08.01-14.10.40:606][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.08.01-14.10.40:650][  0]LogAssetRegistry: Asset discovery search completed in 4.0594 seconds
+[2019.08.01-14.10.40:652][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2019.08.01-14.10.40:652][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000098 seconds (updated 0 objects)
+[2019.08.01-14.10.40:655][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.08.01-14.11.31:589][850]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.01-14.11.37:676][214]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.08.01-14.11.42:653][510]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush)
+[2019.08.01-14.11.48:240][841]Cmd: TRANSACTION UNDO
+[2019.08.01-14.11.48:240][841]LogEditorTransaction: Undo Move Actors
+[2019.08.01-14.11.48:259][841]LogSlate: Took 0.000475 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.08.01-14.11.54:659][224]Cmd: TRANSACTION UNDO
+[2019.08.01-14.11.54:659][224]LogEditorTransaction: Undo Scale Actors
+[2019.08.01-14.12.25:017][608]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.01-14.12.31:792][ 13]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.01-14.12.42:717][644]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.08.01-14.12.52:773][240]Cmd: TRANSACTION UNDO
+[2019.08.01-14.12.52:773][240]LogEditorTransaction: Undo Scale Actors
+[2019.08.01-14.13.04:478][539]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.08.01-14.13.12:794][ 35]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.01-14.13.34:997][811]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.08.01-14.13.42:908][281]Cmd: TRANSACTION UNDO
+[2019.08.01-14.13.42:908][281]LogEditorTransaction: Undo Move Actors
+[2019.08.01-14.13.42:911][281]LogGeometryMode: Warning: Unable to find 1 Vertex(s) in new BSP
+[2019.08.01-14.13.42:911][281]LogGeometryMode: Warning: Unable to resolve BoxBrush Brush in new BSP, see above
+[2019.08.01-14.13.42:911][281]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.08.01-14.14.07:368][741]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.08.01-14.14.23:838][726]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.08.01-14.14.46:202][ 63]Cmd: EDCALLBACK SURFPROPS
+[2019.08.01-14.14.48:875][220]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_Floors_Block23)
+[2019.08.01-14.14.48:912][220]LogSlate: Took 0.000713 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.08.01-14.14.50:299][299]Cmd: EDCALLBACK SURFPROPS
+[2019.08.01-14.14.56:902][695]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.08.01-14.14.56:902][695]Can't find target actor or component.
+[2019.08.01-14.14.57:436][727]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.08.01-14.14.57:436][727]Can't find target actor or component.
+[2019.08.01-14.15.09:029][418]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.08.01-14.15.16:039][837]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_Floors_Block26)
+[2019.08.01-14.15.26:028][430]Cmd: TRANSACTION UNDO
+[2019.08.01-14.15.26:028][430]LogEditorTransaction: Undo Move Actors
+[2019.08.01-14.15.30:104][672]Cmd: TRANSACTION UNDO
+[2019.08.01-14.15.30:104][672]LogEditorTransaction: Undo Move Actors
+[2019.08.01-14.15.34:507][932]Cmd: TRANSACTION UNDO
+[2019.08.01-14.15.34:507][932]LogEditorTransaction: Undo Move Actors
+[2019.08.01-14.15.34:517][932]LogActorComponent: RegisterComponentWithWorld: (/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.BoxBrush_1.BrushComponent0) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.01-14.15.37:516][110]Cmd: TRANSACTION UNDO
+[2019.08.01-14.15.37:516][110]LogEditorTransaction: Undo Move Actors
+[2019.08.01-14.15.41:935][372]Cmd: TRANSACTION UNDO
+[2019.08.01-14.15.41:935][372]LogEditorTransaction: Undo Move Actors
+[2019.08.01-14.16.26:220][817]Cmd: TRANSACTION UNDO
+[2019.08.01-14.16.26:220][817]LogEditorTransaction: Undo Move Actors
+[2019.08.01-14.17.04:981][ 30]Cmd: TRANSACTION UNDO
+[2019.08.01-14.17.04:982][ 30]LogEditorTransaction: Undo Move Actors
+[2019.08.01-14.17.04:985][ 30]LogGeometryMode: Warning: Unable to find 1 Edge(s) in new BSP
+[2019.08.01-14.17.04:985][ 30]LogGeometryMode: Warning: Unable to resolve BoxBrush Brush in new BSP, see above
+[2019.08.01-14.17.04:985][ 30]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.08.01-14.17.11:365][410]Cmd: TRANSACTION UNDO
+[2019.08.01-14.17.11:365][410]LogEditorTransaction: Undo Move Actors
+[2019.08.01-14.17.11:375][410]LogGeometryMode: Warning: Unable to find 1 Edge(s) in new BSP
+[2019.08.01-14.17.11:375][410]LogGeometryMode: Warning: Unable to resolve BoxBrush Brush in new BSP, see above
+[2019.08.01-14.17.11:375][410]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.08.01-14.17.12:815][495]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.08.01-14.17.14:874][614]Cmd: EDCALLBACK SURFPROPS
+[2019.08.01-14.17.23:422][124]Cmd: TRANSACTION UNDO
+[2019.08.01-14.17.23:422][124]LogEditorTransaction: Undo Move Actors
+[2019.08.01-14.17.23:431][124]LogGeometryMode: Warning: Unable to find 1 Edge(s) in new BSP
+[2019.08.01-14.17.23:431][124]LogGeometryMode: Warning: Unable to resolve BoxBrush Brush in new BSP, see above
+[2019.08.01-14.17.23:431][124]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.08.01-14.17.35:772][861]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.08.01-14.17.37:245][947]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.08.01-14.17.39:400][ 75]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.01-14.18.37:080][282]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.01-14.18.42:145][586]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_Floors_Block23)
+[2019.08.01-14.18.45:083][759]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.01-14.18.48:516][965]Cmd: POLY TEXSCALE  UU=0.166667 VV=0.166667
+[2019.08.01-14.18.49:249][  9]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_Floors_Block23)
+[2019.08.01-14.19.09:231][423]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.01-14.19.48:578][701]LogActorFactory: Actor Factory created SM_Plains_Castle_Railing_Curved
+[2019.08.01-14.19.50:846][837]LogActorFactory: Actor Factory created SM_Plains_Castle_Railing_Curved
+[2019.08.01-14.20.08:896][918]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.01-14.20.57:623][838]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_Floors_Block7)
+[2019.08.01-14.20.59:065][923]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_Castle_Railing_Curved)
+[2019.08.01-14.21.00:887][ 30]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_Floors_Block03)
+[2019.08.01-14.21.04:816][264]Cmd: TRANSACTION UNDO
+[2019.08.01-14.21.04:816][264]LogEditorTransaction: Undo Move Actors
+[2019.08.01-14.21.05:582][310]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_Castle_Railing_Curved)
+[2019.08.01-14.21.50:160][980]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_Castle_Railing_Curved)
+[2019.08.01-14.22.20:555][800]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_Floors_Block03)
+[2019.08.01-14.22.21:431][851]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.08.01-14.22.47:469][417]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_Column_Large_4)
+[2019.08.01-14.22.48:966][505]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.01-14.22.49:008][505]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2019.08.01-14.22.49:251][505]LogSavePackage: Moving '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Saved/RuinLevel_Auto1471A827B4DA1D873D1B504B3A44646B5.tmp' to '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Saved/Autosaves/Game/RuinLevel/RuinLevel_Auto1.umap'
+[2019.08.01-14.22.49:253][505]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/RuinLevel/RuinLevel' took 0.269
+[2019.08.01-14.22.49:253][505]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.269
+[2019.08.01-14.22.55:184][860]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.08.01-14.22.58:372][ 51]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_Column_Large_7)
+[2019.08.01-14.23.16:253][123]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_Column_Large_7)
+[2019.08.01-14.23.22:196][479]Cmd: TRANSACTION UNDO
+[2019.08.01-14.23.22:196][479]LogEditorTransaction: Undo Move Actors
+[2019.08.01-14.23.30:035][949]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_Floors_Block03)
+[2019.08.01-14.23.47:143][225]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.01-14.24.07:394][848]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_Column_Large_7)
+[2019.08.01-14.24.18:291][500]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.08.01-14.24.50:905][456]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_Column_Large_7)
+[2019.08.01-14.25.24:008][915]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.01-14.25.32:513][425]LogActorFactory: Actor Factory created SM_Plains_CastleArch_02
+[2019.08.01-14.25.33:716][497]LogActorFactory: Actor Factory created SM_Plains_CastleArch_02
+[2019.08.01-14.25.46:148][146]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.01-14.25.58:417][882]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_CastleArch_02)
+[2019.08.01-14.26.38:360][ 18]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.01-14.26.38:372][ 18]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RuinLevel/RuinLevel" FILE="../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Content/RuinLevel/RuinLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.08.01-14.26.38:398][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2019.08.01-14.26.38:611][ 18]LogSavePackage: Moving '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Saved/RuinLevel9F2AAC964A150BE497F82BA96E4DAA7D.tmp' to '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Content/RuinLevel/RuinLevel.umap'
+[2019.08.01-14.26.38:631][ 18]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RuinLevel/RuinLevel_BuiltData" FILE="../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Content/RuinLevel/RuinLevel_BuiltData.uasset" SILENT=true
+[2019.08.01-14.26.38:650][ 18]LogSavePackage: Moving '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Saved/RuinLevel_BuiltData0992EF3A4EA6D5230BB2C28B12F9C54C.tmp' to '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Content/RuinLevel/RuinLevel_BuiltData.uasset'
+[2019.08.01-14.28.34:835][806]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.01-14.28.38:124][  3]LogActorFactory: Actor Factory created SM_Plains_CastleWall_Support_01
+[2019.08.01-14.28.39:646][ 94]LogActorFactory: Actor Factory created SM_Plains_CastleWall_Support_01
+[2019.08.01-14.28.59:824][426]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.01-14.29.04:961][734]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_CastleArch_02)
+[2019.08.01-14.29.26:940][822]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_CastleWall_Support_01)
+[2019.08.01-14.29.33:105][190]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_Floors_Block19)
+[2019.08.01-14.29.34:272][259]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_CastleWall_Support_01)
+[2019.08.01-14.29.43:269][796]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_Floors_Block19)
+[2019.08.01-14.29.43:622][816]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.08.01-14.29.45:298][916]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.08.01-14.29.47:598][ 54]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_CastleWall_Support_01)
+[2019.08.01-14.30.03:232][417]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.01-14.30.08:362][724]LogActorFactory: Actor Factory created SM_Plains_CastleArch_03
+[2019.08.01-14.30.09:297][780]LogActorFactory: Actor Factory created SM_Plains_CastleArch_03
+[2019.08.01-14.30.16:410][206]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.01-14.30.39:849][848]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.01-14.31.06:818][237]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_Floors_Block20)
+[2019.08.01-14.31.21:374][670]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_CastleArch_02)
+[2019.08.01-14.31.40:747][831]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_CastleArch_03)
+[2019.08.01-14.31.41:896][899]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_CastleArch_03)
+[2019.08.01-14.31.47:836][255]Cmd: TRANSACTION UNDO
+[2019.08.01-14.31.47:836][255]LogEditorTransaction: Undo Move Actors
+[2019.08.01-14.31.55:036][687]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_Floors_Block20)
+[2019.08.01-14.32.01:951][928]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_CastleWall_Support_01)
+[2019.08.01-14.32.16:768][815]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_CastleArch_03)
+[2019.08.01-14.32.24:436][274]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_CastleWall_Support_2)
+[2019.08.01-14.32.27:428][451]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_CastleWall_Support_2)
+[2019.08.01-14.32.36:508][994]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_Floors_Block19)
+[2019.08.01-14.32.52:139][224]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_CastleArch_03)
+[2019.08.01-14.33.00:777][740]Cmd: TRANSACTION UNDO
+[2019.08.01-14.33.00:777][740]LogEditorTransaction: Undo Move Actors
+[2019.08.01-14.33.02:632][850]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_CastleArch_03)
+[2019.08.01-14.33.18:348][791]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_Floors_Block20)
+[2019.08.01-14.33.19:174][839]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_CastleArch_4)
+[2019.08.01-14.33.23:135][ 75]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_Floors_Block20)
+[2019.08.01-14.33.26:592][281]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.01-14.33.57:981][939]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_CastleArch_4)
+[2019.08.01-14.34.00:728][102]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.01-14.34.07:252][412]LogTexture: Display: Building textures: T_Villa_Pillar_1_D (AutoDXT, 2048X2048)
+[2019.08.01-14.34.07:252][412]LogTexture: Display: Building textures: T_Villa_Pillar_1_D_NRM (BC5, 2048X2048)
+[2019.08.01-14.34.07:252][412]LogMaterial: Display: Missing cached shader map for material M_Villa_Pillar_1, compiling. 
+[2019.08.01-14.34.07:296][412]LogStaticMesh: Building static mesh SM_Exo_Doorframe_02...
+[2019.08.01-14.34.07:303][412]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.01-14.34.07:313][412]LogStaticMesh: Built static mesh [0.02s] /Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_Doorframe_02.SM_Exo_Doorframe_02
+[2019.08.01-14.34.08:852][504]Cmd: TRANSACTION UNDO
+[2019.08.01-14.34.08:853][504]LogEditorTransaction: Undo Edit Static Mesh
+[2019.08.01-14.34.10:925][628]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.01-14.34.34:411][369]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.01-14.35.03:967][141]LogSlate: Took 0.008091 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.08.01-14.35.18:064][986]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Plains_CastleArch_4)
+[2019.08.01-14.35.18:089][986]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.01-14.35.19:048][ 43]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_CastleArch_03)
+[2019.08.01-14.35.23:831][326]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_Floors_Block20)
+[2019.08.01-14.35.24:469][363]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_CastleArch_4)
+[2019.08.01-14.35.28:673][614]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_CastleArch_4)
+[2019.08.01-14.35.37:495][143]Cmd: TRANSACTION UNDO
+[2019.08.01-14.35.37:495][143]LogEditorTransaction: Undo Move Actors
+[2019.08.01-14.35.37:711][156]Cmd: TRANSACTION UNDO
+[2019.08.01-14.35.37:711][156]LogEditorTransaction: Undo Move Actors
+[2019.08.01-14.35.37:928][169]Cmd: TRANSACTION UNDO
+[2019.08.01-14.35.37:928][169]LogEditorTransaction: Undo Clicking on Actors
+[2019.08.01-14.35.38:245][188]Cmd: TRANSACTION UNDO
+[2019.08.01-14.35.38:245][188]LogEditorTransaction: Undo Clicking on Actors
+[2019.08.01-14.35.38:954][230]Cmd: TRANSACTION UNDO
+[2019.08.01-14.35.38:954][230]LogEditorTransaction: Undo Clicking on Actors
+[2019.08.01-14.35.39:385][255]Cmd: TRANSACTION UNDO
+[2019.08.01-14.35.39:385][255]LogEditorTransaction: Undo Select Brush Surface
+[2019.08.01-14.35.39:731][275]Cmd: TRANSACTION UNDO
+[2019.08.01-14.35.39:731][275]LogEditorTransaction: Undo Select Brush Surface
+[2019.08.01-14.35.40:026][292]Cmd: TRANSACTION UNDO
+[2019.08.01-14.35.40:026][292]LogEditorTransaction: Undo Clicking on Actors
+[2019.08.01-14.35.40:375][312]Cmd: TRANSACTION UNDO
+[2019.08.01-14.35.40:375][312]LogEditorTransaction: Undo Clicking on Actors (context menu)
+[2019.08.01-14.35.40:775][336]Cmd: TRANSACTION UNDO
+[2019.08.01-14.35.40:775][336]LogEditorTransaction: Undo Move Actors
+[2019.08.01-14.35.41:692][391]Cmd: TRANSACTION UNDO
+[2019.08.01-14.35.41:692][391]LogEditorTransaction: Undo Move Actors
+[2019.08.01-14.35.52:813][ 58]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_CastleArch_4)
+[2019.08.01-14.35.53:615][106]Cmd: DELETE
+[2019.08.01-14.35.53:615][106]Cmd: ACTOR DELETE
+[2019.08.01-14.35.53:622][106]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.08.01-14.35.53:648][106]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2019.08.01-14.35.53:648][106]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2019.08.01-14.35.54:802][176]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_CastleArch_03)
+[2019.08.01-14.35.57:602][343]Cmd: EDIT COPY
+[2019.08.01-14.35.58:001][367]Cmd: EDIT PASTE
+[2019.08.01-14.36.02:553][639]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.01-14.36.34:539][556]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_Floors_Block19)
+[2019.08.01-14.36.57:325][986]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_Floors_Block24)
+[2019.08.01-14.37.03:894][378]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.01-14.37.03:936][378]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2019.08.01-14.37.04:144][378]LogSavePackage: Moving '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Saved/RuinLevel_Auto2C992AF0443938664D693DCBDD07B07F3.tmp' to '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Saved/Autosaves/Game/RuinLevel/RuinLevel_Auto2.umap'
+[2019.08.01-14.37.04:146][378]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/RuinLevel/RuinLevel' took 0.237
+[2019.08.01-14.37.04:146][378]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.237
+[2019.08.01-14.37.09:274][686]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.08.01-14.37.52:037][487]Cmd: TRANSACTION UNDO
+[2019.08.01-14.37.52:037][487]LogEditorTransaction: Undo Scale Actors
+[2019.08.01-14.38.05:642][303]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_Floors_Block19)
+[2019.08.01-14.38.10:262][579]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_Floors_Block27)
+[2019.08.01-14.38.13:827][792]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_Floors_Block27)
+[2019.08.01-14.38.45:748][ 39]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_Floors_Block20)
+[2019.08.01-14.38.51:783][400]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_CastleArch_4)
+[2019.08.01-14.38.52:733][456]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_Floors_Block27)
+[2019.08.01-14.38.53:384][494]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_Floors_Block27)
+[2019.08.01-14.38.59:026][832]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.01-14.38.59:036][832]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RuinLevel/RuinLevel" FILE="../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Content/RuinLevel/RuinLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.08.01-14.38.59:061][832]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2019.08.01-14.38.59:268][832]LogSavePackage: Moving '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Saved/RuinLevel38CB0B0E40453322A5C9998C660213A5.tmp' to '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Content/RuinLevel/RuinLevel.umap'
+[2019.08.01-14.38.59:287][832]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RuinLevel/RuinLevel_BuiltData" FILE="../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Content/RuinLevel/RuinLevel_BuiltData.uasset" SILENT=true
+[2019.08.01-14.38.59:303][832]LogSavePackage: Moving '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Saved/RuinLevel_BuiltData3E8BF32040CF362ADB0F0CA4E10EB5D4.tmp' to '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Content/RuinLevel/RuinLevel_BuiltData.uasset'
+[2019.08.01-14.39.00:117][881]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_Floors_Block27)
+[2019.08.01-14.39.21:762][720]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_Floors_Block20)
+[2019.08.01-14.40.01:775][943]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.01-14.40.10:202][447]LogActorFactory: Actor Factory created SM_Plains_Buttress_01
+[2019.08.01-14.40.13:137][623]LogActorFactory: Actor Factory created SM_Plains_Buttress_01
+[2019.08.01-14.40.39:491][203]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_Floors_Block19)
+[2019.08.01-14.40.43:684][453]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_Buttress_01)
+[2019.08.01-14.40.48:188][722]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_Floors_Block20)
+[2019.08.01-14.40.48:528][741]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.08.01-14.40.56:137][196]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_Buttress_01)
+[2019.08.01-14.41.04:009][667]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_Buttress_01)
+[2019.08.01-14.41.12:492][175]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_Floors_Block20)
+[2019.08.01-14.41.14:364][286]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_Floors_Block19)
+[2019.08.01-14.41.29:398][517]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_Buttress_2)
+[2019.08.01-14.41.30:770][598]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Plains_Buttress_01)
+[2019.08.01-14.41.34:274][807]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.01-14.41.41:926][266]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.01-14.41.54:549][584]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_Floors_Block27)
+[2019.08.01-14.41.55:954][667]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_Buttress_01)
+[2019.08.01-14.41.57:610][765]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Plains_Buttress_2)
+[2019.08.01-14.42.03:461][115]Cmd: TRANSACTION UNDO
+[2019.08.01-14.42.03:461][115]LogEditorTransaction: Undo Scale Actors
+[2019.08.01-14.42.21:517][ 64]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_Floors_Block20)
+[2019.08.01-14.42.25:536][304]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_Buttress_01)
+[2019.08.01-14.42.34:934][866]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_Floors_Block20)
+[2019.08.01-14.42.50:636][368]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.01-14.42.59:248][885]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.01-14.43.04:656][209]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.08.01-14.43.25:938][119]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_CastleWall_Ruin_14)
+[2019.08.01-14.43.27:077][186]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.08.01-14.43.53:511][502]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.01-14.44.02:732][ 55]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_Floors_Block20)
+[2019.08.01-14.44.04:270][146]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.01-14.44.04:336][150]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.01-14.44.04:344][150]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel' has LevelScriptBlueprint '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.RuinLevel' with GeneratedClass '/Game/RuinLevel/RuinLevel.RuinLevel_C' with ClassGeneratedBy '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.RuinLevel'
+[2019.08.01-14.44.04:352][150]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.01-14.44.04:353][150]PIE: New page: PIE session: RuinLevel (1/8/2019 18:44:04)
+[2019.08.01-14.44.04:367][150]LogPlayLevel: Creating play world package: /Game/RuinLevel/UEDPIE_0_RuinLevel
+[2019.08.01-14.44.04:386][150]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019912s)
+[2019.08.01-14.44.04:387][150]LogAIModule: Creating AISystem for world RuinLevel
+[2019.08.01-14.44.04:387][150]LogPlayLevel: PIE: World Init took: (0.000582s)
+[2019.08.01-14.44.04:387][150]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RuinLevel/RuinLevel.RuinLevel to /Game/RuinLevel/UEDPIE_0_RuinLevel.RuinLevel (0.020779s)
+[2019.08.01-14.44.04:412][150]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2019.08.01-14.44.04:419][150]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.01-14.44.04:434][150]LogInit: FAudioDevice initialized.
+[2019.08.01-14.44.04:477][150]LogLoad: Game class is 'GameModeBase'
+[2019.08.01-14.44.04:483][150]LogWorld: Bringing World /Game/RuinLevel/UEDPIE_0_RuinLevel.RuinLevel up for play (max tick rate 60) at 2019.08.01-16.44.04
+[2019.08.01-14.44.04:483][150]LogWorld: Bringing up level for play took: 0.002290
+[2019.08.01-14.44.04:504][150]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2019.08.01-14.44.04:505][150]PIE: Play in editor start time for /Game/RuinLevel/UEDPIE_0_RuinLevel 0,585
+[2019.08.01-14.44.04:505][150]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel' has LevelScriptBlueprint '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.RuinLevel' with GeneratedClass '/Game/RuinLevel/RuinLevel.RuinLevel_C' with ClassGeneratedBy '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.RuinLevel'
+[2019.08.01-14.44.40:251][294]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel' has LevelScriptBlueprint '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.RuinLevel' with GeneratedClass '/Game/RuinLevel/RuinLevel.RuinLevel_C' with ClassGeneratedBy '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.RuinLevel'
+[2019.08.01-14.44.40:252][294]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.01-14.44.40:280][294]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.01-14.44.40:280][294]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel' has LevelScriptBlueprint '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.RuinLevel' with GeneratedClass '/Game/RuinLevel/RuinLevel.RuinLevel_C' with ClassGeneratedBy '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.RuinLevel'
+[2019.08.01-14.44.40:307][294]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.01-14.44.40:310][294]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2019.08.01-14.44.40:355][297]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2019.08.01-14.44.44:840][566]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_Floors_Block27)
+[2019.08.01-14.44.52:931][ 50]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_Floors_Block19)
+[2019.08.01-14.48.23:101][282]Cmd: TRANSACTION UNDO
+[2019.08.01-14.48.23:101][282]LogEditorTransaction: Undo Move Actors
+[2019.08.01-14.48.23:104][282]LogGeometryMode: Warning: Unable to find 1 Edge(s) in new BSP
+[2019.08.01-14.48.23:104][282]LogGeometryMode: Warning: Unable to resolve BoxBrush Brush in new BSP, see above
+[2019.08.01-14.48.23:104][282]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.08.01-14.49.07:805][841]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_Floors_Block20)
+[2019.08.01-14.49.14:931][267]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_CastleArch_02)
+[2019.08.01-14.49.27:477][ 17]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_Floors_Block21)
+[2019.08.01-14.49.28:940][103]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_CastleArch_3)
+[2019.08.01-14.49.31:630][263]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_Floors_Block20)
+[2019.08.01-14.49.33:333][364]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_CastleArch_3)
+[2019.08.01-14.49.39:392][726]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_Floors_Block20)
+[2019.08.01-14.50.07:573][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2019.08.01-14.50.07:790][ 56]LogSavePackage: Moving '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Saved/RuinLevel_Auto372541AC041E0F37D8821AA9C3B526A29.tmp' to '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Saved/Autosaves/Game/RuinLevel/RuinLevel_Auto3.umap'
+[2019.08.01-14.50.07:791][ 56]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/RuinLevel/RuinLevel' took 0.243
+[2019.08.01-14.50.07:791][ 56]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.243
+[2019.08.01-14.50.09:200][115]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.01-14.50.30:821][409]LogActorFactory: Actor Factory created SM_Plains_Man_Statue_01_torch
+[2019.08.01-14.50.32:574][514]LogActorFactory: Actor Factory created SM_Plains_Man_Statue_01_torch
+[2019.08.01-14.52.07:317][324]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2019.08.01-14.52.07:323][324]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.01-14.52.07:336][324]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RuinLevel/RuinLevel" FILE="../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Content/RuinLevel/RuinLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.08.01-14.52.07:364][324]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2019.08.01-14.52.07:585][324]LogSavePackage: Moving '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Saved/RuinLevelB4F96AE3431DAC976F335A8A3E031F3B.tmp' to '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Content/RuinLevel/RuinLevel.umap'
+[2019.08.01-14.52.07:602][324]LogFileHelpers: Saving map 'RuinLevel' took 0.267
+[2019.08.01-14.54.59:302][626]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.01-14.55.24:413][158]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.01-14.55.58:039][ 82]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_CastleArch_3)
+[2019.08.01-14.55.58:828][128]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_Column_Large_5)
+[2019.08.01-14.56.08:831][726]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.01-14.56.44:937][639]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_Man_Statue_01_torch)
+[2019.08.01-14.57.23:127][926]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_Column_Large_9)
+[2019.08.01-14.57.31:333][417]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_Man_Statue_01_torch)
+[2019.08.01-14.58.05:179][281]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_Column_Large_9)
+[2019.08.01-14.58.06:484][358]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Plains_Man_Statue_01_torch)
+[2019.08.01-14.58.13:929][802]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_Buttress_2)
+[2019.08.01-14.58.14:768][851]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Plains_CastleWall_Support_2)
+[2019.08.01-14.58.57:284][503]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_Column_Large_9)
+[2019.08.01-14.58.58:358][566]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_Man_Statue_01_torch)
+[2019.08.01-14.58.59:273][619]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Plains_Column_Large_9)
+[2019.08.01-14.59.31:810][568]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_CastleWall_Support_3)
+[2019.08.01-14.59.32:946][635]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Plains_Buttress_3)
+[2019.08.01-14.59.44:899][349]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_Floors_Block22)
+[2019.08.01-14.59.45:256][369]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.08.01-14.59.46:598][449]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_Floors_Block21)
+[2019.08.01-15.00.15:411][892]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.01-15.00.15:421][892]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RuinLevel/RuinLevel" FILE="../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Content/RuinLevel/RuinLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.08.01-15.00.15:446][892]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2019.08.01-15.00.15:661][892]LogSavePackage: Moving '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Saved/RuinLevel469765BC44C7753B34111BB8C90E1A0D.tmp' to '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Content/RuinLevel/RuinLevel.umap'
+[2019.08.01-15.00.15:679][892]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RuinLevel/RuinLevel_BuiltData" FILE="../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Content/RuinLevel/RuinLevel_BuiltData.uasset" SILENT=true
+[2019.08.01-15.00.15:695][892]LogSavePackage: Moving '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Saved/RuinLevel_BuiltData2B7A489842609CCA55D4CAAC9255BE91.tmp' to '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Content/RuinLevel/RuinLevel_BuiltData.uasset'
+[2019.08.01-15.00.27:642][110]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.01-15.00.41:158][916]LogActorFactory: Actor Factory created SM_Plains_Buttress_02
+[2019.08.01-15.00.42:161][976]LogActorFactory: Actor Factory created SM_Plains_Buttress_02
+[2019.08.01-15.00.47:153][275]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.01-15.01.31:979][448]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_Man_Statue_01_torch)
+[2019.08.01-15.01.57:013][599]Cmd: EDCALLBACK SURFPROPS
+[2019.08.01-15.01.58:430][682]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.01-15.02.01:637][874]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.08.01-15.02.25:883][325]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.08.01-15.02.32:984][595]Cmd: TRANSACTION UNDO
+[2019.08.01-15.02.32:984][595]LogEditorTransaction: Undo Move Actors
+[2019.08.01-15.02.33:483][618]Cmd: TRANSACTION UNDO
+[2019.08.01-15.02.33:483][618]LogEditorTransaction: Undo Clicking on Actors
+[2019.08.01-15.02.45:456][219]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_Man_Statue_01_torch)
+[2019.08.01-15.02.49:823][365]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_Buttress_02)
+[2019.08.01-15.03.08:773][497]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.08.01-15.03.10:856][621]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_Buttress_02)
+[2019.08.01-15.03.16:623][964]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Plains_Buttress_5)
+[2019.08.01-15.03.16:640][964]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.01-15.03.19:335][125]Cmd: ACTOR MIRROR Y=-1
+[2019.08.01-15.03.25:797][511]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_Buttress_5)
+[2019.08.01-15.03.27:888][634]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.08.01-15.03.51:457][939]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_Buttress_02)
+[2019.08.01-15.03.52:230][984]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Plains_Buttress_5)
+[2019.08.01-15.04.02:052][569]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.08.01-15.04.15:488][260]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_CastleArch_02)
+[2019.08.01-15.04.19:394][493]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Plains_CastleWall_Support_01)
+[2019.08.01-15.04.21:248][603]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Plains_Buttress_01)
+[2019.08.01-15.04.22:068][651]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Plains_Floors_Block27)
+[2019.08.01-15.04.23:079][710]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Plains_CastleArch_03)
+[2019.08.01-15.04.25:251][839]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Plains_Buttress_2)
+[2019.08.01-15.04.26:456][910]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Plains_CastleWall_Support_2)
+[2019.08.01-15.04.27:298][959]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Plains_CastleArch_3)
+[2019.08.01-15.04.28:603][ 36]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Plains_Man_Statue_01_torch)
+[2019.08.01-15.04.29:606][ 95]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Plains_Column_Large_9)
+[2019.08.01-15.04.30:560][151]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Plains_Buttress_3)
+[2019.08.01-15.04.31:722][219]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Plains_Buttress_4)
+[2019.08.01-15.04.32:576][269]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Plains_Buttress_02)
+[2019.08.01-15.04.33:389][316]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Plains_Buttress_6)
+[2019.08.01-15.04.37:582][566]Cmd: TRANSACTION UNDO
+[2019.08.01-15.04.37:582][566]LogEditorTransaction: Undo Move Actors
+[2019.08.01-15.04.38:837][641]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Plains_CastleArch_4)
+[2019.08.01-15.04.41:543][802]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Plains_Buttress_7)
+[2019.08.01-15.04.42:413][853]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Plains_Buttress_5)
+[2019.08.01-15.04.48:040][189]Cmd: TRANSACTION UNDO
+[2019.08.01-15.04.48:040][189]LogEditorTransaction: Undo Move Actors
+[2019.08.01-15.04.48:978][245]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Plains_CastleWall_Support_3)
+[2019.08.01-15.04.50:350][326]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Plains_CastleWall_Support_4)
+[2019.08.01-15.05.30:314][720]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_Floors_Block20)
+[2019.08.01-15.05.31:819][809]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_Floors_Block03)
+[2019.08.01-15.06.03:581][329]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_Column_Large_8)
+[2019.08.01-15.06.23:213][504]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_Column_Large_8)
+[2019.08.01-15.06.24:953][606]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.08.01-15.08.12:337][348]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_Buttress_01)
+[2019.08.01-15.08.21:125][873]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.01-15.08.27:613][262]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.01-15.08.38:533][723]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.01-15.08.53:202][603]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.01-15.10.15:288][428]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_Floors_Block21)
+[2019.08.01-15.10.27:667][169]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.01-15.10.27:680][169]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RuinLevel/RuinLevel" FILE="../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Content/RuinLevel/RuinLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.08.01-15.10.27:705][169]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2019.08.01-15.10.27:925][169]LogSavePackage: Moving '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Saved/RuinLevelC48AB6714F1D1DE22DF3418C3B6B24FC.tmp' to '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Content/RuinLevel/RuinLevel.umap'
+[2019.08.01-15.10.27:943][169]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RuinLevel/RuinLevel_BuiltData" FILE="../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Content/RuinLevel/RuinLevel_BuiltData.uasset" SILENT=true
+[2019.08.01-15.10.27:959][169]LogSavePackage: Moving '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Saved/RuinLevel_BuiltData69914F164EB3A4486A980E9C81A1B413.tmp' to '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Content/RuinLevel/RuinLevel_BuiltData.uasset'
+[2019.08.01-17.04.21:122][566]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.01-17.04.21:122][566]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.01-17.04.21:122][566]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.01-17.04.21:122][566]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.01-17.04.21:122][566]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.01-17.04.21:122][566]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.01-17.04.21:122][566]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.01-17.04.21:122][566]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.01-17.04.21:123][566]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.01-17.04.21:123][566]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.01-17.04.21:123][566]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.01-17.04.21:123][566]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.01-17.04.21:123][566]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.01-17.04.21:124][566]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.01-17.04.21:124][566]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.01-17.04.21:124][566]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.01-17.04.21:125][566]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.01-17.04.21:125][566]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.01-17.04.21:125][566]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.01-17.04.21:125][566]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.01-17.04.21:125][566]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.01-17.04.21:125][566]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.01-17.04.21:125][566]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.01-17.04.21:125][566]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.01-17.04.21:125][566]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.01-17.04.21:125][566]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.01-17.04.21:125][566]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.01-17.04.21:125][566]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.01-17.04.21:125][566]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.01-17.04.21:125][566]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.01-17.04.21:125][566]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.01-17.04.21:125][566]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.01-17.04.21:126][566]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.01-17.04.21:126][566]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.01-17.04.21:126][566]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.01-17.04.21:127][566]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.01-17.04.21:127][566]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.01-17.04.21:127][566]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.01-17.04.21:128][566]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.01-17.04.21:128][566]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.01-17.04.21:128][566]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.01-17.04.21:128][566]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.01-17.04.21:129][566]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.01-17.04.21:130][566]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.01-17.04.21:130][566]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.01-17.04.21:130][566]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.01-17.04.21:130][566]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.01-17.04.21:130][566]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.01-17.04.21:130][566]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.01-17.04.21:131][566]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.01-17.04.21:131][566]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.01-17.04.21:131][566]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.010 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.01-17.04.21:132][566]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.010 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.01-17.04.21:132][566]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.010 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.01-17.04.21:132][566]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.010 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.01-17.04.21:132][566]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.010 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.01-17.04.21:132][566]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.010 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.01-17.04.21:132][566]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.010 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.01-17.04.21:132][566]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.010 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.01-17.04.21:132][566]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.010 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.01-17.04.21:132][566]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.010 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.01-17.04.21:132][566]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.010 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.01-17.04.21:132][566]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.010 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.01-17.04.21:132][566]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.010 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.01-17.04.21:132][566]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.010 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.01-17.04.21:132][566]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.010 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.01-17.04.21:132][566]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.011 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.01-17.04.21:132][566]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.011 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.01-17.04.21:132][566]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.011 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.01-17.04.21:132][566]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.011 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.01-17.04.21:132][566]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.011 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.01-17.04.21:132][566]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.011 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.01-17.04.21:133][566]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.011 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.01-17.04.21:133][566]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.011 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.01-17.04.21:133][566]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.011 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.01-17.04.21:133][566]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.011 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.01-17.04.21:133][566]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.011 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.01-17.04.21:133][566]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.011 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.01-17.04.21:133][566]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.011 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.01-17.04.21:133][566]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.011 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.01-17.04.21:133][566]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.011 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.01-17.04.21:133][566]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.011 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.01-17.04.21:133][566]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.011 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.01-17.04.21:133][566]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.011 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.01-17.04.21:133][566]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.011 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.01-17.04.21:133][566]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.011 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.01-17.04.21:133][566]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.01-17.04.21:133][566]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.01-17.04.21:133][566]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.01-17.04.21:133][566]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.01-17.04.21:134][566]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.01-17.04.21:134][566]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.01-17.04.21:134][566]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.013 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.01-17.04.21:135][566]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.013 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.01-17.04.21:135][566]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.013 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.01-17.04.21:135][566]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.014 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.01-17.04.21:136][566]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.014 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.01-17.04.21:136][566]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.014 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.01-17.04.21:136][566]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.014 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.01-17.04.21:136][566]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.014 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.01-17.04.21:136][566]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.014 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.01-17.04.21:136][566]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.014 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.01-17.04.21:136][566]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.014 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.01-17.04.21:137][566]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.014 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.01-17.04.21:137][566]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.015 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.01-17.04.21:137][566]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.015 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.01-17.04.21:137][566]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.015 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.01-17.04.21:137][566]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.015 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.01-17.04.21:137][566]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.015 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.01-17.04.21:137][566]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.015 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.01-17.04.21:137][566]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.015 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.01-17.04.21:137][566]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.015 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.01-17.04.40:624][ 11]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (19.502 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.01-17.05.43:174][554]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.01-17.05.46:660][763]LogActorFactory: Actor Factory created SM_Plains_Castle_Bridge_Wall_01
+[2019.08.01-17.05.48:097][849]LogActorFactory: Actor Factory created SM_Plains_Castle_Bridge_Wall_01
+[2019.08.01-17.05.52:415][107]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.01-17.06.10:966][989]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_Column_Large_10)
+[2019.08.01-17.06.23:059][712]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_Castle_Bridge_Wall_17)
+[2019.08.01-17.07.15:830][875]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.08.01-17.07.16:878][937]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_Castle_Bridge_Wall_18)
+[2019.08.01-17.07.19:994][122]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.08.01-17.07.23:454][328]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_Castle_Bridge_Wall_18)
+[2019.08.01-17.07.26:763][525]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Plains_Castle_Bridge_Wall_18)
+[2019.08.01-17.07.26:781][525]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.01-17.07.27:982][597]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2019.08.01-17.07.28:008][597]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.01-17.07.28:917][651]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.08.01-17.07.41:000][ 30]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_Castle_Bridge_Wall_18)
+[2019.08.01-17.07.55:223][880]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.08.01-17.08.20:709][408]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.01-17.08.20:749][408]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2019.08.01-17.08.20:973][408]LogSavePackage: Moving '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Saved/RuinLevel_Auto4D6F709DB45C38887649BA58370C9D1FC.tmp' to '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Saved/Autosaves/Game/RuinLevel/RuinLevel_Auto4.umap'
+[2019.08.01-17.08.20:975][408]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/RuinLevel/RuinLevel' took 0.249
+[2019.08.01-17.08.20:975][408]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.249
+[2019.08.01-17.10.45:799][855]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_Floors_Block7)
+[2019.08.01-17.10.46:539][898]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_Floors_Block8)
+[2019.08.01-17.10.47:247][939]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_Floors_Block9)
+[2019.08.01-17.10.47:801][971]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_Floors_Block10)
+[2019.08.01-17.10.48:504][ 12]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_Floors_Block15)
+[2019.08.01-17.12.52:923][477]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.01-17.12.55:465][620]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_Man_Statue_01_torch)
+[2019.08.01-17.12.57:286][728]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.08.01-17.12.57:919][766]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.08.01-17.13.00:553][924]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.01-17.13.10:172][501]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.01-17.13.15:504][814]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.01-17.13.21:437][170]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.ModelComponent_96, Buffer: dff8fe0, Buffer Size: 0, Element: 0
+[2019.08.01-17.13.21:437][170]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.ModelComponent_96, Buffer: dff9030, Buffer Size: 0, Element: 1
+[2019.08.01-17.13.21:437][170]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.ModelComponent_96, Buffer: dff8fe0, Buffer Size: 0, Element: 2
+[2019.08.01-17.13.21:438][170]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.ModelComponent_96, Buffer: dff8fe0, Buffer Size: 0, Element: 3
+[2019.08.01-17.13.21:438][170]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.ModelComponent_96' invalid (24 verts, 0 indices).
+[2019.08.01-17.13.21:438][170]LogPhysics: Warning: Attempt to build physics data for /Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.ModelComponent_96.BodySetup_0 when we are unable to.
+[2019.08.01-17.13.21:438][170]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.ModelComponent_97, Buffer: dff8fe0, Buffer Size: 0, Element: 0
+[2019.08.01-17.13.21:438][170]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.ModelComponent_97' invalid (24 verts, 0 indices).
+[2019.08.01-17.13.21:438][170]LogPhysics: Warning: Attempt to build physics data for /Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.ModelComponent_97.BodySetup_0 when we are unable to.
+[2019.08.01-17.13.21:438][170]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.ModelComponent_98, Buffer: dff8fe0, Buffer Size: 0, Element: 0
+[2019.08.01-17.13.21:438][170]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.ModelComponent_98' invalid (24 verts, 0 indices).
+[2019.08.01-17.13.21:438][170]LogPhysics: Warning: Attempt to build physics data for /Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.ModelComponent_98.BodySetup_0 when we are unable to.
+[2019.08.01-17.13.36:298][ 61]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.01-17.13.41:179][353]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_Floors_Block19)
+[2019.08.01-17.13.43:369][483]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.01-17.14.02:879][647]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Plains_Buttress_4)
+[2019.08.01-17.14.04:390][736]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Plains_CastleArch_3)
+[2019.08.01-17.14.05:862][823]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Plains_CastleWall_Support_4)
+[2019.08.01-17.14.13:040][252]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Plains_Floors_Block27)
+[2019.08.01-17.15.00:216][ 76]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Plains_Buttress_14)
+[2019.08.01-17.15.00:234][ 76]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.01-17.15.03:490][271]Cmd: ACTOR MIRROR Y=-1
+[2019.08.01-17.15.27:162][691]Cmd: TRANSACTION UNDO
+[2019.08.01-17.15.27:162][691]LogEditorTransaction: Undo Move Actors
+[2019.08.01-17.15.27:551][714]Cmd: TRANSACTION UNDO
+[2019.08.01-17.15.27:551][714]LogEditorTransaction: Undo Move Actors
+[2019.08.01-17.15.27:944][737]Cmd: TRANSACTION UNDO
+[2019.08.01-17.15.27:944][737]LogEditorTransaction: Undo Mirroring Actors
+[2019.08.01-17.15.28:364][762]Cmd: TRANSACTION UNDO
+[2019.08.01-17.15.28:364][762]LogEditorTransaction: Undo Clicking on Actors (context menu)
+[2019.08.01-17.15.28:763][786]Cmd: TRANSACTION UNDO
+[2019.08.01-17.15.28:763][786]LogEditorTransaction: Undo Move Actors
+[2019.08.01-17.15.29:181][811]Cmd: TRANSACTION UNDO
+[2019.08.01-17.15.29:181][811]LogEditorTransaction: Undo Move Actors
+[2019.08.01-17.15.29:210][811]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.ModelComponent_96, Buffer: 5bc4df30, Buffer Size: 0, Element: 0
+[2019.08.01-17.15.29:210][811]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.ModelComponent_96, Buffer: 5bc4fd30, Buffer Size: 0, Element: 1
+[2019.08.01-17.15.29:210][811]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.ModelComponent_96, Buffer: 5bc4df30, Buffer Size: 0, Element: 2
+[2019.08.01-17.15.29:210][811]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.ModelComponent_96, Buffer: 5bc4df30, Buffer Size: 0, Element: 3
+[2019.08.01-17.15.29:210][811]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.ModelComponent_96' invalid (24 verts, 0 indices).
+[2019.08.01-17.15.29:210][811]LogPhysics: Warning: Attempt to build physics data for /Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.ModelComponent_96.BodySetup_0 when we are unable to.
+[2019.08.01-17.15.29:210][811]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.ModelComponent_97, Buffer: 5bc4df30, Buffer Size: 0, Element: 0
+[2019.08.01-17.15.29:210][811]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.ModelComponent_97' invalid (24 verts, 0 indices).
+[2019.08.01-17.15.29:210][811]LogPhysics: Warning: Attempt to build physics data for /Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.ModelComponent_97.BodySetup_0 when we are unable to.
+[2019.08.01-17.15.29:211][811]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.ModelComponent_98, Buffer: 5bc4df30, Buffer Size: 0, Element: 0
+[2019.08.01-17.15.29:211][811]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.ModelComponent_98' invalid (24 verts, 0 indices).
+[2019.08.01-17.15.29:211][811]LogPhysics: Warning: Attempt to build physics data for /Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.ModelComponent_98.BodySetup_0 when we are unable to.
+[2019.08.01-17.15.35:575][193]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_Man_Statue_01_torch)
+[2019.08.01-17.15.37:581][312]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Plains_Column_Large_9)
+[2019.08.01-17.15.38:620][373]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Plains_Buttress_3)
+[2019.08.01-17.15.39:930][450]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Plains_CastleWall_Support_3)
+[2019.08.01-17.15.46:540][845]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.01-17.15.49:173][997]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.01-17.15.58:124][534]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.01-17.15.58:309][544]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.01-17.15.59:497][614]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.01-17.16.00:603][679]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.01-17.16.01:371][725]LogEditorViewport: Clicking Background
+[2019.08.01-17.16.02:338][783]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.01-17.16.16:210][607]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Plains_Floors_Block03)
+[2019.08.01-17.16.19:751][818]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Plains_Castle_Railing_Curved)
+[2019.08.01-17.16.30:957][485]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Plains_Buttress_15)
+[2019.08.01-17.16.30:977][485]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.01-17.16.33:624][643]Cmd: ACTOR MIRROR Y=-1
+[2019.08.01-17.16.49:808][613]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_CastleWall_Support_7)
+[2019.08.01-17.16.51:483][712]Cmd: TRANSACTION UNDO
+[2019.08.01-17.16.51:483][712]LogEditorTransaction: Undo Clicking on Actors
+[2019.08.01-17.16.53:893][855]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_Buttress_12)
+[2019.08.01-17.16.55:801][968]Cmd: DELETE
+[2019.08.01-17.16.55:801][968]Cmd: ACTOR DELETE
+[2019.08.01-17.16.55:804][968]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.08.01-17.16.55:830][968]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2019.08.01-17.16.55:830][968]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2019.08.01-17.16.56:507][  9]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_CastleWall_Support_7)
+[2019.08.01-17.16.56:681][ 18]Cmd: DELETE
+[2019.08.01-17.16.56:682][ 18]Cmd: ACTOR DELETE
+[2019.08.01-17.16.56:685][ 18]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.08.01-17.16.56:708][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2019.08.01-17.16.56:708][ 18]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2019.08.01-17.17.49:817][201]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.01-17.17.49:828][201]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RuinLevel/RuinLevel" FILE="../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Content/RuinLevel/RuinLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.08.01-17.17.49:852][201]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2019.08.01-17.17.50:082][201]LogSavePackage: Moving '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Saved/RuinLevel1B3D296246A4DE1C5E86179FB868189F.tmp' to '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Content/RuinLevel/RuinLevel.umap'
+[2019.08.01-17.17.50:100][201]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RuinLevel/RuinLevel_BuiltData" FILE="../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Content/RuinLevel/RuinLevel_BuiltData.uasset" SILENT=true
+[2019.08.01-17.17.50:116][201]LogSavePackage: Moving '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Saved/RuinLevel_BuiltData13B6168B49120A35BE9B54883EE93D0E.tmp' to '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Content/RuinLevel/RuinLevel_BuiltData.uasset'
+[2019.08.01-17.20.22:724][357]LogEditorViewport: Clicking Background
+[2019.08.01-17.20.27:858][665]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.01-17.25.10:476][971]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.01-17.25.14:648][221]LogActorFactory: Actor Factory created SM_Plains_CastleTower_Ruin_02
+[2019.08.01-17.25.21:485][631]LogActorFactory: Actor Factory created SM_Plains_CastleTower_Ruin_02
+[2019.08.01-17.25.47:322][179]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_CastleTower_Ruin_02)
+[2019.08.01-17.25.52:132][467]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.08.01-17.25.53:937][574]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_CastleTower_Ruin_02)
+[2019.08.01-17.25.59:143][884]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.08.01-17.26.04:644][212]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.01-17.26.08:402][437]LogActorFactory: Actor Factory created SM_Plains_CastleWall_Ruin_01
+[2019.08.01-17.26.10:187][544]LogActorFactory: Actor Factory created SM_Plains_CastleWall_Ruin_01
+[2019.08.01-17.26.18:966][723]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.01-17.26.43:199][622]Cmd: TRANSACTION UNDO
+[2019.08.01-17.26.43:200][622]LogEditorTransaction: Undo Move Actors
+[2019.08.01-17.26.43:515][641]Cmd: TRANSACTION UNDO
+[2019.08.01-17.26.43:515][641]LogEditorTransaction: Undo Set Scale
+[2019.08.01-17.26.43:952][667]Cmd: TRANSACTION UNDO
+[2019.08.01-17.26.43:952][667]LogEditorTransaction: Undo Create Actors
+[2019.08.01-17.26.45:134][737]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.01-17.26.51:437][115]LogActorFactory: Actor Factory created SM_Plains_CastleWall_Ruin_01
+[2019.08.01-17.26.53:724][252]LogActorFactory: Actor Factory created SM_Plains_CastleWall_Ruin_01
+[2019.08.01-17.26.55:007][328]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.01-17.27.25:252][141]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.08.01-17.27.48:487][919]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_CastleWall_Ruin_01)
+[2019.08.01-17.27.53:917][242]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Plains_CastleWall_Ruin_2)
+[2019.08.01-17.27.53:935][242]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.01-17.27.54:326][265]LogConsoleManager: Warning: Console object named 'ActorComponents.Enable' already exists but is being registered again, but we weren't expected it to be! (FConsoleManager::AddConsoleObject)
+[2019.08.01-17.27.58:813][534]Cmd: ACTOR MIRROR Y=-1
+[2019.08.01-17.28.09:715][187]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Plains_CastleWall_Ruin_01)
+[2019.08.01-17.28.09:748][187]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.01-17.28.10:773][248]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.08.01-17.28.27:479][977]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_CastleWall_Ruin_2)
+[2019.08.01-17.28.28:546][ 39]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Plains_CastleWall_Ruin_01)
+[2019.08.01-17.28.44:069][967]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Plains_CastleWall_Ruin_2)
+[2019.08.01-17.28.44:101][967]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.01-17.28.44:775][  7]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.08.01-17.28.50:803][367]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_CastleWall_Ruin_4)
+[2019.08.01-17.28.51:550][410]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Plains_CastleWall_Ruin_3)
+[2019.08.01-17.29.01:133][983]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.08.01-17.29.20:169][123]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_CastleWall_Ruin_4)
+[2019.08.01-17.29.27:355][548]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Plains_Floors_Block2)
+[2019.08.01-17.29.27:388][548]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.01-17.29.28:365][606]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_CastleTower_Ruin_02)
+[2019.08.01-17.29.34:957][998]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_CastleTower_Ruin_3)
+[2019.08.01-17.29.35:672][ 39]Cmd: DELETE
+[2019.08.01-17.29.35:672][ 39]Cmd: ACTOR DELETE
+[2019.08.01-17.29.35:676][ 39]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.08.01-17.29.35:702][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2019.08.01-17.29.35:702][ 39]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2019.08.01-17.29.44:781][584]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_CastleTower_Ruin_4)
+[2019.08.01-17.29.55:980][254]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.08.01-17.30.21:529][864]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.01-17.30.21:571][864]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2019.08.01-17.30.21:809][864]LogSavePackage: Moving '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Saved/RuinLevel_Auto52E39F9254C26B4E622B2A6857FC615A5.tmp' to '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Saved/Autosaves/Game/RuinLevel/RuinLevel_Auto5.umap'
+[2019.08.01-17.30.21:810][864]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/RuinLevel/RuinLevel' took 0.266
+[2019.08.01-17.30.21:810][864]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.266
+[2019.08.01-17.31.01:484][  2]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_CastleTower_Ruin_4)
+[2019.08.01-17.31.02:428][ 57]Cmd: DELETE
+[2019.08.01-17.31.02:429][ 57]Cmd: ACTOR DELETE
+[2019.08.01-17.31.02:432][ 57]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.08.01-17.31.02:458][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2019.08.01-17.31.02:458][ 57]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2019.08.01-17.31.22:016][231]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.01-17.32.17:897][579]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_Scrap_Bridge2)
+[2019.08.01-17.32.24:356][964]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.01-17.32.31:630][400]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.01-17.32.54:311][759]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.08.01-17.32.57:547][952]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_Scrap_Bridge5)
+[2019.08.01-17.33.03:458][305]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.01-17.33.16:796][104]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.01-17.33.55:928][428]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_Scrap_Bridge5)
+[2019.08.01-17.33.56:720][474]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.08.01-17.34.09:757][254]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_Scrap_Bridge6)
+[2019.08.01-17.34.20:698][906]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.08.01-17.34.27:196][293]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_CastleWall_Ruin_4)
+[2019.08.01-17.34.28:245][354]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Plains_Scrap_Bridge7)
+[2019.08.01-17.34.29:141][406]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Plains_CastleWall_Ruin_3)
+[2019.08.01-17.34.30:070][460]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Plains_CastleWall_Ruin_2)
+[2019.08.01-17.34.31:176][525]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Plains_Scrap_Bridge6)
+[2019.08.01-17.34.31:704][555]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Plains_Scrap_Bridge5)
+[2019.08.01-17.34.32:710][614]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Plains_CastleTower_Ruin_02)
+[2019.08.01-17.34.36:201][821]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Plains_CastleWall_Ruin_01)
+[2019.08.01-17.35.43:814][863]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.08.01-17.35.45:523][964]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_CastleTower_Ruin_4)
+[2019.08.01-17.35.51:488][319]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.08.01-17.36.00:283][844]Cmd: TRANSACTION UNDO
+[2019.08.01-17.36.00:283][844]LogEditorTransaction: Undo Clicking on Actors
+[2019.08.01-17.36.00:492][855]Cmd: TRANSACTION UNDO
+[2019.08.01-17.36.00:492][855]LogEditorTransaction: Undo Rotate Actors
+[2019.08.01-17.36.00:747][870]Cmd: TRANSACTION UNDO
+[2019.08.01-17.36.00:747][870]LogEditorTransaction: Undo Clicking on Actors
+[2019.08.01-17.36.01:065][888]Cmd: TRANSACTION UNDO
+[2019.08.01-17.36.01:065][888]LogEditorTransaction: Undo Clicking on Actors
+[2019.08.01-17.36.01:284][900]Cmd: TRANSACTION UNDO
+[2019.08.01-17.36.01:284][900]LogEditorTransaction: Undo Move Actors
+[2019.08.01-17.36.01:584][918]Cmd: TRANSACTION UNDO
+[2019.08.01-17.36.01:584][918]LogEditorTransaction: Undo Move Actors
+[2019.08.01-17.36.01:801][931]Cmd: TRANSACTION UNDO
+[2019.08.01-17.36.01:801][931]LogEditorTransaction: Undo Move Actors
+[2019.08.01-17.36.02:084][948]Cmd: TRANSACTION UNDO
+[2019.08.01-17.36.02:084][948]LogEditorTransaction: Undo Move Actors
+[2019.08.01-17.36.02:401][967]Cmd: TRANSACTION UNDO
+[2019.08.01-17.36.02:401][967]LogEditorTransaction: Undo Move Actors
+[2019.08.01-17.36.02:717][986]Cmd: TRANSACTION UNDO
+[2019.08.01-17.36.02:717][986]LogEditorTransaction: Undo Rotate Actors
+[2019.08.01-17.36.02:972][  1]Cmd: TRANSACTION UNDO
+[2019.08.01-17.36.02:972][  1]LogEditorTransaction: Undo Move Actors
+[2019.08.01-17.36.03:227][ 15]Cmd: TRANSACTION UNDO
+[2019.08.01-17.36.03:227][ 15]LogEditorTransaction: Undo Move Actors
+[2019.08.01-17.39.07:811][403]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_CastleTower_Ruin_3)
+[2019.08.01-17.39.08:507][443]Cmd: DELETE
+[2019.08.01-17.39.08:507][443]Cmd: ACTOR DELETE
+[2019.08.01-17.39.08:510][443]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.08.01-17.39.08:535][443]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2019.08.01-17.39.08:536][443]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2019.08.01-17.39.15:002][831]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_Scrap_Bridge7)
+[2019.08.01-17.39.16:434][915]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Plains_CastleWall_Ruin_4)
+[2019.08.01-17.39.17:181][958]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Plains_CastleWall_Ruin_3)
+[2019.08.01-17.39.17:988][  5]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Plains_CastleWall_Ruin_2)
+[2019.08.01-17.39.20:439][150]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Plains_Scrap_Bridge6)
+[2019.08.01-17.39.20:882][175]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Plains_Scrap_Bridge5)
+[2019.08.01-17.39.21:786][228]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Plains_CastleWall_Ruin_01)
+[2019.08.01-17.39.37:676][178]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_CastleTower_Ruin_4)
+[2019.08.01-17.39.38:403][220]Cmd: DELETE
+[2019.08.01-17.39.38:403][220]Cmd: ACTOR DELETE
+[2019.08.01-17.39.38:406][220]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.08.01-17.39.38:431][220]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2019.08.01-17.39.38:432][220]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2019.08.01-17.39.41:216][387]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Plains_CastleWall_Ruin_24)
+[2019.08.01-17.39.41:253][387]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.01-17.39.42:165][441]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_Scrap_Bridge11)
+[2019.08.01-17.39.43:343][510]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Plains_CastleWall_Ruin_24)
+[2019.08.01-17.39.44:155][557]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Plains_Scrap_Bridge12)
+[2019.08.01-17.39.44:850][597]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Plains_CastleWall_Ruin_25)
+[2019.08.01-17.39.48:025][785]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Plains_CastleWall_Ruin_26)
+[2019.08.01-17.39.48:684][823]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Plains_CastleWall_Ruin_27)
+[2019.08.01-17.39.49:158][850]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Plains_Scrap_Bridge13)
+[2019.08.01-17.40.23:534][598]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_CastleWall_Ruin_24)
+[2019.08.01-17.40.24:117][631]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_CastleWall_Ruin_24)
+[2019.08.01-17.40.34:831][272]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Plains_CastleWall_Ruin_28)
+[2019.08.01-17.40.34:851][272]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.01-17.40.40:742][625]Cmd: ACTOR MIRROR X=-1
+[2019.08.01-17.40.46:146][949]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.08.01-17.40.54:630][456]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_Scrap_Bridge11)
+[2019.08.01-17.40.59:633][753]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.08.01-17.41.08:716][296]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_CastleWall_Ruin_28)
+[2019.08.01-17.41.28:868][500]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_Floors_Block11)
+[2019.08.01-17.41.30:868][618]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Plains_CastleWall_Ruin_29)
+[2019.08.01-17.41.30:905][618]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.01-17.41.31:754][668]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_CastleWall_Ruin_29)
+[2019.08.01-17.41.34:546][834]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.08.01-17.41.42:772][325]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_CastleWall_Ruin_29)
+[2019.08.01-17.41.54:616][ 33]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_Floors_Block7)
+[2019.08.01-17.42.00:538][386]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_Scrap_Bridge10)
+[2019.08.01-17.42.05:460][679]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.08.01-17.42.06:135][718]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_Scrap_Bridge10)
+[2019.08.01-17.42.09:391][911]Cmd: TRANSACTION UNDO
+[2019.08.01-17.42.09:391][911]LogEditorTransaction: Undo Move Actors
+[2019.08.01-17.42.18:289][442]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.08.01-17.42.30:145][151]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.01-17.42.30:156][151]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RuinLevel/RuinLevel" FILE="../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Content/RuinLevel/RuinLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.08.01-17.42.30:179][151]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2019.08.01-17.42.30:429][151]LogSavePackage: Moving '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Saved/RuinLevel65BFF88F4D042B39E987759C6BF94D40.tmp' to '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Content/RuinLevel/RuinLevel.umap'
+[2019.08.01-17.42.30:448][151]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RuinLevel/RuinLevel_BuiltData" FILE="../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Content/RuinLevel/RuinLevel_BuiltData.uasset" SILENT=true
+[2019.08.01-17.42.30:464][151]LogSavePackage: Moving '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Saved/RuinLevel_BuiltData11C8B27A4EB3A736DD1D13BE4CEEAD11.tmp' to '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Content/RuinLevel/RuinLevel_BuiltData.uasset'
+[2019.08.01-17.43.07:010][478]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_CastleWall_Ruin_5)
+[2019.08.01-17.43.08:007][536]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Plains_Scrap_Bridge8)
+[2019.08.01-17.43.09:202][606]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Plains_Scrap_Bridge9)
+[2019.08.01-17.43.10:010][653]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Plains_CastleWall_Ruin_6)
+[2019.08.01-17.43.10:889][704]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Plains_CastleWall_Ruin_7)
+[2019.08.01-17.43.11:798][757]LogEditorViewport: Clicking on Actor (CTRL LMB): Landscape (Landscape)
+[2019.08.01-17.43.14:950][943]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Plains_Scrap_Bridge16)
+[2019.08.01-17.43.15:845][995]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Plains_CastleWall_Ruin_23)
+[2019.08.01-17.43.16:807][ 51]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Plains_Castle_Railing_Curved)
+[2019.08.01-17.43.23:431][444]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Plains_Scrap_Bridge10)
+[2019.08.01-17.43.24:327][496]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Plains_CastleWall_Ruin_29)
+[2019.08.01-17.43.37:059][257]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_Floors_Block5)
+[2019.08.01-17.43.44:580][706]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_Scrap_Bridge13)
+[2019.08.01-17.43.45:415][754]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Plains_CastleWall_Ruin_27)
+[2019.08.01-17.43.46:026][789]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Plains_CastleWall_Ruin_26)
+[2019.08.01-17.43.46:817][835]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Plains_CastleWall_Ruin_25)
+[2019.08.01-17.43.47:559][878]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Plains_Scrap_Bridge12)
+[2019.08.01-17.43.48:455][930]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Plains_CastleWall_Ruin_24)
+[2019.08.01-17.43.49:501][991]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Plains_CastleWall_Ruin_28)
+[2019.08.01-17.43.50:696][ 61]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Plains_Scrap_Bridge14)
+[2019.08.01-17.44.04:954][912]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_Floors_Block13)
+[2019.08.01-17.44.05:949][970]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.08.01-17.44.38:603][923]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.01-17.44.38:615][923]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RuinLevel/RuinLevel" FILE="../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Content/RuinLevel/RuinLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.08.01-17.44.38:639][923]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2019.08.01-17.44.38:884][923]LogSavePackage: Moving '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Saved/RuinLevelAA99EAAB46759EB9A771409810294136.tmp' to '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Content/RuinLevel/RuinLevel.umap'
+[2019.08.01-17.44.38:901][923]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RuinLevel/RuinLevel_BuiltData" FILE="../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Content/RuinLevel/RuinLevel_BuiltData.uasset" SILENT=true
+[2019.08.01-17.44.38:916][923]LogSavePackage: Moving '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Saved/RuinLevel_BuiltData74DF504340773605142949889F671D2F.tmp' to '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Content/RuinLevel/RuinLevel_BuiltData.uasset'
+[2019.08.01-17.45.14:483][255]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.01-17.45.14:566][260]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.01-17.45.14:574][260]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel' has LevelScriptBlueprint '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.RuinLevel' with GeneratedClass '/Game/RuinLevel/RuinLevel.RuinLevel_C' with ClassGeneratedBy '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.RuinLevel'
+[2019.08.01-17.45.14:574][260]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.01-17.45.14:574][260]PIE: New page: PIE session: RuinLevel (1/8/2019 21:45:14)
+[2019.08.01-17.45.14:574][260]LogPlayLevel: Creating play world package: /Game/RuinLevel/UEDPIE_0_RuinLevel
+[2019.08.01-17.45.14:597][260]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022767s)
+[2019.08.01-17.45.14:598][260]LogAIModule: Creating AISystem for world RuinLevel
+[2019.08.01-17.45.14:599][260]LogPlayLevel: PIE: World Init took: (0.001129s)
+[2019.08.01-17.45.14:599][260]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RuinLevel/RuinLevel.RuinLevel to /Game/RuinLevel/UEDPIE_0_RuinLevel.RuinLevel (0.024113s)
+[2019.08.01-17.45.14:624][260]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2019.08.01-17.45.14:628][260]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.01-17.45.14:644][260]LogInit: FAudioDevice initialized.
+[2019.08.01-17.45.14:670][260]LogLoad: Game class is 'GameModeBase'
+[2019.08.01-17.45.14:674][260]LogWorld: Bringing World /Game/RuinLevel/UEDPIE_0_RuinLevel.RuinLevel up for play (max tick rate 60) at 2019.08.01-19.45.14
+[2019.08.01-17.45.14:675][260]LogWorld: Bringing up level for play took: 0.003968
+[2019.08.01-17.45.14:689][260]PIE: Play in editor start time for /Game/RuinLevel/UEDPIE_0_RuinLevel 0,78
+[2019.08.01-17.45.14:689][260]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel' has LevelScriptBlueprint '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.RuinLevel' with GeneratedClass '/Game/RuinLevel/RuinLevel.RuinLevel_C' with ClassGeneratedBy '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.RuinLevel'
+[2019.08.01-17.45.29:516][149]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel' has LevelScriptBlueprint '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.RuinLevel' with GeneratedClass '/Game/RuinLevel/RuinLevel.RuinLevel_C' with ClassGeneratedBy '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.RuinLevel'
+[2019.08.01-17.45.29:516][149]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.01-17.45.29:547][149]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.01-17.45.29:548][149]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel' has LevelScriptBlueprint '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.RuinLevel' with GeneratedClass '/Game/RuinLevel/RuinLevel.RuinLevel_C' with ClassGeneratedBy '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.RuinLevel'
+[2019.08.01-17.45.29:574][149]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.01-17.45.29:577][149]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2019.08.01-17.45.29:625][152]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2019.08.01-17.45.30:897][228]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.01-17.45.50:359][396]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.08.01-17.45.51:347][454]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_CastleArch_Ruin_2)
+[2019.08.01-17.45.51:444][458]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.08.01-17.45.52:856][542]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.08.01-17.45.54:980][668]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.01-17.45.56:902][774]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.01-17.45.57:822][823]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.01-17.45.57:888][827]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.01-17.45.57:897][827]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel' has LevelScriptBlueprint '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.RuinLevel' with GeneratedClass '/Game/RuinLevel/RuinLevel.RuinLevel_C' with ClassGeneratedBy '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.RuinLevel'
+[2019.08.01-17.45.57:897][827]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.01-17.45.57:897][827]PIE: New page: PIE session: RuinLevel (1/8/2019 21:45:57)
+[2019.08.01-17.45.57:897][827]LogPlayLevel: Creating play world package: /Game/RuinLevel/UEDPIE_0_RuinLevel
+[2019.08.01-17.45.57:919][827]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021786s)
+[2019.08.01-17.45.57:919][827]LogAIModule: Creating AISystem for world RuinLevel
+[2019.08.01-17.45.57:926][827]LogPlayLevel: PIE: World Init took: (0.007704s)
+[2019.08.01-17.45.57:927][827]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RuinLevel/RuinLevel.RuinLevel to /Game/RuinLevel/UEDPIE_0_RuinLevel.RuinLevel (0.029654s)
+[2019.08.01-17.45.57:949][827]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2019.08.01-17.45.57:952][827]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.01-17.45.57:967][827]LogInit: FAudioDevice initialized.
+[2019.08.01-17.45.57:995][827]LogLoad: Game class is 'GameModeBase'
+[2019.08.01-17.45.57:999][827]LogWorld: Bringing World /Game/RuinLevel/UEDPIE_0_RuinLevel.RuinLevel up for play (max tick rate 60) at 2019.08.01-19.45.57
+[2019.08.01-17.45.57:999][827]LogWorld: Bringing up level for play took: 0.003151
+[2019.08.01-17.45.58:013][827]PIE: Play in editor start time for /Game/RuinLevel/UEDPIE_0_RuinLevel 0,104
+[2019.08.01-17.45.58:013][827]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel' has LevelScriptBlueprint '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.RuinLevel' with GeneratedClass '/Game/RuinLevel/RuinLevel.RuinLevel_C' with ClassGeneratedBy '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.RuinLevel'
+[2019.08.01-17.46.57:546][398]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel' has LevelScriptBlueprint '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.RuinLevel' with GeneratedClass '/Game/RuinLevel/RuinLevel.RuinLevel_C' with ClassGeneratedBy '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.RuinLevel'
+[2019.08.01-17.46.57:547][398]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.01-17.46.57:580][398]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.01-17.46.57:580][398]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel' has LevelScriptBlueprint '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.RuinLevel' with GeneratedClass '/Game/RuinLevel/RuinLevel.RuinLevel_C' with ClassGeneratedBy '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.RuinLevel'
+[2019.08.01-17.46.57:607][398]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.01-17.46.57:609][398]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2019.08.01-17.46.57:658][401]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2019.08.01-17.47.33:323][662]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2019.08.01-17.47.35:293][781]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.01-17.47.35:434][788]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2019.08.01-17.47.35:472][788]LogSlate: Window 'Prova - Unreal Editor' being destroyed
+[2019.08.01-17.47.35:666][789]Cmd: QUIT_EDITOR
+[2019.08.01-17.47.36:564][789]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.08.01-17.47.36:572][789]LogExit: Preparing to exit.
+[2019.08.01-17.47.36:823][789]LogExit: Editor shut down
+[2019.08.01-17.47.36:823][789]LogExit: Transaction tracking system shut down
+[2019.08.01-17.47.36:999][789]LogExit: Object subsystem successfully closed.
+[2019.08.01-17.47.37:023][789]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.08.01-17.47.37:026][789]LogD3D11RHI: Shutdown
+[2019.08.01-17.47.37:026][789]LogD3D11RHI: CleanupD3DDevice
+[2019.08.01-17.47.37:027][789]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.08.01-17.47.37:027][789]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.08.01-17.47.37:027][789]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.08.01-17.47.37:027][789]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.08.01-17.47.37:027][789]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.08.01-17.47.37:027][789]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.08.01-17.47.37:134][789]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.08.01-17.47.37:154][789]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (650)
+[2019.08.01-17.47.37:154][789]LogModuleManager: Shutting down and abandoning module Voice (648)
+[2019.08.01-17.47.37:154][789]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (646)
+[2019.08.01-17.47.37:154][789]LogModuleManager: Shutting down and abandoning module MeshBuilder (644)
+[2019.08.01-17.47.37:154][789]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (642)
+[2019.08.01-17.47.37:154][789]LogModuleManager: Shutting down and abandoning module AddContentDialog (640)
+[2019.08.01-17.47.37:154][789]LogModuleManager: Shutting down and abandoning module WidgetCarousel (639)
+[2019.08.01-17.47.37:154][789]LogModuleManager: Shutting down and abandoning module EditorWidgets (636)
+[2019.08.01-17.47.37:154][789]LogModuleManager: Shutting down and abandoning module CollectionManager (634)
+[2019.08.01-17.47.37:154][789]LogModuleManager: Shutting down and abandoning module SceneOutliner (632)
+[2019.08.01-17.47.37:154][789]LogModuleManager: Shutting down and abandoning module StatsViewer (630)
+[2019.08.01-17.47.37:154][789]LogModuleManager: Shutting down and abandoning module FoliageEdit (628)
+[2019.08.01-17.47.37:154][789]LogModuleManager: Shutting down and abandoning module LandscapeEditor (626)
+[2019.08.01-17.47.37:154][789]LogModuleManager: Shutting down and abandoning module MeshPaintMode (624)
+[2019.08.01-17.47.37:154][789]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (622)
+[2019.08.01-17.47.37:154][789]LogModuleManager: Shutting down and abandoning module ActorPickerMode (620)
+[2019.08.01-17.47.37:154][789]LogModuleManager: Shutting down and abandoning module GeometryMode (618)
+[2019.08.01-17.47.37:155][789]LogModuleManager: Shutting down and abandoning module TextureAlignMode (616)
+[2019.08.01-17.47.37:155][789]LogModuleManager: Shutting down and abandoning module BspMode (614)
+[2019.08.01-17.47.37:155][789]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (612)
+[2019.08.01-17.47.37:155][789]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (610)
+[2019.08.01-17.47.37:155][789]LogModuleManager: Shutting down and abandoning module AutomationWorker (608)
+[2019.08.01-17.47.37:155][789]LogModuleManager: Shutting down and abandoning module OculusMR (606)
+[2019.08.01-17.47.37:155][789]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (604)
+[2019.08.01-17.47.37:155][789]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (602)
+[2019.08.01-17.47.37:155][789]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (600)
+[2019.08.01-17.47.37:155][789]LogModuleManager: Shutting down and abandoning module PlacementMode (599)
+[2019.08.01-17.47.37:155][789]LogModuleManager: Shutting down and abandoning module MaterialEditor (598)
+[2019.08.01-17.47.37:155][789]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (594)
+[2019.08.01-17.47.37:155][789]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (592)
+[2019.08.01-17.47.37:155][789]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (590)
+[2019.08.01-17.47.37:155][789]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (588)
+[2019.08.01-17.47.37:155][789]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (586)
+[2019.08.01-17.47.37:155][789]LogModuleManager: Shutting down and abandoning module WebMMedia (584)
+[2019.08.01-17.47.37:155][789]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (582)
+[2019.08.01-17.47.37:155][789]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (580)
+[2019.08.01-17.47.37:155][789]LogModuleManager: Shutting down and abandoning module SequenceRecorder (579)
+[2019.08.01-17.47.37:155][789]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (576)
+[2019.08.01-17.47.37:155][789]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (574)
+[2019.08.01-17.47.37:155][789]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (572)
+[2019.08.01-17.47.37:155][789]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (570)
+[2019.08.01-17.47.37:155][789]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (568)
+[2019.08.01-17.47.37:155][789]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (566)
+[2019.08.01-17.47.37:155][789]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (564)
+[2019.08.01-17.47.37:155][789]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (562)
+[2019.08.01-17.47.37:155][789]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (560)
+[2019.08.01-17.47.37:155][789]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (558)
+[2019.08.01-17.47.37:155][789]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (556)
+[2019.08.01-17.47.37:155][789]LogModuleManager: Shutting down and abandoning module CharacterAI (554)
+[2019.08.01-17.47.37:155][789]LogModuleManager: Shutting down and abandoning module SmartSnapping (552)
+[2019.08.01-17.47.37:155][789]LogModuleManager: Shutting down and abandoning module SessionServices (550)
+[2019.08.01-17.47.37:155][789]LogModuleManager: Shutting down and abandoning module MeshPaint (548)
+[2019.08.01-17.47.37:155][789]LogModuleManager: Shutting down and abandoning module ViewportSnapping (546)
+[2019.08.01-17.47.37:155][789]LogModuleManager: Shutting down and abandoning module ViewportInteraction (544)
+[2019.08.01-17.47.37:155][789]LogModuleManager: Shutting down and abandoning module ClothPainter (542)
+[2019.08.01-17.47.37:155][789]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (541)
+[2019.08.01-17.47.37:155][789]LogModuleManager: Shutting down and abandoning module LogVisualizer (538)
+[2019.08.01-17.47.37:155][789]LogModuleManager: Shutting down and abandoning module IntroTutorials (536)
+[2019.08.01-17.47.37:155][789]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (535)
+[2019.08.01-17.47.37:155][789]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (532)
+[2019.08.01-17.47.37:155][789]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (530)
+[2019.08.01-17.47.37:155][789]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (528)
+[2019.08.01-17.47.37:155][789]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (526)
+[2019.08.01-17.47.37:155][789]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (525)
+[2019.08.01-17.47.37:475][789]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (522)
+[2019.08.01-17.47.37:475][789]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (520)
+[2019.08.01-17.47.37:475][789]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (518)
+[2019.08.01-17.47.37:475][789]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (516)
+[2019.08.01-17.47.37:475][789]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (514)
+[2019.08.01-17.47.37:475][789]LogModuleManager: Shutting down and abandoning module InputBindingEditor (512)
+[2019.08.01-17.47.37:475][789]LogModuleManager: Shutting down and abandoning module MergeActors (510)
+[2019.08.01-17.47.37:475][789]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (508)
+[2019.08.01-17.47.37:475][789]LogModuleManager: Shutting down and abandoning module LocalizationService (507)
+[2019.08.01-17.47.37:475][789]LogModuleManager: Shutting down and abandoning module HardwareTargeting (504)
+[2019.08.01-17.47.37:475][789]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (502)
+[2019.08.01-17.47.37:475][789]LogModuleManager: Shutting down and abandoning module UndoHistory (500)
+[2019.08.01-17.47.37:475][789]LogModuleManager: Shutting down and abandoning module XmlParser (498)
+[2019.08.01-17.47.37:475][789]LogModuleManager: Shutting down and abandoning module Blutility (496)
+[2019.08.01-17.47.37:475][789]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (494)
+[2019.08.01-17.47.37:475][789]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (493)
+[2019.08.01-17.47.37:475][789]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (490)
+[2019.08.01-17.47.37:475][789]LogModuleManager: Shutting down and abandoning module SettingsEditor (488)
+[2019.08.01-17.47.37:475][789]LogModuleManager: Shutting down and abandoning module ProjectLauncher (486)
+[2019.08.01-17.47.37:475][789]LogModuleManager: Shutting down and abandoning module SessionFrontend (484)
+[2019.08.01-17.47.37:475][789]LogModuleManager: Shutting down and abandoning module ProfilerClient (482)
+[2019.08.01-17.47.37:475][789]LogModuleManager: Shutting down and abandoning module DeviceManager (480)
+[2019.08.01-17.47.37:475][789]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (479)
+[2019.08.01-17.47.37:519][789]LogModuleManager: Shutting down and abandoning module AutomationController (476)
+[2019.08.01-17.47.37:519][789]LogModuleManager: Shutting down and abandoning module AutomationWindow (474)
+[2019.08.01-17.47.37:519][789]LogModuleManager: Shutting down and abandoning module Layers (472)
+[2019.08.01-17.47.37:519][789]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (470)
+[2019.08.01-17.47.37:519][789]LogModuleManager: Shutting down and abandoning module DetailCustomizations (468)
+[2019.08.01-17.47.37:519][789]LogModuleManager: Shutting down and abandoning module PackagesDialog (466)
+[2019.08.01-17.47.37:519][789]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (464)
+[2019.08.01-17.47.37:519][789]LogModuleManager: Shutting down and abandoning module Persona (462)
+[2019.08.01-17.47.37:519][789]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (461)
+[2019.08.01-17.47.37:519][789]LogModuleManager: Shutting down and abandoning module AnimGraph (459)
+[2019.08.01-17.47.37:519][789]LogModuleManager: Shutting down and abandoning module Kismet (456)
+[2019.08.01-17.47.37:519][789]LogModuleManager: Shutting down and abandoning module GraphEditor (454)
+[2019.08.01-17.47.37:519][789]LogModuleManager: Shutting down and abandoning module ClassViewer (452)
+[2019.08.01-17.47.37:519][789]LogModuleManager: Shutting down and abandoning module Toolbox (450)
+[2019.08.01-17.47.37:519][789]LogModuleManager: Shutting down and abandoning module ModuleUI (448)
+[2019.08.01-17.47.37:519][789]LogModuleManager: Shutting down and abandoning module MovieSceneTools (446)
+[2019.08.01-17.47.37:519][789]LogModuleManager: Shutting down and abandoning module OutputLog (444)
+[2019.08.01-17.47.37:519][789]LogModuleManager: Shutting down and abandoning module GammaUI (442)
+[2019.08.01-17.47.37:519][789]LogModuleManager: Shutting down and abandoning module Documentation (440)
+[2019.08.01-17.47.37:519][789]LogModuleManager: Shutting down and abandoning module LiveCoding (438)
+[2019.08.01-17.47.37:519][789]LogModuleManager: Shutting down and abandoning module LevelSequence (436)
+[2019.08.01-17.47.37:519][789]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (434)
+[2019.08.01-17.47.37:519][789]LogModuleManager: Shutting down and abandoning module MovieScene (432)
+[2019.08.01-17.47.37:519][789]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (430)
+[2019.08.01-17.47.37:519][789]LogModuleManager: Shutting down and abandoning module LauncherPlatform (428)
+[2019.08.01-17.47.37:519][789]LogModuleManager: Shutting down and abandoning module AnalyticsET (426)
+[2019.08.01-17.47.37:519][789]LogModuleManager: Shutting down and abandoning module PortalServices (424)
+[2019.08.01-17.47.37:519][789]LogModuleManager: Shutting down and abandoning module PortalRpc (422)
+[2019.08.01-17.47.37:519][789]LogModuleManager: Shutting down and abandoning module MessagingRpc (420)
+[2019.08.01-17.47.37:519][789]LogModuleManager: Shutting down and abandoning module AIModule (418)
+[2019.08.01-17.47.37:520][789]LogModuleManager: Shutting down and abandoning module GameplayDebugger (417)
+[2019.08.01-17.47.37:520][789]LogModuleManager: Shutting down and abandoning module AITestSuite (415)
+[2019.08.01-17.47.37:520][789]LogModuleManager: Shutting down and abandoning module NavigationSystem (413)
+[2019.08.01-17.47.37:520][789]LogModuleManager: Shutting down and abandoning module DesktopPlatform (410)
+[2019.08.01-17.47.37:520][789]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (408)
+[2019.08.01-17.47.37:524][789]LogModuleManager: Shutting down and abandoning module ProfilerService (406)
+[2019.08.01-17.47.37:546][789]LogModuleManager: Shutting down and abandoning module TaskGraph (404)
+[2019.08.01-17.47.37:546][789]LogModuleManager: Shutting down and abandoning module SteamVRController (402)
+[2019.08.01-17.47.37:546][789]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (400)
+[2019.08.01-17.47.37:546][789]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (398)
+[2019.08.01-17.47.37:546][789]LogModuleManager: Shutting down and abandoning module OculusEditor (396)
+[2019.08.01-17.47.37:546][789]LogModuleManager: Shutting down and abandoning module OculusInput (394)
+[2019.08.01-17.47.37:546][789]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (392)
+[2019.08.01-17.47.37:546][789]LogModuleManager: Shutting down and abandoning module EditableMesh (390)
+[2019.08.01-17.47.37:546][789]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (388)
+[2019.08.01-17.47.37:546][789]LogModuleManager: Shutting down and abandoning module CableComponent (386)
+[2019.08.01-17.47.37:546][789]LogModuleManager: Shutting down and abandoning module AudioCapture (384)
+[2019.08.01-17.47.37:546][789]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (382)
+[2019.08.01-17.47.37:546][789]LogModuleManager: Shutting down and abandoning module AndroidPermission (380)
+[2019.08.01-17.47.37:546][789]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (378)
+[2019.08.01-17.47.37:546][789]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (376)
+[2019.08.01-17.47.37:546][789]LogModuleManager: Shutting down and abandoning module MediaCompositing (374)
+[2019.08.01-17.47.37:546][789]LogModuleManager: Shutting down and abandoning module LinearTimecode (372)
+[2019.08.01-17.47.37:546][789]LogModuleManager: Shutting down and abandoning module ImgMedia (370)
+[2019.08.01-17.47.37:546][789]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (368)
+[2019.08.01-17.47.37:546][789]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (366)
+[2019.08.01-17.47.37:546][789]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (364)
+[2019.08.01-17.47.37:546][789]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2019.08.01-17.47.37:546][789]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2019.08.01-17.47.37:546][789]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2019.08.01-17.47.37:546][789]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2019.08.01-17.47.37:546][789]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2019.08.01-17.47.37:546][789]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (352)
+[2019.08.01-17.47.37:546][789]LogModuleManager: Shutting down and abandoning module AppleImageUtils (350)
+[2019.08.01-17.47.37:546][789]LogModuleManager: Shutting down and abandoning module AlembicImporter (348)
+[2019.08.01-17.47.37:546][789]LogModuleManager: Shutting down and abandoning module AlembicLibrary (347)
+[2019.08.01-17.47.37:546][789]LogModuleManager: Shutting down and abandoning module GeometryCache (346)
+[2019.08.01-17.47.37:546][789]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (345)
+[2019.08.01-17.47.37:546][789]LogModuleManager: Shutting down and abandoning module VariantManagerContent (340)
+[2019.08.01-17.47.37:546][789]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (338)
+[2019.08.01-17.47.37:546][789]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (336)
+[2019.08.01-17.47.37:546][789]LogModuleManager: Shutting down and abandoning module PluginBrowser (334)
+[2019.08.01-17.47.37:546][789]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (332)
+[2019.08.01-17.47.37:546][789]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (330)
+[2019.08.01-17.47.37:546][789]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2019.08.01-17.47.37:546][789]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2019.08.01-17.47.37:546][789]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2019.08.01-17.47.37:546][789]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2019.08.01-17.47.37:546][789]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2019.08.01-17.47.37:546][789]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2019.08.01-17.47.37:546][789]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2019.08.01-17.47.37:546][789]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2019.08.01-17.47.37:546][789]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2019.08.01-17.47.37:547][789]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2019.08.01-17.47.37:547][789]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (308)
+[2019.08.01-17.47.37:547][789]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (306)
+[2019.08.01-17.47.37:547][789]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (304)
+[2019.08.01-17.47.37:547][789]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (302)
+[2019.08.01-17.47.37:547][789]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (300)
+[2019.08.01-17.47.37:547][789]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (298)
+[2019.08.01-17.47.37:547][789]LogModuleManager: Shutting down and abandoning module Paper2DEditor (296)
+[2019.08.01-17.47.37:547][789]LogModuleManager: Shutting down and abandoning module SignificanceManager (294)
+[2019.08.01-17.47.37:547][789]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (292)
+[2019.08.01-17.47.37:547][789]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (290)
+[2019.08.01-17.47.37:547][789]LogModuleManager: Shutting down and abandoning module PhysXVehicles (288)
+[2019.08.01-17.47.37:547][789]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2019.08.01-17.47.37:547][789]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.08.01-17.47.37:547][789]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.08.01-17.47.37:648][789]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.08.01-17.47.37:748][789]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (278)
+[2019.08.01-17.47.37:748][789]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (276)
+[2019.08.01-17.47.37:748][789]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (274)
+[2019.08.01-17.47.37:748][789]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (272)
+[2019.08.01-17.47.37:748][789]LogModuleManager: Shutting down and abandoning module MagicLeapController (270)
+[2019.08.01-17.47.37:748][789]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.08.01-17.47.37:748][789]LogModuleManager: Shutting down and abandoning module MagicLeapAR (268)
+[2019.08.01-17.47.37:748][789]LogModuleManager: Shutting down and abandoning module AugmentedReality (267)
+[2019.08.01-17.47.37:748][789]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (264)
+[2019.08.01-17.47.37:748][789]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (262)
+[2019.08.01-17.47.37:748][789]LogModuleManager: Shutting down and abandoning module FacialAnimation (260)
+[2019.08.01-17.47.37:748][789]LogModuleManager: Shutting down and abandoning module DataValidation (258)
+[2019.08.01-17.47.37:748][789]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (256)
+[2019.08.01-17.47.37:748][789]LogModuleManager: Shutting down and abandoning module LevelEditor (255)
+[2019.08.01-17.47.37:748][789]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (254)
+[2019.08.01-17.47.37:748][789]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (252)
+[2019.08.01-17.47.37:748][789]LogModuleManager: Shutting down and abandoning module MainFrame (250)
+[2019.08.01-17.47.37:749][789]LogModuleManager: Shutting down and abandoning module HotReload (249)
+[2019.08.01-17.47.37:749][789]LogModuleManager: Shutting down and abandoning module ContentBrowser (245)
+[2019.08.01-17.47.37:749][789]LogModuleManager: Shutting down and abandoning module TreeMap (243)
+[2019.08.01-17.47.37:749][789]LogModuleManager: Shutting down and abandoning module AnimationSharing (240)
+[2019.08.01-17.47.37:749][789]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2019.08.01-17.47.37:749][789]LogModuleManager: Shutting down and abandoning module AISupportModule (236)
+[2019.08.01-17.47.37:749][789]LogModuleManager: Shutting down and abandoning module Paper2D (234)
+[2019.08.01-17.47.37:749][789]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (232)
+[2019.08.01-17.47.37:750][789]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (230)
+[2019.08.01-17.47.37:750][789]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2019.08.01-17.47.37:750][789]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2019.08.01-17.47.37:750][789]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2019.08.01-17.47.37:750][789]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2019.08.01-17.47.37:750][789]LogModuleManager: Shutting down and abandoning module Overlay (220)
+[2019.08.01-17.47.37:750][789]LogModuleManager: Shutting down and abandoning module OverlayEditor (219)
+[2019.08.01-17.47.37:750][789]LogModuleManager: Shutting down and abandoning module VREditor (216)
+[2019.08.01-17.47.37:750][789]LogModuleManager: Shutting down and abandoning module StringTableEditor (214)
+[2019.08.01-17.47.37:750][789]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (212)
+[2019.08.01-17.47.37:750][789]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (210)
+[2019.08.01-17.47.37:750][789]LogModuleManager: Shutting down and abandoning module FunctionalTesting (208)
+[2019.08.01-17.47.37:750][789]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (206)
+[2019.08.01-17.47.37:750][789]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (205)
+[2019.08.01-17.47.37:750][789]LogModuleManager: Shutting down and abandoning module UMG (202)
+[2019.08.01-17.47.37:750][789]LogModuleManager: Shutting down and abandoning module UMGEditor (201)
+[2019.08.01-17.47.37:750][789]LogModuleManager: Shutting down and abandoning module Sequencer (200)
+[2019.08.01-17.47.37:750][789]LogModuleManager: Shutting down and abandoning module MessageLog (197)
+[2019.08.01-17.47.37:750][789]LogModuleManager: Shutting down and abandoning module SlateReflector (192)
+[2019.08.01-17.47.37:750][789]LogModuleManager: Shutting down and abandoning module Slate (190)
+[2019.08.01-17.47.37:750][789]LogModuleManager: Shutting down and abandoning module EditorStyle (188)
+[2019.08.01-17.47.37:751][789]LogModuleManager: Shutting down and abandoning module UnrealEd (186)
+[2019.08.01-17.47.37:751][789]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2019.08.01-17.47.37:751][789]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2019.08.01-17.47.37:751][789]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2019.08.01-17.47.37:751][789]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2019.08.01-17.47.37:751][789]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2019.08.01-17.47.37:751][789]LogModuleManager: Shutting down and abandoning module Core (174)
+[2019.08.01-17.47.37:751][789]LogModuleManager: Shutting down and abandoning module KismetCompiler (172)
+[2019.08.01-17.47.37:751][789]LogModuleManager: Shutting down and abandoning module MeshUtilities (170)
+[2019.08.01-17.47.37:751][789]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (169)
+[2019.08.01-17.47.37:751][789]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (168)
+[2019.08.01-17.47.37:751][789]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (167)
+[2019.08.01-17.47.37:751][789]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (165)
+[2019.08.01-17.47.37:751][789]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (163)
+[2019.08.01-17.47.37:751][789]LogModuleManager: Shutting down and abandoning module MaterialBaking (159)
+[2019.08.01-17.47.37:751][789]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2019.08.01-17.47.37:823][789]LogDerivedDataCache: Shutdown
+[2019.08.01-17.47.37:823][789]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2019.08.01-17.47.37:823][789]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2019.08.01-17.47.37:823][789]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2019.08.01-17.47.37:823][789]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2019.08.01-17.47.37:823][789]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2019.08.01-17.47.37:823][789]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2019.08.01-17.47.37:823][789]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2019.08.01-17.47.37:823][789]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2019.08.01-17.47.37:823][789]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2019.08.01-17.47.37:823][789]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2019.08.01-17.47.37:823][789]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2019.08.01-17.47.37:823][789]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2019.08.01-17.47.37:823][789]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2019.08.01-17.47.37:823][789]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2019.08.01-17.47.37:823][789]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2019.08.01-17.47.37:823][789]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2019.08.01-17.47.37:823][789]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2019.08.01-17.47.37:823][789]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (119)
+[2019.08.01-17.47.37:823][789]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (117)
+[2019.08.01-17.47.37:823][789]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (115)
+[2019.08.01-17.47.37:824][789]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (113)
+[2019.08.01-17.47.37:824][789]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (111)
+[2019.08.01-17.47.37:824][789]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (109)
+[2019.08.01-17.47.37:824][789]LogModuleManager: Shutting down and abandoning module Messaging (107)
+[2019.08.01-17.47.37:824][789]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (105)
+[2019.08.01-17.47.37:825][789]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (103)
+[2019.08.01-17.47.37:825][789]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (101)
+[2019.08.01-17.47.37:830][789]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (99)
+[2019.08.01-17.47.37:830][789]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (97)
+[2019.08.01-17.47.37:830][789]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (95)
+[2019.08.01-17.47.37:830][789]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (93)
+[2019.08.01-17.47.37:830][789]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (91)
+[2019.08.01-17.47.37:830][789]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (89)
+[2019.08.01-17.47.37:830][789]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (87)
+[2019.08.01-17.47.37:830][789]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (85)
+[2019.08.01-17.47.37:830][789]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (83)
+[2019.08.01-17.47.37:830][789]LogModuleManager: Shutting down and abandoning module InputCore (80)
+[2019.08.01-17.47.37:830][789]LogModuleManager: Shutting down and abandoning module Settings (78)
+[2019.08.01-17.47.37:830][789]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (76)
+[2019.08.01-17.47.37:830][789]LogModuleManager: Shutting down and abandoning module PhysXCooking (74)
+[2019.08.01-17.47.37:830][789]LogModuleManager: Shutting down and abandoning module SteamVR (72)
+[2019.08.01-17.47.37:830][789]LogHMD: Freeing OpenVRDLLHandle.
+[2019.08.01-17.47.37:830][789]LogModuleManager: Shutting down and abandoning module OculusHMD (70)
+[2019.08.01-17.47.37:830][789]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (68)
+[2019.08.01-17.47.37:830][789]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (66)
+[2019.08.01-17.47.37:830][789]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (64)
+[2019.08.01-17.47.37:830][789]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (60)
+[2019.08.01-17.47.37:831][789]LogModuleManager: Shutting down and abandoning module XMPP (55)
+[2019.08.01-17.47.37:831][789]LogModuleManager: Shutting down and abandoning module WebSockets (54)
+[2019.08.01-17.47.37:848][789]LogModuleManager: Shutting down and abandoning module HTTP (51)
+[2019.08.01-17.47.37:848][789]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.08.01-17.47.37:848][789]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BDA4472E1-4027-00D1-9962-5C91C5D8E339%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=6d30cd754e3947c11f30e5b629ececbd%7C18a034e806be4860a525251c4bb9b145%7C87c2e2e3-c373-400e-8496-9d63d3348c77&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.08.01-17.47.37:882][789]LogModuleManager: Shutting down and abandoning module SSL (50)
+[2019.08.01-17.47.37:883][789]LogModuleManager: Shutting down and abandoning module WmfMedia (46)
+[2019.08.01-17.47.37:884][789]LogModuleManager: Shutting down and abandoning module Media (45)
+[2019.08.01-17.47.37:891][789]LogModuleManager: Shutting down and abandoning module MagicLeap (42)
+[2019.08.01-17.47.37:891][789]LogModuleManager: Shutting down and abandoning module DatasmithContent (40)
+[2019.08.01-17.47.37:891][789]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2019.08.01-17.47.37:891][789]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2019.08.01-17.47.37:891][789]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2019.08.01-17.47.37:891][789]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2019.08.01-17.47.37:891][789]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2019.08.01-17.47.37:891][789]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2019.08.01-17.47.37:891][789]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2019.08.01-17.47.37:892][789]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2019.08.01-17.47.37:892][789]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2019.08.01-17.47.37:892][789]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2019.08.01-17.47.37:892][789]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2019.08.01-17.47.37:892][789]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2019.08.01-17.47.37:892][789]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2019.08.01-17.47.37:892][789]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2019.08.01-17.47.37:892][789]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2019.08.01-17.47.37:892][789]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2019.08.01-17.47.37:892][789]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2019.08.01-17.47.37:892][789]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2019.08.01-17.47.37:892][789]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2019.08.01-17.47.37:901][789]LogExit: Exiting.
+[2019.08.01-17.47.37:913][789]Log file closed, 08/01/19 19:47:37
