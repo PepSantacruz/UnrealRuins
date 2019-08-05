@@ -1,0 +1,1550 @@
+﻿Log file open, 08/04/19 08:48:13
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Prova
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.389792
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.08.04-06.48.14:210][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.08.04-06.48.14:210][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.08.04-06.48.14:210][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/tecla/Documents/Unreal Projects/Prova/Saved/Config/Windows/Engine.ini]
+[2019.08.04-06.48.14:210][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.08.04-06.48.14:210][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2019.08.04-06.48.14:210][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/tecla/Documents/Unreal Projects/Prova/Saved/Config/Windows/Engine.ini]
+[2019.08.04-06.48.14:210][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/tecla/Documents/Unreal Projects/Prova/Saved/Config/Windows/Engine.ini]
+[2019.08.04-06.48.14:210][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.08.04-06.48.14:210][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.08.04-06.48.14:210][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.08.04-06.48.14:210][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.08.04-06.48.14:210][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.08.04-06.48.14:210][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.08.04-06.48.14:211][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.08.04-06.48.14:211][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.08.04-06.48.14:211][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.08.04-06.48.14:211][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.08.04-06.48.14:211][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.08.04-06.48.14:211][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.08.04-06.48.14:211][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.08.04-06.48.14:211][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/tecla/Documents/Unreal Projects/Prova/Saved/Config/Windows/Engine.ini]
+[2019.08.04-06.48.14:211][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.08.04-06.48.14:211][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.08.04-06.48.14:211][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.08.04-06.48.14:211][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.08.04-06.48.14:211][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.08.04-06.48.14:211][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.08.04-06.48.14:211][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.08.04-06.48.14:211][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.08.04-06.48.14:211][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.08.04-06.48.14:211][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.08.04-06.48.14:211][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.08.04-06.48.14:211][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.08.04-06.48.14:211][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.08.04-06.48.14:211][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/tecla/Documents/Unreal Projects/Prova/Saved/Config/Windows/Engine.ini]
+[2019.08.04-06.48.14:211][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/tecla/Documents/Unreal Projects/Prova/Saved/Config/Windows/Engine.ini]
+[2019.08.04-06.48.14:213][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/tecla/Documents/Unreal Projects/Prova/Saved/Config/Windows/Scalability.ini]
+[2019.08.04-06.48.14:213][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.08.04-06.48.14:213][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.08.04-06.48.14:213][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/tecla/Documents/Unreal Projects/Prova/Saved/Config/Windows/Scalability.ini]
+[2019.08.04-06.48.14:213][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.08.04-06.48.14:213][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/tecla/Documents/Unreal Projects/Prova/Saved/Config/Windows/Scalability.ini]
+[2019.08.04-06.48.14:213][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.08.04-06.48.14:213][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.08.04-06.48.14:213][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.08.04-06.48.14:213][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.08.04-06.48.14:213][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.08.04-06.48.14:213][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.08.04-06.48.14:213][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.08.04-06.48.14:213][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.08.04-06.48.14:213][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.08.04-06.48.14:213][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.08.04-06.48.14:213][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.08.04-06.48.14:213][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.08.04-06.48.14:213][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.08.04-06.48.14:213][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.08.04-06.48.14:213][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.08.04-06.48.14:213][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.08.04-06.48.14:213][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.08.04-06.48.14:213][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.08.04-06.48.14:213][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/tecla/Documents/Unreal Projects/Prova/Saved/Config/Windows/Scalability.ini]
+[2019.08.04-06.48.14:213][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.08.04-06.48.14:213][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.08.04-06.48.14:213][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.08.04-06.48.14:213][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.08.04-06.48.14:213][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.08.04-06.48.14:213][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.08.04-06.48.14:213][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.08.04-06.48.14:213][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.08.04-06.48.14:213][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.08.04-06.48.14:213][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.08.04-06.48.14:213][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.08.04-06.48.14:213][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.08.04-06.48.14:213][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.08.04-06.48.14:213][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.08.04-06.48.14:213][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.08.04-06.48.14:213][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.08.04-06.48.14:213][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.08.04-06.48.14:213][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.08.04-06.48.14:213][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.08.04-06.48.14:213][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.08.04-06.48.14:213][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.08.04-06.48.14:213][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.08.04-06.48.14:213][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.08.04-06.48.14:213][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.08.04-06.48.14:213][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.08.04-06.48.14:213][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.08.04-06.48.14:213][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.08.04-06.48.14:213][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.08.04-06.48.14:213][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.08.04-06.48.14:213][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.08.04-06.48.14:213][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/tecla/Documents/Unreal Projects/Prova/Saved/Config/Windows/Scalability.ini]
+[2019.08.04-06.48.14:213][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.08.04-06.48.14:213][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.08.04-06.48.14:213][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.08.04-06.48.14:213][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.08.04-06.48.14:213][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.08.04-06.48.14:213][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.08.04-06.48.14:213][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.08.04-06.48.14:213][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.08.04-06.48.14:214][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/tecla/Documents/Unreal Projects/Prova/Saved/Config/Windows/Scalability.ini]
+[2019.08.04-06.48.14:214][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.08.04-06.48.14:214][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.08.04-06.48.14:214][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.08.04-06.48.14:214][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.08.04-06.48.14:214][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.08.04-06.48.14:214][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.08.04-06.48.14:214][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.08.04-06.48.14:214][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.08.04-06.48.14:214][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.08.04-06.48.14:214][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.08.04-06.48.14:214][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.08.04-06.48.14:214][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.08.04-06.48.14:214][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.08.04-06.48.14:214][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/tecla/Documents/Unreal Projects/Prova/Saved/Config/Windows/Scalability.ini]
+[2019.08.04-06.48.14:214][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.08.04-06.48.14:214][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.08.04-06.48.14:214][  0]LogInit: Selected Device Profile: [Windows]
+[2019.08.04-06.48.14:214][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.08.04-06.48.14:222][  0]LogHAL: Display: Platform has ~ 16 GB [17030406144 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.08.04-06.48.14:222][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.08.04-06.48.14:222][  0]LogInit: Going up to parent DeviceProfile []
+[2019.08.04-06.48.14:222][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/tecla/Documents/Unreal Projects/Prova/Saved/Config/Windows/Scalability.ini]
+[2019.08.04-06.48.14:222][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.08.04-06.48.14:222][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.08.04-06.48.14:222][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/tecla/Documents/Unreal Projects/Prova/Saved/Config/Windows/Scalability.ini]
+[2019.08.04-06.48.14:222][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.08.04-06.48.14:222][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/tecla/Documents/Unreal Projects/Prova/Saved/Config/Windows/Scalability.ini]
+[2019.08.04-06.48.14:222][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.08.04-06.48.14:222][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.08.04-06.48.14:222][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.08.04-06.48.14:222][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.08.04-06.48.14:222][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.08.04-06.48.14:222][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.08.04-06.48.14:222][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.08.04-06.48.14:222][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.08.04-06.48.14:222][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.08.04-06.48.14:222][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.08.04-06.48.14:222][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.08.04-06.48.14:222][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.08.04-06.48.14:222][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.08.04-06.48.14:222][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.08.04-06.48.14:222][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.08.04-06.48.14:222][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.08.04-06.48.14:222][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.08.04-06.48.14:222][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.08.04-06.48.14:222][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/tecla/Documents/Unreal Projects/Prova/Saved/Config/Windows/Scalability.ini]
+[2019.08.04-06.48.14:222][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.08.04-06.48.14:222][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.08.04-06.48.14:222][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.08.04-06.48.14:222][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.08.04-06.48.14:222][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.08.04-06.48.14:222][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.08.04-06.48.14:222][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.08.04-06.48.14:222][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.08.04-06.48.14:222][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.08.04-06.48.14:222][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.08.04-06.48.14:222][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.08.04-06.48.14:222][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.08.04-06.48.14:222][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.08.04-06.48.14:222][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.08.04-06.48.14:222][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.08.04-06.48.14:222][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.08.04-06.48.14:222][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.08.04-06.48.14:222][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.08.04-06.48.14:222][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.08.04-06.48.14:222][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.08.04-06.48.14:222][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.08.04-06.48.14:222][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.08.04-06.48.14:222][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.08.04-06.48.14:222][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.08.04-06.48.14:222][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.08.04-06.48.14:222][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.08.04-06.48.14:222][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.08.04-06.48.14:222][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.08.04-06.48.14:222][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.08.04-06.48.14:222][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.08.04-06.48.14:222][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/tecla/Documents/Unreal Projects/Prova/Saved/Config/Windows/Scalability.ini]
+[2019.08.04-06.48.14:222][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.08.04-06.48.14:222][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.08.04-06.48.14:222][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.08.04-06.48.14:222][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.08.04-06.48.14:222][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.08.04-06.48.14:222][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.08.04-06.48.14:222][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.08.04-06.48.14:222][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.08.04-06.48.14:222][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/tecla/Documents/Unreal Projects/Prova/Saved/Config/Windows/Scalability.ini]
+[2019.08.04-06.48.14:222][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.08.04-06.48.14:222][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.08.04-06.48.14:222][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.08.04-06.48.14:222][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.08.04-06.48.14:222][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.08.04-06.48.14:222][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.08.04-06.48.14:222][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.08.04-06.48.14:222][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.08.04-06.48.14:222][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.08.04-06.48.14:223][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.08.04-06.48.14:223][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.08.04-06.48.14:223][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.08.04-06.48.14:223][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.08.04-06.48.14:223][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/tecla/Documents/Unreal Projects/Prova/Saved/Config/Windows/Scalability.ini]
+[2019.08.04-06.48.14:223][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.08.04-06.48.14:223][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.08.04-06.48.14:223][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.08.04-06.48.14:223][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.08.04-06.48.14:223][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.08.04-06.48.14:223][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/tecla/Documents/Unreal Projects/Prova/Saved/Config/Windows/Engine.ini]
+[2019.08.04-06.48.14:223][  0]LogInit: Computer: DESKTOP-2RPBAVO
+[2019.08.04-06.48.14:223][  0]LogInit: User: tecla
+[2019.08.04-06.48.14:223][  0]LogInit: CPU Page size=4096, Cores=6
+[2019.08.04-06.48.14:223][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.08.04-06.48.14:223][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.08.04-06.48.14:223][  0]LogMemory: Platform Memory Stats for Windows
+[2019.08.04-06.48.14:223][  0]LogMemory: Process Physical Memory: 99.12 MB used, 99.13 MB peak
+[2019.08.04-06.48.14:223][  0]LogMemory: Process Virtual Memory: 91.81 MB used, 91.81 MB peak
+[2019.08.04-06.48.14:223][  0]LogMemory: Physical Memory: 3854.54 MB used,  12386.92 MB free, 16241.46 MB total
+[2019.08.04-06.48.14:223][  0]LogMemory: Virtual Memory: 4662.45 MB used,  134213064.00 MB free, 134217728.00 MB total
+[2019.08.04-06.48.14:241][  0]LogInit: Overriding language with editor language configuration option (en).
+[2019.08.04-06.48.14:241][  0]LogInit: Overriding locale with editor culture configuration option ().
+[2019.08.04-06.48.14:241][  0]LogInit: Using OS detected locale (es-ES).
+[2019.08.04-06.48.14:378][  0]LogInit: Setting process to per monitor DPI aware
+[2019.08.04-06.48.14:404][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.08.04-06.48.14:404][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.08.04-06.48.14:564][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.08.04-06.48.14:564][  0]LogD3D11RHI: D3D11 adapters:
+[2019.08.04-06.48.14:639][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2060' (Feature Level 11_0)
+[2019.08.04-06.48.14:639][  0]LogD3D11RHI:       5980/0/8120 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.08.04-06.48.14:652][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2019.08.04-06.48.14:652][  0]LogD3D11RHI:       128/0/8120 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.08.04-06.48.14:653][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.08.04-06.48.14:653][  0]LogD3D11RHI:       0/0/8120 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.08.04-06.48.14:653][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.08.04-06.48.14:681][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.08.04-06.48.14:681][  0]LogD3D11RHI:     GPU DeviceId: 0x1f11 (for the marketing name, search the web for "GPU Device Id")
+[2019.08.04-06.48.14:681][  0]LogWindows: EnumDisplayDevices:
+[2019.08.04-06.48.14:682][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2019.08.04-06.48.14:682][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.08.04-06.48.14:682][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.08.04-06.48.14:682][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2019.08.04-06.48.14:683][  0]LogWindows:    4. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2019.08.04-06.48.14:683][  0]LogWindows:    5. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2019.08.04-06.48.14:683][  0]LogWindows:    6. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2019.08.04-06.48.14:683][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2019.08.04-06.48.14:683][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2060
+[2019.08.04-06.48.14:684][  0]LogD3D11RHI:   Driver Version: 431.60 (internal:26.21.14.3160, unified:431.60)
+[2019.08.04-06.48.14:684][  0]LogD3D11RHI:      Driver Date: 7-17-2019
+[2019.08.04-06.48.14:684][  0]LogRHI: Texture pool is 4186 MB (70% of 5980 MB)
+[2019.08.04-06.48.14:729][  0]LogD3D11RHI: Async texture creation enabled
+[2019.08.04-06.48.14:735][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.08.04-06.48.14:735][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.08.04-06.48.14:735][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.08.04-06.48.14:743][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.08.04-06.48.14:964][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.08.04-06.48.14:975][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.08.04-06.48.14:986][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.08.04-06.48.14:998][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.08.04-06.48.15:010][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.08.04-06.48.15:021][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.08.04-06.48.15:032][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.08.04-06.48.15:044][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.08.04-06.48.15:050][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.08.04-06.48.15:119][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.08.04-06.48.15:119][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.08.04-06.48.15:119][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.08.04-06.48.15:119][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.08.04-06.48.15:119][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.08.04-06.48.15:119][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.08.04-06.48.15:119][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.08.04-06.48.15:119][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.08.04-06.48.15:119][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.08.04-06.48.15:119][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.08.04-06.48.15:119][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.08.04-06.48.15:119][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.08.04-06.48.15:119][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.08.04-06.48.15:119][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.08.04-06.48.15:119][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.08.04-06.48.15:119][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.08.04-06.48.15:119][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.08.04-06.48.15:119][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.08.04-06.48.15:120][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.08.04-06.48.15:164][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.08.04-06.48.15:164][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.08.04-06.48.15:184][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.08.04-06.48.15:184][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.08.04-06.48.15:193][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.08.04-06.48.15:204][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.08.04-06.48.15:214][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.08.04-06.48.15:225][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.08.04-06.48.15:261][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.08.04-06.48.15:262][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.08.04-06.48.15:262][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.08.04-06.48.15:268][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.08.04-06.48.15:313][  0]LogShaderCompilers: Guid format shader working directory is -15 characters bigger than the processId version (../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Intermediate/Shaders/WorkingDirectory/5904/).
+[2019.08.04-06.48.15:313][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/tecla/AppData/Local/Temp/UnrealShaderWorkingDir/8C62161F433A65A03E7F4E93C87A9525/'.
+[2019.08.04-06.48.15:315][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.08.04-06.48.15:315][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.08.04-06.48.15:315][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.08.04-06.48.15:773][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.08.04-06.48.15:811][  0]LogDerivedDataCache: Loaded boot cache 0.04s 71MB C:/Users/tecla/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.08.04-06.48.15:811][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/tecla/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.08.04-06.48.15:811][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/tecla/Documents/Unreal Projects/Prova/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.08.04-06.48.15:811][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.08.04-06.48.15:812][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/tecla/Documents/Unreal Projects/Prova/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.08.04-06.48.15:812][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.08.04-06.48.15:822][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.08.04-06.48.15:822][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.08.04-06.48.15:822][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.08.04-06.48.15:834][  0]LogDerivedDataCache: Using Local data cache path C:/Users/tecla/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.08.04-06.48.15:834][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.08.04-06.48.15:834][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.08.04-06.48.15:852][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.08.04-06.48.15:853][  0]LogSlate: Using FreeType 2.6.0
+[2019.08.04-06.48.15:853][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.08.04-06.48.15:924][  0]LogAssetRegistry: FAssetRegistry took 0.0314 seconds to start up
+[2019.08.04-06.48.16:249][  0]LogInit: Selected Device Profile: [Windows]
+[2019.08.04-06.48.16:447][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.08.04-06.48.16:447][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.08.04-06.48.16:447][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.08.04-06.48.16:447][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.08.04-06.48.16:447][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.08.04-06.48.16:461][  0]LogNetVersion: Prova 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 914732070)
+[2019.08.04-06.48.16:813][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.027260 seconds
+[2019.08.04-06.48.16:818][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.08.04-06.48.16:818][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.08.04-06.48.16:818][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.08.04-06.48.17:540][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.08.04-06.48.17:553][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.08.04-06.48.17:654][  0]SourceControl: Source control is disabled
+[2019.08.04-06.48.17:654][  0]SourceControl: Source control is disabled
+[2019.08.04-06.48.17:656][  0]SourceControl: Source control is disabled
+[2019.08.04-06.48.17:657][  0]SourceControl: Source control is disabled
+[2019.08.04-06.48.17:719][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.08.04-06.48.17:787][  0]LogOcInput: OculusInput pre-init called
+[2019.08.04-06.48.18:366][  0]LogEngine: Initializing Engine...
+[2019.08.04-06.48.18:366][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.08.04-06.48.18:367][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.08.04-06.48.18:555][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.08.04-06.48.18:567][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.08.04-06.48.18:577][  0]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.04-06.48.18:840][  0]LogInit: FAudioDevice initialized.
+[2019.08.04-06.48.18:840][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.08.04-06.48.18:877][  0]LogDerivedDataCache: Saved boot cache 0.04s 71MB C:/Users/tecla/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.08.04-06.48.18:880][  0]LogInit: Texture streaming: Enabled
+[2019.08.04-06.48.18:896][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.08.04-06.48.18:912][  0]LogInit: Transaction tracking system initialized
+[2019.08.04-06.48.18:935][  0]BlueprintLog: New page: Editor Load
+[2019.08.04-06.48.19:009][  0]LocalizationService: Localization service is disabled
+[2019.08.04-06.48.19:102][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/ThirdPersonOverview'
+[2019.08.04-06.48.19:102][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/ThirdPersonOverview'
+[2019.08.04-06.48.19:102][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/ThirdPersonBP/ThirdPersonOverview.ThirdPersonOverview_C'
+[2019.08.04-06.48.19:266][  0]LogFileCache: Scanning file cache for directory 'C:/Users/tecla/Documents/Unreal Projects/Prova/Content/' took 0.02s
+[2019.08.04-06.48.19:266][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.08.04-06.48.19:266][  0]LogCook: Display: Mobile HDR setting 1
+[2019.08.04-06.48.19:406][  0]SourceControl: Source control is disabled
+[2019.08.04-06.48.19:406][  0]Cmd: MAP LOAD FILE="../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Content/RuinLevel/RuinLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.08.04-06.48.19:406][  0]LightingResults: New page: Lighting Build
+[2019.08.04-06.48.19:408][  0]MapCheck: New page: Map Check
+[2019.08.04-06.48.19:408][  0]LightingResults: New page: Lighting Build
+[2019.08.04-06.48.19:432][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2019.08.04-06.48.19:481][  0]LogBlueprint: Warning: [Compiler StateMachineAnimatorCharacter] Node  Result  uses potentially thread-unsafe call  Try Get Pawn Owner . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2019.08.04-06.48.19:482][  0]LogBlueprint: Warning: [Compiler StateMachineAnimatorCharacter] Node  Result  uses potentially thread-unsafe call  Try Get Pawn Owner . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2019.08.04-06.48.19:482][  0]LogBlueprint: Warning: [Compiler StateMachineAnimatorCharacter] Node  Result  uses potentially thread-unsafe call  Get Movement Component . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2019.08.04-06.48.19:482][  0]LogBlueprint: Warning: [Compiler StateMachineAnimatorCharacter] Node  Result  uses potentially thread-unsafe call  Try Get Pawn Owner . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2019.08.04-06.48.19:482][  0]LogBlueprint: Warning: [Compiler StateMachineAnimatorCharacter] Node  Result  uses potentially thread-unsafe call  Try Get Pawn Owner . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2019.08.04-06.48.19:482][  0]LogBlueprint: Warning: [Compiler StateMachineAnimatorCharacter] Node  Result  uses potentially thread-unsafe call  Get Movement Component . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2019.08.04-06.48.19:483][  0]LogBlueprint: Warning: [Compiler StateMachineAnimatorCharacter] [0006,84] Compile of StateMachineAnimatorCharacter successful, but with 6 Warning(s) [in 12 ms] (/Game/RuinLevel/Blueprints/assets/Character/Animations/StateMachine/StateMachineAnimatorCharacter.StateMachineAnimatorCharacter)
+[2019.08.04-06.48.20:149][  0]LogAIModule: Creating AISystem for world RuinLevel
+[2019.08.04-06.48.20:152][  0]LogMaterial: Warning: Material /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Flora/Materials/M_Plains_Tree_Stump01.M_Plains_Tree_Stump01 needed to have new flag set bUsedWithInstancedStaticMeshes !
+[2019.08.04-06.48.20:163][  0]LogMaterial: Display: Missing cached shader map for material M_Plains_Tree_Stump01, compiling. 
+[2019.08.04-06.48.20:248][  0]MapCheck: Warning: M_Plains_Tree_Stump01 Material /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Flora/Materials/M_Plains_Tree_Stump01.M_Plains_Tree_Stump01 was missing the usage flag bUsedWithInstancedStaticMeshes. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2019.08.04-06.48.20:301][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.08.04-06.48.20:352][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2019.08.04-06.48.20:352][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.08.04-06.48.20:352][  0]MapCheck: Map check complete: 0 Error(s), 1 Warning(s), took 0,207ms to complete.
+[2019.08.04-06.48.20:357][  0]LogFileHelpers: Loading map 'RuinLevel' took 0.951
+[2019.08.04-06.48.20:469][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.04-06.48.20:483][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.04-06.48.20:496][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.04-06.48.20:508][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.04-06.48.20:734][  0]LogCollectionManager: Loaded 0 collections in 0.002459 seconds
+[2019.08.04-06.48.20:774][  0]LogFileCache: Scanning file cache for directory 'C:/Users/tecla/Documents/Unreal Projects/Prova/Saved/Collections/' took 0.01s
+[2019.08.04-06.48.20:774][  0]LogFileCache: Scanning file cache for directory 'C:/Users/tecla/Documents/Unreal Projects/Prova/Content/Developers/tecla/Collections/' took 0.00s
+[2019.08.04-06.48.20:775][  0]LogFileCache: Scanning file cache for directory 'C:/Users/tecla/Documents/Unreal Projects/Prova/Content/Collections/' took 0.01s
+[2019.08.04-06.48.20:775][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.08.04-06.48.20:791][  0]LogContentBrowser: Native class hierarchy populated in 0.0151 seconds. Added 2733 classes and 661 folders.
+[2019.08.04-06.48.20:805][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2019.08.04-06.48.20:811][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.04-06.48.20:814][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.04-06.48.20:816][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.04-06.48.20:817][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.04-06.48.20:818][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.04-06.48.20:821][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.04-06.48.20:822][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.04-06.48.20:824][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.04-06.48.20:826][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.04-06.48.20:828][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.04-06.48.20:830][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.04-06.48.20:831][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.04-06.48.20:833][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.04-06.48.20:835][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.04-06.48.20:836][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.04-06.48.20:838][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.04-06.48.20:839][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.04-06.48.20:842][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.04-06.48.20:843][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.04-06.48.20:845][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.04-06.48.20:846][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.04-06.48.20:849][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.04-06.48.20:850][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.04-06.48.20:852][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.04-06.48.20:853][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.04-06.48.20:855][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.04-06.48.20:915][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.08.04-06.48.20:922][  0]LogSlate: Took 0.000155 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.08.04-06.48.20:925][  0]LogSlate: Took 0.000173 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.08.04-06.48.21:043][  0]LogRenderer: Reallocating scene render targets to support 828x708 Format 10 NumSamples 1 (Frame:1).
+[2019.08.04-06.48.21:267][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.08.04-06.48.21:267][  0]LogLoad: (Engine Initialization) Total time: 8.62 seconds
+[2019.08.04-06.48.21:267][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.08.04-06.48.21:332][  0]LogAssetRegistry: Asset discovery search completed in 5.4310 seconds
+[2019.08.04-06.48.21:337][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.08.04-06.48.21:337][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000092 seconds (updated 0 objects)
+[2019.08.04-06.48.21:337][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.08.04-06.48.22:302][ 49]LogSlate: Took 0.000633 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.08.04-06.48.22:304][ 49]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.04-06.48.22:313][ 49]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/RuinLevel/Blueprints/assets/Character/EnemyCharacterRuin.EnemyCharacterRuin
+[2019.08.04-06.48.22:764][ 49]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0009 seconds. Added 121 classes and 0 folders.
+[2019.08.04-06.48.23:791][ 49]LogSlate: Took 0.000323 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.08.04-06.48.23:793][ 49]LogSlate: Took 0.000522 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.08.04-06.49.01:235][816]LogBlueprintActionDatabase: Requesting refresh due to module change: ExternalImagePicker (loaded)
+[2019.08.04-06.49.01:988][816]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.08.04-06.51.05:871][340]LogSlate: Window 'Project Settings' being destroyed
+[2019.08.04-06.51.05:876][340]LogSlate: Window 'Project Settings' being destroyed
+[2019.08.04-06.51.09:044][528]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/RuinLevel/Blueprints/assets/Character/PlayerControllerRuin.PlayerControllerRuin
+[2019.08.04-06.51.09:369][529]LogSlate: Took 0.000539 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.08.04-06.52.36:789][ 78]LogRenderer: Reallocating scene render targets to support 912x708 Format 10 NumSamples 1 (Frame:1).
+[2019.08.04-06.54.43:752][ 98]LogSavePackage: Moving '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Saved/AttackSword1AnimMontage98D7222C427DCA64C8C949B17E244DBE.tmp' to '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Content/RuinLevel/Blueprints/assets/Character/Animations/AttackSword1AnimMontage.uasset'
+[2019.08.04-06.55.03:745][487]LogAssetEditorManager: Opening Asset editor for AnimMontage /Game/RuinLevel/Blueprints/assets/Character/Animations/AttackSword1AnimMontage.AttackSword1AnimMontage
+[2019.08.04-06.55.03:753][487]LogBlueprintActionDatabase: Requesting refresh due to module change: AnimationEditor (loaded)
+[2019.08.04-06.55.03:769][487]LogBlueprintActionDatabase: Requesting refresh due to module change: SkeletonEditor (loaded)
+[2019.08.04-06.55.03:770][487]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.08.04-06.55.03:946][487]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.04-06.55.03:953][487]LogBlueprintActionDatabase: Requesting refresh due to module change: PinnedCommandList (loaded)
+[2019.08.04-06.55.03:953][487]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2019.08.04-06.55.03:988][487]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.08.04-06.55.04:473][487]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue1
+	StateMachineAnimatorCharacter_C /Engine/Transient.World_9:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.StateMachineAnimatorCharacter_C_0
+	Function /Game/RuinLevel/Blueprints/assets/Character/Animations/StateMachine/StateMachineAnimatorCharacter.StateMachineAnimatorCharacter_C:ExecuteUbergraph_StateMachineAnimatorCharacter:0290
+[2019.08.04-06.55.04:473][487]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue1
+	StateMachineAnimatorCharacter_C /Engine/Transient.World_9:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.StateMachineAnimatorCharacter_C_0
+	Function /Game/RuinLevel/Blueprints/assets/Character/Animations/StateMachine/StateMachineAnimatorCharacter.StateMachineAnimatorCharacter_C:ExecuteUbergraph_StateMachineAnimatorCharacter:02BE
+[2019.08.04-06.55.04:536][487]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.08.04-06.55.31:317][478]LogUObjectHash: Compacting FUObjectHashTables data took   6.77ms
+[2019.08.04-06.55.31:337][478]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RuinLevel/RuinLevel" FILE="../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Content/RuinLevel/RuinLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.08.04-06.55.31:378][478]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2019.08.04-06.55.31:832][478]LogSavePackage: Moving '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Saved/RuinLevelCAD720194B7A7883751809A1ECDCF5FD.tmp' to '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Content/RuinLevel/RuinLevel.umap'
+[2019.08.04-06.55.31:860][478]LogFileHelpers: Saving map 'RuinLevel' took 0.524
+[2019.08.04-06.55.31:911][478]LogSavePackage: Moving '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Saved/EnemyCharacterRuin43C024C544CD8EA83C76BB83CA4BC5FE.tmp' to '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Content/RuinLevel/Blueprints/assets/Character/EnemyCharacterRuin.uasset'
+[2019.08.04-06.55.31:946][478]LogSavePackage: Moving '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Saved/PlayerControllerRuin06D309CF4D80B067E8A47699646B381A.tmp' to '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Content/RuinLevel/Blueprints/assets/Character/PlayerControllerRuin.uasset'
+[2019.08.04-06.59.43:161][107]BlueprintLog: New page: Compile PlayerControllerRuin
+[2019.08.04-06.59.43:352][107]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2019.08.04-07.00.41:065][606]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2019.08.04-07.00.41:127][606]LogSavePackage: Moving '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Saved/EnemyCharacterRuin3CDF4E404FABBEC813294FA969384C41.tmp' to '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Content/RuinLevel/Blueprints/assets/Character/EnemyCharacterRuin.uasset'
+[2019.08.04-07.00.41:158][606]LogSavePackage: Moving '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Saved/PlayerControllerRuin915CE64B4DFB0FCEBF4EAEA8AECD2081.tmp' to '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Content/RuinLevel/Blueprints/assets/Character/PlayerControllerRuin.uasset'
+[2019.08.04-07.10.28:597][624]BlueprintLog: New page: Compile EnemyCharacterRuin
+[2019.08.04-07.10.28:815][624]LogUObjectHash: Compacting FUObjectHashTables data took   4.55ms
+[2019.08.04-07.10.30:156][704]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.08.04-07.10.35:135][998]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/RuinLevel/Blueprints/assets/Character/Animations/StateMachine/StateMachineAnimatorCharacter.StateMachineAnimatorCharacter
+[2019.08.04-07.10.35:151][998]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.04-07.10.35:151][998]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue1
+	StateMachineAnimatorCharacter_C /Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.StateMachineAnimatorCharacter_C_0
+	Function /Game/RuinLevel/Blueprints/assets/Character/Animations/StateMachine/StateMachineAnimatorCharacter.StateMachineAnimatorCharacter_C:ExecuteUbergraph_StateMachineAnimatorCharacter:0290
+[2019.08.04-07.10.35:151][998]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue1
+	StateMachineAnimatorCharacter_C /Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.StateMachineAnimatorCharacter_C_0
+	Function /Game/RuinLevel/Blueprints/assets/Character/Animations/StateMachine/StateMachineAnimatorCharacter.StateMachineAnimatorCharacter_C:ExecuteUbergraph_StateMachineAnimatorCharacter:02BE
+[2019.08.04-07.10.35:371][998]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.08.04-07.10.35:534][998]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue1
+	StateMachineAnimatorCharacter_C /Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.StateMachineAnimatorCharacter_C_0
+	Function /Game/RuinLevel/Blueprints/assets/Character/Animations/StateMachine/StateMachineAnimatorCharacter.StateMachineAnimatorCharacter_C:ExecuteUbergraph_StateMachineAnimatorCharacter:0290
+[2019.08.04-07.10.35:534][998]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue1
+	StateMachineAnimatorCharacter_C /Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.StateMachineAnimatorCharacter_C_0
+	Function /Game/RuinLevel/Blueprints/assets/Character/Animations/StateMachine/StateMachineAnimatorCharacter.StateMachineAnimatorCharacter_C:ExecuteUbergraph_StateMachineAnimatorCharacter:02BE
+[2019.08.04-07.10.35:614][998]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.08.04-07.10.35:626][999]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue1
+	StateMachineAnimatorCharacter_C /Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.StateMachineAnimatorCharacter_C_0
+	Function /Game/RuinLevel/Blueprints/assets/Character/Animations/StateMachine/StateMachineAnimatorCharacter.StateMachineAnimatorCharacter_C:ExecuteUbergraph_StateMachineAnimatorCharacter:0290
+[2019.08.04-07.10.35:626][999]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue1
+	StateMachineAnimatorCharacter_C /Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.StateMachineAnimatorCharacter_C_0
+	Function /Game/RuinLevel/Blueprints/assets/Character/Animations/StateMachine/StateMachineAnimatorCharacter.StateMachineAnimatorCharacter_C:ExecuteUbergraph_StateMachineAnimatorCharacter:02BE
+[2019.08.04-07.10.35:642][  0]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue1
+	StateMachineAnimatorCharacter_C /Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.StateMachineAnimatorCharacter_C_0
+	Function /Game/RuinLevel/Blueprints/assets/Character/Animations/StateMachine/StateMachineAnimatorCharacter.StateMachineAnimatorCharacter_C:ExecuteUbergraph_StateMachineAnimatorCharacter:0290
+[2019.08.04-07.10.35:642][  0]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue1
+	StateMachineAnimatorCharacter_C /Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.StateMachineAnimatorCharacter_C_0
+	Function /Game/RuinLevel/Blueprints/assets/Character/Animations/StateMachine/StateMachineAnimatorCharacter.StateMachineAnimatorCharacter_C:ExecuteUbergraph_StateMachineAnimatorCharacter:02BE
+[2019.08.04-07.10.35:659][  1]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue1
+	StateMachineAnimatorCharacter_C /Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.StateMachineAnimatorCharacter_C_0
+	Function /Game/RuinLevel/Blueprints/assets/Character/Animations/StateMachine/StateMachineAnimatorCharacter.StateMachineAnimatorCharacter_C:ExecuteUbergraph_StateMachineAnimatorCharacter:0290
+[2019.08.04-07.10.35:659][  1]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue1
+	StateMachineAnimatorCharacter_C /Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.StateMachineAnimatorCharacter_C_0
+	Function /Game/RuinLevel/Blueprints/assets/Character/Animations/StateMachine/StateMachineAnimatorCharacter.StateMachineAnimatorCharacter_C:ExecuteUbergraph_StateMachineAnimatorCharacter:02BE
+[2019.08.04-07.10.35:676][  2]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue1
+	StateMachineAnimatorCharacter_C /Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.StateMachineAnimatorCharacter_C_0
+	Function /Game/RuinLevel/Blueprints/assets/Character/Animations/StateMachine/StateMachineAnimatorCharacter.StateMachineAnimatorCharacter_C:ExecuteUbergraph_StateMachineAnimatorCharacter:0290
+[2019.08.04-07.10.35:676][  2]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue1
+	StateMachineAnimatorCharacter_C /Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.StateMachineAnimatorCharacter_C_0
+	Function /Game/RuinLevel/Blueprints/assets/Character/Animations/StateMachine/StateMachineAnimatorCharacter.StateMachineAnimatorCharacter_C:ExecuteUbergraph_StateMachineAnimatorCharacter:02BE
+[2019.08.04-07.10.35:692][  3]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue1
+	StateMachineAnimatorCharacter_C /Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.StateMachineAnimatorCharacter_C_0
+	Function /Game/RuinLevel/Blueprints/assets/Character/Animations/StateMachine/StateMachineAnimatorCharacter.StateMachineAnimatorCharacter_C:ExecuteUbergraph_StateMachineAnimatorCharacter:0290
+[2019.08.04-07.10.35:692][  3]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue1
+	StateMachineAnimatorCharacter_C /Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.StateMachineAnimatorCharacter_C_0
+	Function /Game/RuinLevel/Blueprints/assets/Character/Animations/StateMachine/StateMachineAnimatorCharacter.StateMachineAnimatorCharacter_C:ExecuteUbergraph_StateMachineAnimatorCharacter:02BE
+[2019.08.04-07.10.35:709][  4]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue1
+	StateMachineAnimatorCharacter_C /Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.StateMachineAnimatorCharacter_C_0
+	Function /Game/RuinLevel/Blueprints/assets/Character/Animations/StateMachine/StateMachineAnimatorCharacter.StateMachineAnimatorCharacter_C:ExecuteUbergraph_StateMachineAnimatorCharacter:0290
+[2019.08.04-07.10.50:358][768]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/RuinLevel/Blueprints/assets/Character/Animations/Player_Land.Player_Land
+[2019.08.04-07.10.50:373][768]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.04-07.10.50:389][768]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.08.04-07.10.50:670][768]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.08.04-07.11.25:849][795]LogUObjectHash: Compacting FUObjectHashTables data took   4.74ms
+[2019.08.04-07.11.26:280][795]LogSavePackage: Moving '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Saved/RuinLevel_Auto1E1B3EFBA4DDE49900C9644A9E8918495.tmp' to '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Saved/Autosaves/Game/RuinLevel/RuinLevel_Auto1.umap'
+[2019.08.04-07.11.26:283][795]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/RuinLevel/RuinLevel' took 0.506
+[2019.08.04-07.11.26:283][795]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.506
+[2019.08.04-07.15.22:975][ 58]LogSavePackage: Moving '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Saved/StateMachineAnimatorCharacter3EF7B45D443CBED5310EC38BEBE14974.tmp' to '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Content/RuinLevel/Blueprints/assets/Character/Animations/StateMachine/StateMachineAnimatorCharacter.uasset'
+[2019.08.04-07.19.46:387][408]BlueprintLog: New page: Compile StateMachineAnimatorCharacter
+[2019.08.04-07.19.46:396][408]LogBlueprint: Warning: [Compiler StateMachineAnimatorCharacter] Node  Result  uses potentially thread-unsafe call  Try Get Pawn Owner . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2019.08.04-07.19.46:396][408]LogBlueprint: Warning: [Compiler StateMachineAnimatorCharacter] Node  Result  uses potentially thread-unsafe call  Try Get Pawn Owner . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2019.08.04-07.19.46:396][408]LogBlueprint: Warning: [Compiler StateMachineAnimatorCharacter] Node  Result  uses potentially thread-unsafe call  Get Movement Component . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2019.08.04-07.19.46:397][408]LogBlueprint: Warning: [Compiler StateMachineAnimatorCharacter] Node  Result  uses potentially thread-unsafe call  Try Get Pawn Owner . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2019.08.04-07.19.46:397][408]LogBlueprint: Warning: [Compiler StateMachineAnimatorCharacter] Node  Result  uses potentially thread-unsafe call  Try Get Pawn Owner . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2019.08.04-07.19.46:397][408]LogBlueprint: Warning: [Compiler StateMachineAnimatorCharacter] Node  Result  uses potentially thread-unsafe call  Get Movement Component . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2019.08.04-07.19.46:523][408]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	StateMachineAnimatorCharacter_C /Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.StateMachineAnimatorCharacter_C_1
+	Function /Game/RuinLevel/Blueprints/assets/Character/Animations/StateMachine/StateMachineAnimatorCharacter.StateMachineAnimatorCharacter_C:ExecuteUbergraph_StateMachineAnimatorCharacter:016F
+[2019.08.04-07.19.46:523][408]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	StateMachineAnimatorCharacter_C /Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.StateMachineAnimatorCharacter_C_1
+	Function /Game/RuinLevel/Blueprints/assets/Character/Animations/StateMachine/StateMachineAnimatorCharacter.StateMachineAnimatorCharacter_C:ExecuteUbergraph_StateMachineAnimatorCharacter:019D
+[2019.08.04-07.19.46:523][408]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	StateMachineAnimatorCharacter_C /Engine/Transient.World_9:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.StateMachineAnimatorCharacter_C_1
+	Function /Game/RuinLevel/Blueprints/assets/Character/Animations/StateMachine/StateMachineAnimatorCharacter.StateMachineAnimatorCharacter_C:ExecuteUbergraph_StateMachineAnimatorCharacter:016F
+[2019.08.04-07.19.46:523][408]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	StateMachineAnimatorCharacter_C /Engine/Transient.World_9:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.StateMachineAnimatorCharacter_C_1
+	Function /Game/RuinLevel/Blueprints/assets/Character/Animations/StateMachine/StateMachineAnimatorCharacter.StateMachineAnimatorCharacter_C:ExecuteUbergraph_StateMachineAnimatorCharacter:019D
+[2019.08.04-07.19.46:573][408]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2019.08.04-07.19.46:577][408]LogBlueprint: Warning: [Compiler StateMachineAnimatorCharacter] [1895,25] Compile of StateMachineAnimatorCharacter successful, but with 6 Warning(s) [in 189 ms] (/Game/RuinLevel/Blueprints/assets/Character/Animations/StateMachine/StateMachineAnimatorCharacter.StateMachineAnimatorCharacter)
+[2019.08.04-07.19.46:581][408]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	StateMachineAnimatorCharacter_C /Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.StateMachineAnimatorCharacter_C_1
+	Function /Game/RuinLevel/Blueprints/assets/Character/Animations/StateMachine/StateMachineAnimatorCharacter.StateMachineAnimatorCharacter_C:ExecuteUbergraph_StateMachineAnimatorCharacter:016F
+[2019.08.04-07.19.46:581][408]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	StateMachineAnimatorCharacter_C /Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.StateMachineAnimatorCharacter_C_1
+	Function /Game/RuinLevel/Blueprints/assets/Character/Animations/StateMachine/StateMachineAnimatorCharacter.StateMachineAnimatorCharacter_C:ExecuteUbergraph_StateMachineAnimatorCharacter:019D
+[2019.08.04-07.19.46:604][409]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	StateMachineAnimatorCharacter_C /Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.StateMachineAnimatorCharacter_C_1
+	Function /Game/RuinLevel/Blueprints/assets/Character/Animations/StateMachine/StateMachineAnimatorCharacter.StateMachineAnimatorCharacter_C:ExecuteUbergraph_StateMachineAnimatorCharacter:016F
+[2019.08.04-07.19.46:604][409]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	StateMachineAnimatorCharacter_C /Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.StateMachineAnimatorCharacter_C_1
+	Function /Game/RuinLevel/Blueprints/assets/Character/Animations/StateMachine/StateMachineAnimatorCharacter.StateMachineAnimatorCharacter_C:ExecuteUbergraph_StateMachineAnimatorCharacter:019D
+[2019.08.04-07.19.46:621][410]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	StateMachineAnimatorCharacter_C /Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.StateMachineAnimatorCharacter_C_1
+	Function /Game/RuinLevel/Blueprints/assets/Character/Animations/StateMachine/StateMachineAnimatorCharacter.StateMachineAnimatorCharacter_C:ExecuteUbergraph_StateMachineAnimatorCharacter:016F
+[2019.08.04-07.19.46:621][410]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	StateMachineAnimatorCharacter_C /Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.StateMachineAnimatorCharacter_C_1
+	Function /Game/RuinLevel/Blueprints/assets/Character/Animations/StateMachine/StateMachineAnimatorCharacter.StateMachineAnimatorCharacter_C:ExecuteUbergraph_StateMachineAnimatorCharacter:019D
+[2019.08.04-07.19.46:637][411]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	StateMachineAnimatorCharacter_C /Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.StateMachineAnimatorCharacter_C_1
+	Function /Game/RuinLevel/Blueprints/assets/Character/Animations/StateMachine/StateMachineAnimatorCharacter.StateMachineAnimatorCharacter_C:ExecuteUbergraph_StateMachineAnimatorCharacter:016F
+[2019.08.04-07.19.46:637][411]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	StateMachineAnimatorCharacter_C /Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.StateMachineAnimatorCharacter_C_1
+	Function /Game/RuinLevel/Blueprints/assets/Character/Animations/StateMachine/StateMachineAnimatorCharacter.StateMachineAnimatorCharacter_C:ExecuteUbergraph_StateMachineAnimatorCharacter:019D
+[2019.08.04-07.19.46:655][412]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	StateMachineAnimatorCharacter_C /Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.StateMachineAnimatorCharacter_C_1
+	Function /Game/RuinLevel/Blueprints/assets/Character/Animations/StateMachine/StateMachineAnimatorCharacter.StateMachineAnimatorCharacter_C:ExecuteUbergraph_StateMachineAnimatorCharacter:016F
+[2019.08.04-07.19.46:655][412]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	StateMachineAnimatorCharacter_C /Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.StateMachineAnimatorCharacter_C_1
+	Function /Game/RuinLevel/Blueprints/assets/Character/Animations/StateMachine/StateMachineAnimatorCharacter.StateMachineAnimatorCharacter_C:ExecuteUbergraph_StateMachineAnimatorCharacter:019D
+[2019.08.04-07.19.46:671][413]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	StateMachineAnimatorCharacter_C /Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.StateMachineAnimatorCharacter_C_1
+	Function /Game/RuinLevel/Blueprints/assets/Character/Animations/StateMachine/StateMachineAnimatorCharacter.StateMachineAnimatorCharacter_C:ExecuteUbergraph_StateMachineAnimatorCharacter:016F
+[2019.08.04-07.19.46:671][413]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	StateMachineAnimatorCharacter_C /Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.StateMachineAnimatorCharacter_C_1
+	Function /Game/RuinLevel/Blueprints/assets/Character/Animations/StateMachine/StateMachineAnimatorCharacter.StateMachineAnimatorCharacter_C:ExecuteUbergraph_StateMachineAnimatorCharacter:019D
+[2019.08.04-07.19.46:687][414]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	StateMachineAnimatorCharacter_C /Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.StateMachineAnimatorCharacter_C_1
+	Function /Game/RuinLevel/Blueprints/assets/Character/Animations/StateMachine/StateMachineAnimatorCharacter.StateMachineAnimatorCharacter_C:ExecuteUbergraph_StateMachineAnimatorCharacter:016F
+[2019.08.04-07.20.07:108][424]LogSavePackage: Moving '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Saved/StateMachineAnimatorCharacter059F324F4A980857FC74109226C5540F.tmp' to '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Content/RuinLevel/Blueprints/assets/Character/Animations/StateMachine/StateMachineAnimatorCharacter.uasset'
+[2019.08.04-07.20.08:479][506]BlueprintLog: New page: Compile StateMachineAnimatorCharacter
+[2019.08.04-07.20.08:487][506]LogBlueprint: Warning: [Compiler StateMachineAnimatorCharacter] Node  Result  uses potentially thread-unsafe call  Try Get Pawn Owner . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2019.08.04-07.20.08:487][506]LogBlueprint: Warning: [Compiler StateMachineAnimatorCharacter] Node  Result  uses potentially thread-unsafe call  Try Get Pawn Owner . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2019.08.04-07.20.08:487][506]LogBlueprint: Warning: [Compiler StateMachineAnimatorCharacter] Node  Result  uses potentially thread-unsafe call  Get Movement Component . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2019.08.04-07.20.08:487][506]LogBlueprint: Warning: [Compiler StateMachineAnimatorCharacter] Node  Result  uses potentially thread-unsafe call  Try Get Pawn Owner . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2019.08.04-07.20.08:487][506]LogBlueprint: Warning: [Compiler StateMachineAnimatorCharacter] Node  Result  uses potentially thread-unsafe call  Try Get Pawn Owner . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2019.08.04-07.20.08:487][506]LogBlueprint: Warning: [Compiler StateMachineAnimatorCharacter] Node  Result  uses potentially thread-unsafe call  Get Movement Component . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2019.08.04-07.20.08:590][506]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	StateMachineAnimatorCharacter_C /Engine/Transient.World_9:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.StateMachineAnimatorCharacter_C_2
+	Function /Game/RuinLevel/Blueprints/assets/Character/Animations/StateMachine/StateMachineAnimatorCharacter.StateMachineAnimatorCharacter_C:ExecuteUbergraph_StateMachineAnimatorCharacter:016F
+[2019.08.04-07.20.08:590][506]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	StateMachineAnimatorCharacter_C /Engine/Transient.World_9:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.StateMachineAnimatorCharacter_C_2
+	Function /Game/RuinLevel/Blueprints/assets/Character/Animations/StateMachine/StateMachineAnimatorCharacter.StateMachineAnimatorCharacter_C:ExecuteUbergraph_StateMachineAnimatorCharacter:019D
+[2019.08.04-07.20.08:590][506]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	StateMachineAnimatorCharacter_C /Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.StateMachineAnimatorCharacter_C_2
+	Function /Game/RuinLevel/Blueprints/assets/Character/Animations/StateMachine/StateMachineAnimatorCharacter.StateMachineAnimatorCharacter_C:ExecuteUbergraph_StateMachineAnimatorCharacter:016F
+[2019.08.04-07.20.08:591][506]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	StateMachineAnimatorCharacter_C /Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.StateMachineAnimatorCharacter_C_2
+	Function /Game/RuinLevel/Blueprints/assets/Character/Animations/StateMachine/StateMachineAnimatorCharacter.StateMachineAnimatorCharacter_C:ExecuteUbergraph_StateMachineAnimatorCharacter:019D
+[2019.08.04-07.20.08:622][506]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2019.08.04-07.20.08:626][506]LogBlueprint: Warning: [Compiler StateMachineAnimatorCharacter] [1917,30] Compile of StateMachineAnimatorCharacter successful, but with 6 Warning(s) [in 146 ms] (/Game/RuinLevel/Blueprints/assets/Character/Animations/StateMachine/StateMachineAnimatorCharacter.StateMachineAnimatorCharacter)
+[2019.08.04-07.20.08:627][506]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	StateMachineAnimatorCharacter_C /Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.StateMachineAnimatorCharacter_C_2
+	Function /Game/RuinLevel/Blueprints/assets/Character/Animations/StateMachine/StateMachineAnimatorCharacter.StateMachineAnimatorCharacter_C:ExecuteUbergraph_StateMachineAnimatorCharacter:016F
+[2019.08.04-07.20.08:627][506]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	StateMachineAnimatorCharacter_C /Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.StateMachineAnimatorCharacter_C_2
+	Function /Game/RuinLevel/Blueprints/assets/Character/Animations/StateMachine/StateMachineAnimatorCharacter.StateMachineAnimatorCharacter_C:ExecuteUbergraph_StateMachineAnimatorCharacter:019D
+[2019.08.04-07.20.08:652][507]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	StateMachineAnimatorCharacter_C /Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.StateMachineAnimatorCharacter_C_2
+	Function /Game/RuinLevel/Blueprints/assets/Character/Animations/StateMachine/StateMachineAnimatorCharacter.StateMachineAnimatorCharacter_C:ExecuteUbergraph_StateMachineAnimatorCharacter:016F
+[2019.08.04-07.20.08:652][507]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	StateMachineAnimatorCharacter_C /Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.StateMachineAnimatorCharacter_C_2
+	Function /Game/RuinLevel/Blueprints/assets/Character/Animations/StateMachine/StateMachineAnimatorCharacter.StateMachineAnimatorCharacter_C:ExecuteUbergraph_StateMachineAnimatorCharacter:019D
+[2019.08.04-07.20.08:668][508]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	StateMachineAnimatorCharacter_C /Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.StateMachineAnimatorCharacter_C_2
+	Function /Game/RuinLevel/Blueprints/assets/Character/Animations/StateMachine/StateMachineAnimatorCharacter.StateMachineAnimatorCharacter_C:ExecuteUbergraph_StateMachineAnimatorCharacter:016F
+[2019.08.04-07.20.08:668][508]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	StateMachineAnimatorCharacter_C /Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.StateMachineAnimatorCharacter_C_2
+	Function /Game/RuinLevel/Blueprints/assets/Character/Animations/StateMachine/StateMachineAnimatorCharacter.StateMachineAnimatorCharacter_C:ExecuteUbergraph_StateMachineAnimatorCharacter:019D
+[2019.08.04-07.20.08:685][509]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	StateMachineAnimatorCharacter_C /Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.StateMachineAnimatorCharacter_C_2
+	Function /Game/RuinLevel/Blueprints/assets/Character/Animations/StateMachine/StateMachineAnimatorCharacter.StateMachineAnimatorCharacter_C:ExecuteUbergraph_StateMachineAnimatorCharacter:016F
+[2019.08.04-07.20.08:685][509]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	StateMachineAnimatorCharacter_C /Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.StateMachineAnimatorCharacter_C_2
+	Function /Game/RuinLevel/Blueprints/assets/Character/Animations/StateMachine/StateMachineAnimatorCharacter.StateMachineAnimatorCharacter_C:ExecuteUbergraph_StateMachineAnimatorCharacter:019D
+[2019.08.04-07.20.08:701][510]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	StateMachineAnimatorCharacter_C /Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.StateMachineAnimatorCharacter_C_2
+	Function /Game/RuinLevel/Blueprints/assets/Character/Animations/StateMachine/StateMachineAnimatorCharacter.StateMachineAnimatorCharacter_C:ExecuteUbergraph_StateMachineAnimatorCharacter:016F
+[2019.08.04-07.20.08:701][510]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	StateMachineAnimatorCharacter_C /Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.StateMachineAnimatorCharacter_C_2
+	Function /Game/RuinLevel/Blueprints/assets/Character/Animations/StateMachine/StateMachineAnimatorCharacter.StateMachineAnimatorCharacter_C:ExecuteUbergraph_StateMachineAnimatorCharacter:019D
+[2019.08.04-07.20.08:718][511]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	StateMachineAnimatorCharacter_C /Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.StateMachineAnimatorCharacter_C_2
+	Function /Game/RuinLevel/Blueprints/assets/Character/Animations/StateMachine/StateMachineAnimatorCharacter.StateMachineAnimatorCharacter_C:ExecuteUbergraph_StateMachineAnimatorCharacter:016F
+[2019.08.04-07.20.08:718][511]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	StateMachineAnimatorCharacter_C /Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.StateMachineAnimatorCharacter_C_2
+	Function /Game/RuinLevel/Blueprints/assets/Character/Animations/StateMachine/StateMachineAnimatorCharacter.StateMachineAnimatorCharacter_C:ExecuteUbergraph_StateMachineAnimatorCharacter:019D
+[2019.08.04-07.20.08:734][512]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	StateMachineAnimatorCharacter_C /Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.StateMachineAnimatorCharacter_C_2
+	Function /Game/RuinLevel/Blueprints/assets/Character/Animations/StateMachine/StateMachineAnimatorCharacter.StateMachineAnimatorCharacter_C:ExecuteUbergraph_StateMachineAnimatorCharacter:016F
+[2019.08.04-07.20.56:411][365]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/RuinLevel/Blueprints/assets/Character/PlayerControllerRuin.PlayerControllerRuin
+[2019.08.04-07.21.40:534][986]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/RuinLevel/Blueprints/assets/Character/EnemyCharacterRuin.EnemyCharacterRuin
+[2019.08.04-07.22.30:608][967]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2019.08.04-07.22.30:625][967]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RuinLevel/RuinLevel" FILE="../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Content/RuinLevel/RuinLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.08.04-07.22.30:655][967]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2019.08.04-07.22.31:046][967]LogSavePackage: Moving '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Saved/RuinLevel5354FA8E4D96BAEC1C9BA7AAE0067665.tmp' to '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Content/RuinLevel/RuinLevel.umap'
+[2019.08.04-07.22.31:066][967]LogFileHelpers: Saving map 'RuinLevel' took 0.441
+[2019.08.04-07.22.31:076][967]LogSavePackage: Moving '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Saved/S_Player_Character2_Skeleton9F0570884C7CDB344B93E3972E218A6B.tmp' to '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Content/RuinLevel/Blueprints/assets/Character/S_Player_Character2_Skeleton.uasset'
+[2019.08.04-07.23.07:781][156]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/RuinLevel/Blueprints/assets/Character/Animations/StateMachine/StateMachineAnimatorCharacter.StateMachineAnimatorCharacter
+[2019.08.04-07.23.07:799][156]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.04-07.23.08:014][156]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.08.04-07.24.02:087][376]LogAssetEditorManager: Opening Asset editor for BlendSpace /Game/RuinLevel/Blueprints/assets/Character/Animations/StateMachine/MovementBlendSpace.MovementBlendSpace
+[2019.08.04-07.24.02:099][376]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.04-07.24.02:115][376]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.08.04-07.24.02:339][376]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.08.04-07.26.07:962][887]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/RuinLevel/Blueprints/assets/Character/EnemyAIRuin.EnemyAIRuin
+[2019.08.04-07.26.25:696][934]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.08.04-07.27.51:853][ 73]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.04-07.27.51:866][ 73]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel' has LevelScriptBlueprint '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.RuinLevel' with GeneratedClass '/Game/RuinLevel/RuinLevel.RuinLevel_C' with ClassGeneratedBy '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.RuinLevel'
+[2019.08.04-07.27.51:867][ 73]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.04-07.27.51:869][ 73]PIE: New page: PIE session: RuinLevel (4/8/2019 11:27:51)
+[2019.08.04-07.27.51:882][ 73]LogPlayLevel: Creating play world package: /Game/RuinLevel/UEDPIE_0_RuinLevel
+[2019.08.04-07.27.51:913][ 73]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030672s)
+[2019.08.04-07.27.51:913][ 73]LogAIModule: Creating AISystem for world RuinLevel
+[2019.08.04-07.27.51:914][ 73]LogPlayLevel: PIE: World Init took: (0.000915s)
+[2019.08.04-07.27.51:914][ 73]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RuinLevel/RuinLevel.RuinLevel to /Game/RuinLevel/UEDPIE_0_RuinLevel.RuinLevel (0.031997s)
+[2019.08.04-07.27.51:950][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2019.08.04-07.27.51:957][ 73]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.04-07.27.51:972][ 73]LogInit: FAudioDevice initialized.
+[2019.08.04-07.27.52:015][ 73]LogLoad: Game class is 'GameModeRuin_C'
+[2019.08.04-07.27.52:021][ 73]LogWorld: Bringing World /Game/RuinLevel/UEDPIE_0_RuinLevel.RuinLevel up for play (max tick rate 60) at 2019.08.04-09.27.52
+[2019.08.04-07.27.52:023][ 73]LogWorld: Bringing up level for play took: 0.007105
+[2019.08.04-07.27.52:042][ 73]LogBlueprintActionDatabase: Requesting refresh due to module change: Voice (loaded)
+[2019.08.04-07.27.52:046][ 73]LogBlueprintActionDatabase: Requesting refresh due to module change: MovieSceneCapture (loaded)
+[2019.08.04-07.27.52:046][ 73]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2019.08.04-07.27.52:048][ 73]PIE: Play in editor start time for /Game/RuinLevel/UEDPIE_0_RuinLevel 0,44
+[2019.08.04-07.27.52:048][ 73]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel' has LevelScriptBlueprint '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.RuinLevel' with GeneratedClass '/Game/RuinLevel/RuinLevel.RuinLevel_C' with ClassGeneratedBy '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.RuinLevel'
+[2019.08.04-07.27.55:956][294]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel' has LevelScriptBlueprint '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.RuinLevel' with GeneratedClass '/Game/RuinLevel/RuinLevel.RuinLevel_C' with ClassGeneratedBy '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.RuinLevel'
+[2019.08.04-07.27.55:956][294]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.04-07.27.55:985][294]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.04-07.27.55:985][294]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel' has LevelScriptBlueprint '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.RuinLevel' with GeneratedClass '/Game/RuinLevel/RuinLevel.RuinLevel_C' with ClassGeneratedBy '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.RuinLevel'
+[2019.08.04-07.27.56:020][294]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.04-07.27.56:042][294]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
+[2019.08.04-07.27.56:055][295]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2019.08.04-07.28.12:796][297]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/RuinLevel/Blueprints/assets/Character/GameModeRuin.GameModeRuin
+[2019.08.04-07.28.52:424][642]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.08.04-07.29.27:163][726]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/RuinLevel/Blueprints/assets/Character/EnemyCharacterRuin.EnemyCharacterRuin
+[2019.08.04-07.29.45:150][785]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/RuinLevel/Blueprints/assets/Character/EnemyAIRuin.EnemyAIRuin
+[2019.08.04-07.30.42:946][223]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.04-07.30.43:045][229]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.04-07.30.43:058][229]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel' has LevelScriptBlueprint '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.RuinLevel' with GeneratedClass '/Game/RuinLevel/RuinLevel.RuinLevel_C' with ClassGeneratedBy '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.RuinLevel'
+[2019.08.04-07.30.43:058][229]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.04-07.30.43:059][229]PIE: New page: PIE session: RuinLevel (4/8/2019 11:30:43)
+[2019.08.04-07.30.43:059][229]LogPlayLevel: Creating play world package: /Game/RuinLevel/UEDPIE_0_RuinLevel
+[2019.08.04-07.30.43:089][229]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030587s)
+[2019.08.04-07.30.43:090][229]LogAIModule: Creating AISystem for world RuinLevel
+[2019.08.04-07.30.43:090][229]LogPlayLevel: PIE: World Init took: (0.000738s)
+[2019.08.04-07.30.43:090][229]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RuinLevel/RuinLevel.RuinLevel to /Game/RuinLevel/UEDPIE_0_RuinLevel.RuinLevel (0.031457s)
+[2019.08.04-07.30.43:131][229]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2019.08.04-07.30.43:134][229]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.04-07.30.43:150][229]LogInit: FAudioDevice initialized.
+[2019.08.04-07.30.43:182][229]LogLoad: Game class is 'GameModeRuin_C'
+[2019.08.04-07.30.43:189][229]LogWorld: Bringing World /Game/RuinLevel/UEDPIE_0_RuinLevel.RuinLevel up for play (max tick rate 60) at 2019.08.04-09.30.43
+[2019.08.04-07.30.43:189][229]LogWorld: Bringing up level for play took: 0.006023
+[2019.08.04-07.30.43:203][229]PIE: Play in editor start time for /Game/RuinLevel/UEDPIE_0_RuinLevel -0,404
+[2019.08.04-07.30.43:203][229]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel' has LevelScriptBlueprint '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.RuinLevel' with GeneratedClass '/Game/RuinLevel/RuinLevel.RuinLevel_C' with ClassGeneratedBy '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.RuinLevel'
+[2019.08.04-07.30.48:993][574]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.04-07.30.49:060][578]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel' has LevelScriptBlueprint '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.RuinLevel' with GeneratedClass '/Game/RuinLevel/RuinLevel.RuinLevel_C' with ClassGeneratedBy '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.RuinLevel'
+[2019.08.04-07.30.49:060][578]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.04-07.30.49:092][578]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.04-07.30.49:092][578]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel' has LevelScriptBlueprint '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.RuinLevel' with GeneratedClass '/Game/RuinLevel/RuinLevel.RuinLevel_C' with ClassGeneratedBy '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.RuinLevel'
+[2019.08.04-07.30.49:130][578]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.04-07.30.49:135][578]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2019.08.04-07.30.49:167][580]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2019.08.04-07.30.55:934][986]LogEditorViewport: Clicking on Actor (LMB): EnemyCharacterRuin_C (RuinCharacter_BP)
+[2019.08.04-07.30.58:723][150]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_Floors_Block5)
+[2019.08.04-07.30.59:670][203]LogEditorViewport: Clicking on Actor (LMB): EnemyCharacterRuin_C (EnemyCharacterRuin)
+[2019.08.04-07.31.02:331][359]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.04-07.31.03:765][445]Cmd: DELETE
+[2019.08.04-07.31.03:765][445]Cmd: ACTOR DELETE
+[2019.08.04-07.31.03:773][445]LogEditorActor: Deleted Actor: EnemyCharacterRuin_C
+[2019.08.04-07.31.03:838][445]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2019.08.04-07.31.03:838][445]LogEditorActor: Deleted 1 Actors (0.071 secs)
+[2019.08.04-07.32.53:397][  8]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/RuinLevel/Blueprints/assets/Character/GameModeRuin.GameModeRuin
+[2019.08.04-07.32.55:128][ 94]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/RuinLevel/Blueprints/assets/Character/GameModeRuin.GameModeRuin
+[2019.08.04-07.34.00:364][985]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2019.08.04-07.34.00:783][985]LogSavePackage: Moving '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Saved/RuinLevel_Auto293992AA04CA166EEC62347B976D9774A.tmp' to '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Saved/Autosaves/Game/RuinLevel/RuinLevel_Auto2.umap'
+[2019.08.04-07.34.00:785][985]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/RuinLevel/RuinLevel' took 0.462
+[2019.08.04-07.34.00:785][985]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.462
+[2019.08.04-07.39.17:756][976]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/RuinLevel/Blueprints/assets/Character/Animations/StateMachine/StateMachineAnimatorCharacter.StateMachineAnimatorCharacter
+[2019.08.04-07.39.17:772][976]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_31:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.04-07.39.17:975][976]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_31:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.08.04-07.41.59:392][356]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.08.04-07.42.06:653][784]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/RuinLevel/Blueprints/assets/Character/Animations/StateMachine/StateMachineAnimatorCharacter.StateMachineAnimatorCharacter
+[2019.08.04-07.42.06:672][784]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.04-07.42.06:871][784]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.08.04-07.42.49:271][261]BlueprintLog: New page: Compile StateMachineAnimatorCharacter
+[2019.08.04-07.42.49:280][261]LogBlueprint: Warning: [Compiler StateMachineAnimatorCharacter] Node  Result  uses potentially thread-unsafe call  Try Get Pawn Owner . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2019.08.04-07.42.49:280][261]LogBlueprint: Warning: [Compiler StateMachineAnimatorCharacter] Node  Result  uses potentially thread-unsafe call  Try Get Pawn Owner . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2019.08.04-07.42.49:280][261]LogBlueprint: Warning: [Compiler StateMachineAnimatorCharacter] Node  Result  uses potentially thread-unsafe call  Get Movement Component . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2019.08.04-07.42.49:280][261]LogBlueprint: Warning: [Compiler StateMachineAnimatorCharacter] Node  Result  uses potentially thread-unsafe call  Try Get Pawn Owner . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2019.08.04-07.42.49:280][261]LogBlueprint: Warning: [Compiler StateMachineAnimatorCharacter] Node  Result  uses potentially thread-unsafe call  Try Get Pawn Owner . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2019.08.04-07.42.49:280][261]LogBlueprint: Warning: [Compiler StateMachineAnimatorCharacter] Node  Result  uses potentially thread-unsafe call  Get Movement Component . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2019.08.04-07.42.49:413][261]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	StateMachineAnimatorCharacter_C /Engine/Transient.World_9:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.StateMachineAnimatorCharacter_C_3
+	Function /Game/RuinLevel/Blueprints/assets/Character/Animations/StateMachine/StateMachineAnimatorCharacter.StateMachineAnimatorCharacter_C:ExecuteUbergraph_StateMachineAnimatorCharacter:016F
+[2019.08.04-07.42.49:413][261]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	StateMachineAnimatorCharacter_C /Engine/Transient.World_9:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.StateMachineAnimatorCharacter_C_3
+	Function /Game/RuinLevel/Blueprints/assets/Character/Animations/StateMachine/StateMachineAnimatorCharacter.StateMachineAnimatorCharacter_C:ExecuteUbergraph_StateMachineAnimatorCharacter:019D
+[2019.08.04-07.42.49:455][261]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2019.08.04-07.42.49:459][261]LogBlueprint: Warning: [Compiler StateMachineAnimatorCharacter] [3278,13] Compile of StateMachineAnimatorCharacter successful, but with 6 Warning(s) [in 188 ms] (/Game/RuinLevel/Blueprints/assets/Character/Animations/StateMachine/StateMachineAnimatorCharacter.StateMachineAnimatorCharacter)
+[2019.08.04-07.42.51:518][382]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2019.08.04-07.42.51:536][382]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RuinLevel/RuinLevel" FILE="../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Content/RuinLevel/RuinLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.08.04-07.42.51:564][382]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2019.08.04-07.42.51:981][382]LogSavePackage: Moving '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Saved/RuinLevelA9F1FCE7486F00874E1F6FAD74B1EE27.tmp' to '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Content/RuinLevel/RuinLevel.umap'
+[2019.08.04-07.42.52:002][382]LogFileHelpers: Saving map 'RuinLevel' took 0.467
+[2019.08.04-07.42.52:062][382]LogSavePackage: Moving '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Saved/StateMachineAnimatorCharacterC907449C44FAA9EE88C8F2849054A586.tmp' to '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Content/RuinLevel/Blueprints/assets/Character/Animations/StateMachine/StateMachineAnimatorCharacter.uasset'
+[2019.08.04-07.43.09:567][916]LogAssetEditorManager: Opening Asset editor for AnimMontage /Game/RuinLevel/Blueprints/assets/Character/Animations/AttackSword1AnimMontage.AttackSword1AnimMontage
+[2019.08.04-07.43.09:580][916]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_36:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.04-07.43.09:596][916]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_36:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.08.04-07.43.09:832][916]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.08.04-07.43.37:470][ 93]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.04-07.45.20:282][176]LogUObjectHash: Compacting FUObjectHashTables data took   3.93ms
+[2019.08.04-07.45.20:327][176]LogSavePackage: Moving '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Saved/AttackSword1AnimMontage5BC6ADB0414DC4032633A888204EFCCA.tmp' to '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Content/RuinLevel/Blueprints/assets/Character/Animations/AttackSword1AnimMontage.uasset'
+[2019.08.04-07.45.25:800][496]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.04-07.45.25:814][496]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel' has LevelScriptBlueprint '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.RuinLevel' with GeneratedClass '/Game/RuinLevel/RuinLevel.RuinLevel_C' with ClassGeneratedBy '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.RuinLevel'
+[2019.08.04-07.45.25:814][496]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.04-07.45.25:814][496]PIE: New page: PIE session: RuinLevel (4/8/2019 11:45:25)
+[2019.08.04-07.45.25:814][496]LogPlayLevel: Creating play world package: /Game/RuinLevel/UEDPIE_0_RuinLevel
+[2019.08.04-07.45.25:848][496]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033717s)
+[2019.08.04-07.45.25:848][496]LogAIModule: Creating AISystem for world RuinLevel
+[2019.08.04-07.45.25:849][496]LogPlayLevel: PIE: World Init took: (0.000505s)
+[2019.08.04-07.45.25:849][496]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RuinLevel/RuinLevel.RuinLevel to /Game/RuinLevel/UEDPIE_0_RuinLevel.RuinLevel (0.034585s)
+[2019.08.04-07.45.25:891][496]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2019.08.04-07.45.25:894][496]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.04-07.45.25:909][496]LogInit: FAudioDevice initialized.
+[2019.08.04-07.45.25:938][496]LogLoad: Game class is 'GameModeRuin_C'
+[2019.08.04-07.45.25:944][496]LogWorld: Bringing World /Game/RuinLevel/UEDPIE_0_RuinLevel.RuinLevel up for play (max tick rate 60) at 2019.08.04-09.45.25
+[2019.08.04-07.45.25:945][496]LogWorld: Bringing up level for play took: 0.005757
+[2019.08.04-07.45.25:958][496]PIE: Play in editor start time for /Game/RuinLevel/UEDPIE_0_RuinLevel 0,351
+[2019.08.04-07.45.25:959][496]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel' has LevelScriptBlueprint '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.RuinLevel' with GeneratedClass '/Game/RuinLevel/RuinLevel.RuinLevel_C' with ClassGeneratedBy '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.RuinLevel'
+[2019.08.04-07.46.07:032][650]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.04-07.46.11:150][897]LogAssetEditorManager: Opening Asset editor for AnimMontage /Game/RuinLevel/Blueprints/assets/Character/Animations/AttackSword1AnimMontage.AttackSword1AnimMontage
+[2019.08.04-07.46.11:152][897]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_39:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.04-07.46.11:167][897]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_39:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.08.04-07.46.11:425][897]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.08.04-07.49.20:246][182]LogSavePackage: Moving '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Saved/StateMachineAnimatorCharacter1A91B2F944EFBD4EB1777ABCF9E13A76.tmp' to '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Content/RuinLevel/Blueprints/assets/Character/Animations/StateMachine/StateMachineAnimatorCharacter.uasset'
+[2019.08.04-07.49.24:168][416]BlueprintLog: New page: Compile StateMachineAnimatorCharacter
+[2019.08.04-07.49.24:177][416]LogBlueprint: Warning: [Compiler StateMachineAnimatorCharacter] Node  Result  uses potentially thread-unsafe call  Try Get Pawn Owner . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2019.08.04-07.49.24:177][416]LogBlueprint: Warning: [Compiler StateMachineAnimatorCharacter] Node  Result  uses potentially thread-unsafe call  Try Get Pawn Owner . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2019.08.04-07.49.24:177][416]LogBlueprint: Warning: [Compiler StateMachineAnimatorCharacter] Node  Result  uses potentially thread-unsafe call  Get Movement Component . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2019.08.04-07.49.24:177][416]LogBlueprint: Warning: [Compiler StateMachineAnimatorCharacter] Node  Result  uses potentially thread-unsafe call  Try Get Pawn Owner . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2019.08.04-07.49.24:177][416]LogBlueprint: Warning: [Compiler StateMachineAnimatorCharacter] Node  Result  uses potentially thread-unsafe call  Try Get Pawn Owner . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2019.08.04-07.49.24:177][416]LogBlueprint: Warning: [Compiler StateMachineAnimatorCharacter] Node  Result  uses potentially thread-unsafe call  Get Movement Component . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2019.08.04-07.49.24:312][416]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	StateMachineAnimatorCharacter_C /Engine/Transient.World_9:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.StateMachineAnimatorCharacter_C_4
+	Function /Game/RuinLevel/Blueprints/assets/Character/Animations/StateMachine/StateMachineAnimatorCharacter.StateMachineAnimatorCharacter_C:ExecuteUbergraph_StateMachineAnimatorCharacter:016F
+[2019.08.04-07.49.24:312][416]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	StateMachineAnimatorCharacter_C /Engine/Transient.World_9:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.StateMachineAnimatorCharacter_C_4
+	Function /Game/RuinLevel/Blueprints/assets/Character/Animations/StateMachine/StateMachineAnimatorCharacter.StateMachineAnimatorCharacter_C:ExecuteUbergraph_StateMachineAnimatorCharacter:019D
+[2019.08.04-07.49.24:347][416]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2019.08.04-07.49.24:351][416]LogBlueprint: Warning: [Compiler StateMachineAnimatorCharacter] [3673,02] Compile of StateMachineAnimatorCharacter successful, but with 6 Warning(s) [in 183 ms] (/Game/RuinLevel/Blueprints/assets/Character/Animations/StateMachine/StateMachineAnimatorCharacter.StateMachineAnimatorCharacter)
+[2019.08.04-07.49.28:092][639]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel' has LevelScriptBlueprint '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.RuinLevel' with GeneratedClass '/Game/RuinLevel/RuinLevel.RuinLevel_C' with ClassGeneratedBy '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.RuinLevel'
+[2019.08.04-07.49.28:092][639]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.04-07.49.28:123][639]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.04-07.49.28:123][639]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel' has LevelScriptBlueprint '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.RuinLevel' with GeneratedClass '/Game/RuinLevel/RuinLevel.RuinLevel_C' with ClassGeneratedBy '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.RuinLevel'
+[2019.08.04-07.49.28:162][639]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.04-07.49.28:168][639]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2019.08.04-07.49.28:198][641]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2019.08.04-07.49.29:216][702]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.04-07.49.29:229][702]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel' has LevelScriptBlueprint '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.RuinLevel' with GeneratedClass '/Game/RuinLevel/RuinLevel.RuinLevel_C' with ClassGeneratedBy '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.RuinLevel'
+[2019.08.04-07.49.29:229][702]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.04-07.49.29:229][702]PIE: New page: PIE session: RuinLevel (4/8/2019 11:49:29)
+[2019.08.04-07.49.29:229][702]LogPlayLevel: Creating play world package: /Game/RuinLevel/UEDPIE_0_RuinLevel
+[2019.08.04-07.49.29:261][702]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031349s)
+[2019.08.04-07.49.29:261][702]LogAIModule: Creating AISystem for world RuinLevel
+[2019.08.04-07.49.29:261][702]LogPlayLevel: PIE: World Init took: (0.000521s)
+[2019.08.04-07.49.29:261][702]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RuinLevel/RuinLevel.RuinLevel to /Game/RuinLevel/UEDPIE_0_RuinLevel.RuinLevel (0.032022s)
+[2019.08.04-07.49.29:294][702]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2019.08.04-07.49.29:297][702]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.04-07.49.29:312][702]LogInit: FAudioDevice initialized.
+[2019.08.04-07.49.29:338][702]LogLoad: Game class is 'GameModeRuin_C'
+[2019.08.04-07.49.29:345][702]LogWorld: Bringing World /Game/RuinLevel/UEDPIE_0_RuinLevel.RuinLevel up for play (max tick rate 60) at 2019.08.04-09.49.29
+[2019.08.04-07.49.29:345][702]LogWorld: Bringing up level for play took: 0.005457
+[2019.08.04-07.49.29:359][702]PIE: Play in editor start time for /Game/RuinLevel/UEDPIE_0_RuinLevel -0,248
+[2019.08.04-07.49.29:359][702]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel' has LevelScriptBlueprint '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.RuinLevel' with GeneratedClass '/Game/RuinLevel/RuinLevel.RuinLevel_C' with ClassGeneratedBy '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.RuinLevel'
+[2019.08.04-07.49.39:940][336]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel' has LevelScriptBlueprint '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.RuinLevel' with GeneratedClass '/Game/RuinLevel/RuinLevel.RuinLevel_C' with ClassGeneratedBy '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.RuinLevel'
+[2019.08.04-07.49.39:940][336]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.04-07.49.39:973][336]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.04-07.49.39:974][336]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel' has LevelScriptBlueprint '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.RuinLevel' with GeneratedClass '/Game/RuinLevel/RuinLevel.RuinLevel_C' with ClassGeneratedBy '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.RuinLevel'
+[2019.08.04-07.49.40:010][336]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.04-07.49.40:015][336]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2019.08.04-07.49.40:051][338]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2019.08.04-07.53.04:031][155]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.04-07.58.16:303][868]LogAssetEditorManager: Opening Asset editor for Skeleton /Game/RuinLevel/Blueprints/assets/Character/S_Player_Character2_Skeleton.S_Player_Character2_Skeleton
+[2019.08.04-07.58.16:315][868]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_41:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.04-07.58.16:334][868]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_41:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.08.04-08.01.27:262][954]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.08.04-08.01.41:045][779]LogSlate: Window 'Project Settings' being destroyed
+[2019.08.04-08.01.41:047][779]LogSlate: Window 'Project Settings' being destroyed
+[2019.08.04-08.01.54:731][599]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/RuinLevel/Blueprints/assets/Character/EnemyCharacterRuin.EnemyCharacterRuin
+[2019.08.04-08.02.12:382][639]LogSavePackage: Moving '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Saved/EnemyCharacterRuinDAB045374D18BCDDBCE0BAA58BB62401.tmp' to '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Content/RuinLevel/Blueprints/assets/Character/EnemyCharacterRuin.uasset'
+[2019.08.04-08.02.16:980][915]BlueprintLog: New page: Compile EnemyCharacterRuin
+[2019.08.04-08.02.16:990][915]LogBlueprint: Warning: [Compiler PlayerControllerRuin] InputAction Event references unknown Action 'Atack' for  InputAction Atack
+[2019.08.04-08.02.16:996][915]LogBlueprint: Warning: [Compiler PlayerControllerRuin] [4445,67] Compile of PlayerControllerRuin successful, but with 1 Warning(s) [in 15 ms] (/Game/RuinLevel/Blueprints/assets/Character/PlayerControllerRuin.PlayerControllerRuin)
+[2019.08.04-08.02.17:168][915]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2019.08.04-08.03.24:910][306]Cmd: TRANSACTION UNDO
+[2019.08.04-08.03.24:910][306]LogEditorTransaction: Undo Remove Next Section from Composite
+[2019.08.04-08.03.24:913][306]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.04-08.03.25:055][306]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_39:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.04-08.06.37:970][201]LogUObjectHash: Compacting FUObjectHashTables data took   4.25ms
+[2019.08.04-08.06.37:988][201]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RuinLevel/RuinLevel" FILE="../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Content/RuinLevel/RuinLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.08.04-08.06.38:025][201]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2019.08.04-08.06.38:463][201]LogSavePackage: Moving '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Saved/RuinLevel952CDE21446AFDDAE7AE73B556CF9FEC.tmp' to '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Content/RuinLevel/RuinLevel.umap'
+[2019.08.04-08.06.38:485][201]LogFileHelpers: Saving map 'RuinLevel' took 0.498
+[2019.08.04-08.06.38:520][201]LogSavePackage: Moving '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Saved/AttackSword1AnimMontage0FC375374E3C2C18C5F900BF4FCACDB9.tmp' to '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Content/RuinLevel/Blueprints/assets/Character/Animations/AttackSword1AnimMontage.uasset'
+[2019.08.04-08.09.03:620][ 58]LogSavePackage: Moving '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Saved/PlayerControllerRuin7F418A984315BA3D304290B3E7EFEF28.tmp' to '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Content/RuinLevel/Blueprints/assets/Character/PlayerControllerRuin.uasset'
+[2019.08.04-08.09.32:272][770]BlueprintLog: New page: Compile EnemyCharacterRuin
+[2019.08.04-08.09.32:458][770]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2019.08.04-08.09.36:231][995]BlueprintLog: New page: Compile PlayerControllerRuin
+[2019.08.04-08.09.36:234][995]LogBlueprint: Warning: [Compiler PlayerControllerRuin] InputAction Event references unknown Action 'Atack' for  InputAction Atack
+[2019.08.04-08.09.36:403][995]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2019.08.04-08.09.36:411][995]LogBlueprint: Warning: [Compiler PlayerControllerRuin] [4885,08] Compile of PlayerControllerRuin successful, but with 1 Warning(s) [in 179 ms] (/Game/RuinLevel/Blueprints/assets/Character/PlayerControllerRuin.PlayerControllerRuin)
+[2019.08.04-08.09.38:608][124]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2019.08.04-08.09.38:626][124]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RuinLevel/RuinLevel" FILE="../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Content/RuinLevel/RuinLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.08.04-08.09.38:662][124]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2019.08.04-08.09.39:078][124]LogSavePackage: Moving '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Saved/RuinLevelF09D0A6D4F52AE5D9A5999AC89953476.tmp' to '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Content/RuinLevel/RuinLevel.umap'
+[2019.08.04-08.09.39:098][124]LogFileHelpers: Saving map 'RuinLevel' took 0.471
+[2019.08.04-08.09.39:140][124]LogSavePackage: Moving '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Saved/EnemyCharacterRuin1F548238404CC718E3DCAF8317A90B8D.tmp' to '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Content/RuinLevel/Blueprints/assets/Character/EnemyCharacterRuin.uasset'
+[2019.08.04-08.09.41:360][256]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.04-08.09.41:378][256]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel' has LevelScriptBlueprint '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.RuinLevel' with GeneratedClass '/Game/RuinLevel/RuinLevel.RuinLevel_C' with ClassGeneratedBy '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.RuinLevel'
+[2019.08.04-08.09.41:378][256]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.04-08.09.41:378][256]PIE: New page: PIE session: RuinLevel (4/8/2019 12:09:41)
+[2019.08.04-08.09.41:378][256]LogPlayLevel: Creating play world package: /Game/RuinLevel/UEDPIE_0_RuinLevel
+[2019.08.04-08.09.41:409][256]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030619s)
+[2019.08.04-08.09.41:409][256]LogAIModule: Creating AISystem for world RuinLevel
+[2019.08.04-08.09.41:410][256]LogPlayLevel: PIE: World Init took: (0.000511s)
+[2019.08.04-08.09.41:410][256]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RuinLevel/RuinLevel.RuinLevel to /Game/RuinLevel/UEDPIE_0_RuinLevel.RuinLevel (0.031267s)
+[2019.08.04-08.09.41:442][256]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2019.08.04-08.09.41:445][256]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.04-08.09.41:460][256]LogInit: FAudioDevice initialized.
+[2019.08.04-08.09.41:486][256]LogLoad: Game class is 'GameModeRuin_C'
+[2019.08.04-08.09.41:492][256]LogWorld: Bringing World /Game/RuinLevel/UEDPIE_0_RuinLevel.RuinLevel up for play (max tick rate 60) at 2019.08.04-10.09.41
+[2019.08.04-08.09.41:492][256]LogWorld: Bringing up level for play took: 0.005544
+[2019.08.04-08.09.41:505][256]PIE: Play in editor start time for /Game/RuinLevel/UEDPIE_0_RuinLevel -0,101
+[2019.08.04-08.09.41:506][256]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel' has LevelScriptBlueprint '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.RuinLevel' with GeneratedClass '/Game/RuinLevel/RuinLevel.RuinLevel_C' with ClassGeneratedBy '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.RuinLevel'
+[2019.08.04-08.09.48:420][670]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel' has LevelScriptBlueprint '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.RuinLevel' with GeneratedClass '/Game/RuinLevel/RuinLevel.RuinLevel_C' with ClassGeneratedBy '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.RuinLevel'
+[2019.08.04-08.09.48:420][670]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.04-08.09.48:453][670]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.04-08.09.48:453][670]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel' has LevelScriptBlueprint '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.RuinLevel' with GeneratedClass '/Game/RuinLevel/RuinLevel.RuinLevel_C' with ClassGeneratedBy '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.RuinLevel'
+[2019.08.04-08.09.48:491][670]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.04-08.09.48:496][670]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2019.08.04-08.09.48:531][672]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2019.08.04-08.09.49:832][750]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.04-08.10.40:902][616]BlueprintLog: New page: Compile EnemyCharacterRuin
+[2019.08.04-08.10.41:082][616]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2019.08.04-08.10.43:481][757]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2019.08.04-08.10.43:499][757]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RuinLevel/RuinLevel" FILE="../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Content/RuinLevel/RuinLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.08.04-08.10.43:531][757]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2019.08.04-08.10.43:954][757]LogSavePackage: Moving '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Saved/RuinLevel82011CC44C00E434017729861D5EF7F7.tmp' to '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Content/RuinLevel/RuinLevel.umap'
+[2019.08.04-08.10.43:975][757]LogFileHelpers: Saving map 'RuinLevel' took 0.477
+[2019.08.04-08.10.44:021][757]LogSavePackage: Moving '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Saved/EnemyCharacterRuin85DD0D3B45FC7DCE0A9CE4801C101E5D.tmp' to '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Content/RuinLevel/Blueprints/assets/Character/EnemyCharacterRuin.uasset'
+[2019.08.04-08.10.51:009][175]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.04-08.10.51:026][175]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel' has LevelScriptBlueprint '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.RuinLevel' with GeneratedClass '/Game/RuinLevel/RuinLevel.RuinLevel_C' with ClassGeneratedBy '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.RuinLevel'
+[2019.08.04-08.10.51:026][175]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.04-08.10.51:026][175]PIE: New page: PIE session: RuinLevel (4/8/2019 12:10:51)
+[2019.08.04-08.10.51:026][175]LogPlayLevel: Creating play world package: /Game/RuinLevel/UEDPIE_0_RuinLevel
+[2019.08.04-08.10.51:056][175]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030454s)
+[2019.08.04-08.10.51:057][175]LogAIModule: Creating AISystem for world RuinLevel
+[2019.08.04-08.10.51:057][175]LogPlayLevel: PIE: World Init took: (0.000456s)
+[2019.08.04-08.10.51:057][175]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RuinLevel/RuinLevel.RuinLevel to /Game/RuinLevel/UEDPIE_0_RuinLevel.RuinLevel (0.031055s)
+[2019.08.04-08.10.51:093][175]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2019.08.04-08.10.51:096][175]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.04-08.10.51:110][175]LogInit: FAudioDevice initialized.
+[2019.08.04-08.10.51:142][175]LogLoad: Game class is 'GameModeRuin_C'
+[2019.08.04-08.10.51:148][175]LogWorld: Bringing World /Game/RuinLevel/UEDPIE_0_RuinLevel.RuinLevel up for play (max tick rate 60) at 2019.08.04-10.10.51
+[2019.08.04-08.10.51:149][175]LogWorld: Bringing up level for play took: 0.005595
+[2019.08.04-08.10.51:163][175]PIE: Play in editor start time for /Game/RuinLevel/UEDPIE_0_RuinLevel -0,444
+[2019.08.04-08.10.51:163][175]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel' has LevelScriptBlueprint '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.RuinLevel' with GeneratedClass '/Game/RuinLevel/RuinLevel.RuinLevel_C' with ClassGeneratedBy '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.RuinLevel'
+[2019.08.04-08.10.59:829][694]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.04-08.11.15:664][644]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel' has LevelScriptBlueprint '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.RuinLevel' with GeneratedClass '/Game/RuinLevel/RuinLevel.RuinLevel_C' with ClassGeneratedBy '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.RuinLevel'
+[2019.08.04-08.11.15:664][644]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.04-08.11.15:700][644]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.04-08.11.15:701][644]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel' has LevelScriptBlueprint '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.RuinLevel' with GeneratedClass '/Game/RuinLevel/RuinLevel.RuinLevel_C' with ClassGeneratedBy '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.RuinLevel'
+[2019.08.04-08.11.15:741][644]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.04-08.11.15:745][644]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2019.08.04-08.11.15:777][646]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2019.08.04-08.11.36:540][881]LogEditorTransaction: Undo Create Pin Link
+[2019.08.04-08.11.36:549][881]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.04-08.11.37:052][906]LogEditorTransaction: Undo Move Node
+[2019.08.04-08.11.37:060][906]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.04-08.11.38:214][970]LogEditorTransaction: Undo Add Node
+[2019.08.04-08.11.38:222][970]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.04-08.11.39:092][ 17]LogEditorTransaction: Undo Delete current selection
+[2019.08.04-08.11.39:101][ 17]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.04-08.12.05:569][585]LogSavePackage: Moving '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Saved/PlayerControllerRuinE98916854E2B15CC84366394CE031A88.tmp' to '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Content/RuinLevel/Blueprints/assets/Character/PlayerControllerRuin.uasset'
+[2019.08.04-08.12.07:233][685]BlueprintLog: New page: Compile PlayerControllerRuin
+[2019.08.04-08.12.07:400][685]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2019.08.04-08.12.12:957][ 17]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.04-08.12.12:970][ 17]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel' has LevelScriptBlueprint '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.RuinLevel' with GeneratedClass '/Game/RuinLevel/RuinLevel.RuinLevel_C' with ClassGeneratedBy '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.RuinLevel'
+[2019.08.04-08.12.12:970][ 17]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.04-08.12.12:970][ 17]PIE: New page: PIE session: RuinLevel (4/8/2019 12:12:12)
+[2019.08.04-08.12.12:970][ 17]LogPlayLevel: Creating play world package: /Game/RuinLevel/UEDPIE_0_RuinLevel
+[2019.08.04-08.12.13:001][ 17]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030459s)
+[2019.08.04-08.12.13:001][ 17]LogAIModule: Creating AISystem for world RuinLevel
+[2019.08.04-08.12.13:001][ 17]LogPlayLevel: PIE: World Init took: (0.000523s)
+[2019.08.04-08.12.13:001][ 17]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RuinLevel/RuinLevel.RuinLevel to /Game/RuinLevel/UEDPIE_0_RuinLevel.RuinLevel (0.031115s)
+[2019.08.04-08.12.13:037][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2019.08.04-08.12.13:040][ 17]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.04-08.12.13:054][ 17]LogInit: FAudioDevice initialized.
+[2019.08.04-08.12.13:082][ 17]LogLoad: Game class is 'GameModeRuin_C'
+[2019.08.04-08.12.13:088][ 17]LogWorld: Bringing World /Game/RuinLevel/UEDPIE_0_RuinLevel.RuinLevel up for play (max tick rate 60) at 2019.08.04-10.12.13
+[2019.08.04-08.12.13:089][ 17]LogWorld: Bringing up level for play took: 0.005566
+[2019.08.04-08.12.13:102][ 17]PIE: Play in editor start time for /Game/RuinLevel/UEDPIE_0_RuinLevel -0,505
+[2019.08.04-08.12.13:102][ 17]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel' has LevelScriptBlueprint '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.RuinLevel' with GeneratedClass '/Game/RuinLevel/RuinLevel.RuinLevel_C' with ClassGeneratedBy '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.RuinLevel'
+[2019.08.04-08.12.39:753][614]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel' has LevelScriptBlueprint '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.RuinLevel' with GeneratedClass '/Game/RuinLevel/RuinLevel.RuinLevel_C' with ClassGeneratedBy '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.RuinLevel'
+[2019.08.04-08.12.39:753][614]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.04-08.12.39:789][614]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.04-08.12.39:789][614]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel' has LevelScriptBlueprint '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.RuinLevel' with GeneratedClass '/Game/RuinLevel/RuinLevel.RuinLevel_C' with ClassGeneratedBy '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.RuinLevel'
+[2019.08.04-08.12.39:827][614]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.04-08.12.39:833][614]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2019.08.04-08.12.39:868][616]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2019.08.04-08.12.49:836][214]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.04-08.15.06:836][626]BlueprintLog: New page: Compile EnemyCharacterRuin
+[2019.08.04-08.15.07:035][626]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2019.08.04-08.15.09:343][760]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2019.08.04-08.15.09:360][760]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RuinLevel/RuinLevel" FILE="../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Content/RuinLevel/RuinLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.08.04-08.15.09:396][760]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2019.08.04-08.15.09:814][760]LogSavePackage: Moving '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Saved/RuinLevel33FA8EB1466AA44CFCB208B41F79C9DC.tmp' to '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Content/RuinLevel/RuinLevel.umap'
+[2019.08.04-08.15.09:835][760]LogFileHelpers: Saving map 'RuinLevel' took 0.475
+[2019.08.04-08.15.09:870][760]LogSavePackage: Moving '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Saved/EnemyCharacterRuin286083FC422FD8CBDA3FC4A8BC8D4C6B.tmp' to '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Content/RuinLevel/Blueprints/assets/Character/EnemyCharacterRuin.uasset'
+[2019.08.04-08.15.11:515][858]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.04-08.15.11:533][858]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel' has LevelScriptBlueprint '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.RuinLevel' with GeneratedClass '/Game/RuinLevel/RuinLevel.RuinLevel_C' with ClassGeneratedBy '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.RuinLevel'
+[2019.08.04-08.15.11:533][858]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.04-08.15.11:533][858]PIE: New page: PIE session: RuinLevel (4/8/2019 12:15:11)
+[2019.08.04-08.15.11:533][858]LogPlayLevel: Creating play world package: /Game/RuinLevel/UEDPIE_0_RuinLevel
+[2019.08.04-08.15.11:563][858]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030928s)
+[2019.08.04-08.15.11:563][858]LogAIModule: Creating AISystem for world RuinLevel
+[2019.08.04-08.15.11:564][858]LogPlayLevel: PIE: World Init took: (0.000487s)
+[2019.08.04-08.15.11:564][858]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RuinLevel/RuinLevel.RuinLevel to /Game/RuinLevel/UEDPIE_0_RuinLevel.RuinLevel (0.031560s)
+[2019.08.04-08.15.11:599][858]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2019.08.04-08.15.11:602][858]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.04-08.15.11:616][858]LogInit: FAudioDevice initialized.
+[2019.08.04-08.15.11:648][858]LogLoad: Game class is 'GameModeRuin_C'
+[2019.08.04-08.15.11:656][858]LogWorld: Bringing World /Game/RuinLevel/UEDPIE_0_RuinLevel.RuinLevel up for play (max tick rate 60) at 2019.08.04-10.15.11
+[2019.08.04-08.15.11:656][858]LogWorld: Bringing up level for play took: 0.006969
+[2019.08.04-08.15.11:670][858]PIE: Play in editor start time for /Game/RuinLevel/UEDPIE_0_RuinLevel 0,063
+[2019.08.04-08.15.11:670][858]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel' has LevelScriptBlueprint '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.RuinLevel' with GeneratedClass '/Game/RuinLevel/RuinLevel.RuinLevel_C' with ClassGeneratedBy '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.RuinLevel'
+[2019.08.04-08.15.19:169][307]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel' has LevelScriptBlueprint '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.RuinLevel' with GeneratedClass '/Game/RuinLevel/RuinLevel.RuinLevel_C' with ClassGeneratedBy '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.RuinLevel'
+[2019.08.04-08.15.19:170][307]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.04-08.15.19:202][307]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.04-08.15.19:203][307]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel' has LevelScriptBlueprint '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.RuinLevel' with GeneratedClass '/Game/RuinLevel/RuinLevel.RuinLevel_C' with ClassGeneratedBy '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.RuinLevel'
+[2019.08.04-08.15.19:241][307]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.04-08.15.19:246][307]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2019.08.04-08.15.19:282][309]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2019.08.04-08.16.00:092][577]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.04-08.19.40:221][321]LogEditorTransaction: Undo Delete current selection
+[2019.08.04-08.19.40:229][321]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.04-08.19.40:775][349]LogEditorTransaction: Undo Create Pin Link
+[2019.08.04-08.19.40:776][349]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.04-08.19.41:585][394]LogEditorTransaction: Undo Create Reroute Node
+[2019.08.04-08.19.41:593][394]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.04-08.21.22:051][ 89]BlueprintLog: New page: Compile EnemyCharacterRuin
+[2019.08.04-08.21.22:236][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   4.05ms
+[2019.08.04-08.21.25:338][272]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2019.08.04-08.21.25:355][272]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RuinLevel/RuinLevel" FILE="../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Content/RuinLevel/RuinLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.08.04-08.21.25:391][272]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2019.08.04-08.21.25:817][272]LogSavePackage: Moving '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Saved/RuinLevelD5EBB5B74C19EC3D9942EBBE1AE8D322.tmp' to '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Content/RuinLevel/RuinLevel.umap'
+[2019.08.04-08.21.25:838][272]LogFileHelpers: Saving map 'RuinLevel' took 0.484
+[2019.08.04-08.21.25:878][272]LogSavePackage: Moving '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Saved/EnemyCharacterRuinCB22982D4D494966C9EC178544617955.tmp' to '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Content/RuinLevel/Blueprints/assets/Character/EnemyCharacterRuin.uasset'
+[2019.08.04-08.21.27:355][360]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.04-08.21.27:374][360]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel' has LevelScriptBlueprint '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.RuinLevel' with GeneratedClass '/Game/RuinLevel/RuinLevel.RuinLevel_C' with ClassGeneratedBy '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.RuinLevel'
+[2019.08.04-08.21.27:374][360]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.04-08.21.27:374][360]PIE: New page: PIE session: RuinLevel (4/8/2019 12:21:27)
+[2019.08.04-08.21.27:374][360]LogPlayLevel: Creating play world package: /Game/RuinLevel/UEDPIE_0_RuinLevel
+[2019.08.04-08.21.27:406][360]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031045s)
+[2019.08.04-08.21.27:406][360]LogAIModule: Creating AISystem for world RuinLevel
+[2019.08.04-08.21.27:406][360]LogPlayLevel: PIE: World Init took: (0.000495s)
+[2019.08.04-08.21.27:406][360]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RuinLevel/RuinLevel.RuinLevel to /Game/RuinLevel/UEDPIE_0_RuinLevel.RuinLevel (0.031689s)
+[2019.08.04-08.21.27:438][360]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2019.08.04-08.21.27:442][360]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.04-08.21.27:457][360]LogInit: FAudioDevice initialized.
+[2019.08.04-08.21.27:486][360]LogLoad: Game class is 'GameModeRuin_C'
+[2019.08.04-08.21.27:493][360]LogWorld: Bringing World /Game/RuinLevel/UEDPIE_0_RuinLevel.RuinLevel up for play (max tick rate 60) at 2019.08.04-10.21.27
+[2019.08.04-08.21.27:493][360]LogWorld: Bringing up level for play took: 0.005676
+[2019.08.04-08.21.27:506][360]PIE: Play in editor start time for /Game/RuinLevel/UEDPIE_0_RuinLevel -0,101
+[2019.08.04-08.21.27:506][360]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel' has LevelScriptBlueprint '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.RuinLevel' with GeneratedClass '/Game/RuinLevel/RuinLevel.RuinLevel_C' with ClassGeneratedBy '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.RuinLevel'
+[2019.08.04-08.23.23:570][656]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.04-08.23.23:637][660]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel' has LevelScriptBlueprint '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.RuinLevel' with GeneratedClass '/Game/RuinLevel/RuinLevel.RuinLevel_C' with ClassGeneratedBy '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.RuinLevel'
+[2019.08.04-08.23.23:637][660]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.04-08.23.23:670][660]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.04-08.23.23:670][660]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel' has LevelScriptBlueprint '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.RuinLevel' with GeneratedClass '/Game/RuinLevel/RuinLevel.RuinLevel_C' with ClassGeneratedBy '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.RuinLevel'
+[2019.08.04-08.23.23:709][660]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.04-08.23.23:714][660]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2019.08.04-08.23.23:747][662]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2019.08.04-08.23.44:168][885]LogSavePackage: Moving '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Saved/EnemyCharacterRuinAFF1FA434F1490970981399517CE0356.tmp' to '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Content/RuinLevel/Blueprints/assets/Character/EnemyCharacterRuin.uasset'
+[2019.08.04-08.33.13:589][792]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2019.08.04-08.33.14:015][792]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.08.04-08.33.14:064][792]LogSlate: Window 'Prova - Unreal Editor' being destroyed
+[2019.08.04-08.33.14:264][793]Cmd: QUIT_EDITOR
+[2019.08.04-08.33.15:368][793]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.08.04-08.33.15:376][793]LogExit: Preparing to exit.
+[2019.08.04-08.33.16:105][793]LogExit: Editor shut down
+[2019.08.04-08.33.16:105][793]LogExit: Transaction tracking system shut down
+[2019.08.04-08.33.16:406][793]LogExit: Object subsystem successfully closed.
+[2019.08.04-08.33.16:428][793]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.08.04-08.33.16:432][793]LogD3D11RHI: Shutdown
+[2019.08.04-08.33.16:432][793]LogD3D11RHI: CleanupD3DDevice
+[2019.08.04-08.33.16:432][793]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.08.04-08.33.16:432][793]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.08.04-08.33.16:432][793]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.08.04-08.33.16:432][793]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.08.04-08.33.16:432][793]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.08.04-08.33.16:432][793]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.08.04-08.33.16:555][793]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.08.04-08.33.16:575][793]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (656)
+[2019.08.04-08.33.16:575][793]LogModuleManager: Shutting down and abandoning module Voice (654)
+[2019.08.04-08.33.16:575][793]LogModuleManager: Shutting down and abandoning module PinnedCommandList (652)
+[2019.08.04-08.33.16:575][793]LogModuleManager: Shutting down and abandoning module SkeletonEditor (650)
+[2019.08.04-08.33.16:575][793]LogModuleManager: Shutting down and abandoning module AnimationEditor (648)
+[2019.08.04-08.33.16:575][793]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (646)
+[2019.08.04-08.33.16:575][793]LogModuleManager: Shutting down and abandoning module BlueprintGraph (644)
+[2019.08.04-08.33.16:575][793]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (642)
+[2019.08.04-08.33.16:575][793]LogModuleManager: Shutting down and abandoning module AddContentDialog (640)
+[2019.08.04-08.33.16:575][793]LogModuleManager: Shutting down and abandoning module WidgetCarousel (639)
+[2019.08.04-08.33.16:575][793]LogModuleManager: Shutting down and abandoning module EditorWidgets (636)
+[2019.08.04-08.33.16:575][793]LogModuleManager: Shutting down and abandoning module CollectionManager (634)
+[2019.08.04-08.33.16:575][793]LogModuleManager: Shutting down and abandoning module SceneOutliner (632)
+[2019.08.04-08.33.16:576][793]LogModuleManager: Shutting down and abandoning module StatsViewer (630)
+[2019.08.04-08.33.16:576][793]LogModuleManager: Shutting down and abandoning module FoliageEdit (628)
+[2019.08.04-08.33.16:576][793]LogModuleManager: Shutting down and abandoning module LandscapeEditor (626)
+[2019.08.04-08.33.16:576][793]LogModuleManager: Shutting down and abandoning module MeshPaintMode (624)
+[2019.08.04-08.33.16:576][793]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (622)
+[2019.08.04-08.33.16:576][793]LogModuleManager: Shutting down and abandoning module ActorPickerMode (620)
+[2019.08.04-08.33.16:576][793]LogModuleManager: Shutting down and abandoning module GeometryMode (618)
+[2019.08.04-08.33.16:576][793]LogModuleManager: Shutting down and abandoning module TextureAlignMode (616)
+[2019.08.04-08.33.16:576][793]LogModuleManager: Shutting down and abandoning module BspMode (614)
+[2019.08.04-08.33.16:576][793]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (612)
+[2019.08.04-08.33.16:576][793]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (610)
+[2019.08.04-08.33.16:576][793]LogModuleManager: Shutting down and abandoning module AutomationWorker (608)
+[2019.08.04-08.33.16:576][793]LogModuleManager: Shutting down and abandoning module OculusMR (606)
+[2019.08.04-08.33.16:576][793]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (604)
+[2019.08.04-08.33.16:576][793]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (602)
+[2019.08.04-08.33.16:576][793]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (600)
+[2019.08.04-08.33.16:576][793]LogModuleManager: Shutting down and abandoning module PlacementMode (599)
+[2019.08.04-08.33.16:576][793]LogModuleManager: Shutting down and abandoning module MaterialEditor (598)
+[2019.08.04-08.33.16:576][793]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (594)
+[2019.08.04-08.33.16:576][793]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (592)
+[2019.08.04-08.33.16:576][793]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (590)
+[2019.08.04-08.33.16:576][793]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (588)
+[2019.08.04-08.33.16:576][793]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (586)
+[2019.08.04-08.33.16:576][793]LogModuleManager: Shutting down and abandoning module WebMMedia (584)
+[2019.08.04-08.33.16:576][793]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (582)
+[2019.08.04-08.33.16:576][793]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (580)
+[2019.08.04-08.33.16:576][793]LogModuleManager: Shutting down and abandoning module SequenceRecorder (579)
+[2019.08.04-08.33.16:576][793]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (576)
+[2019.08.04-08.33.16:576][793]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (574)
+[2019.08.04-08.33.16:576][793]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (572)
+[2019.08.04-08.33.16:576][793]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (570)
+[2019.08.04-08.33.16:576][793]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (568)
+[2019.08.04-08.33.16:576][793]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (566)
+[2019.08.04-08.33.16:576][793]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (564)
+[2019.08.04-08.33.16:576][793]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (562)
+[2019.08.04-08.33.16:576][793]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (560)
+[2019.08.04-08.33.16:576][793]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (558)
+[2019.08.04-08.33.16:576][793]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (556)
+[2019.08.04-08.33.16:576][793]LogModuleManager: Shutting down and abandoning module CharacterAI (554)
+[2019.08.04-08.33.16:576][793]LogModuleManager: Shutting down and abandoning module SmartSnapping (552)
+[2019.08.04-08.33.16:576][793]LogModuleManager: Shutting down and abandoning module SessionServices (550)
+[2019.08.04-08.33.16:576][793]LogModuleManager: Shutting down and abandoning module MeshPaint (548)
+[2019.08.04-08.33.16:576][793]LogModuleManager: Shutting down and abandoning module ViewportSnapping (546)
+[2019.08.04-08.33.16:576][793]LogModuleManager: Shutting down and abandoning module ViewportInteraction (544)
+[2019.08.04-08.33.16:576][793]LogModuleManager: Shutting down and abandoning module ClothPainter (542)
+[2019.08.04-08.33.16:576][793]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (541)
+[2019.08.04-08.33.16:576][793]LogModuleManager: Shutting down and abandoning module LogVisualizer (538)
+[2019.08.04-08.33.16:576][793]LogModuleManager: Shutting down and abandoning module IntroTutorials (536)
+[2019.08.04-08.33.16:576][793]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (535)
+[2019.08.04-08.33.16:577][793]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (532)
+[2019.08.04-08.33.16:577][793]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (530)
+[2019.08.04-08.33.16:577][793]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (528)
+[2019.08.04-08.33.16:577][793]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (526)
+[2019.08.04-08.33.16:577][793]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (525)
+[2019.08.04-08.33.16:684][793]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (522)
+[2019.08.04-08.33.16:684][793]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (520)
+[2019.08.04-08.33.16:684][793]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (518)
+[2019.08.04-08.33.16:684][793]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (516)
+[2019.08.04-08.33.16:684][793]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (514)
+[2019.08.04-08.33.16:684][793]LogModuleManager: Shutting down and abandoning module InputBindingEditor (512)
+[2019.08.04-08.33.16:684][793]LogModuleManager: Shutting down and abandoning module MergeActors (510)
+[2019.08.04-08.33.16:684][793]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (508)
+[2019.08.04-08.33.16:684][793]LogModuleManager: Shutting down and abandoning module LocalizationService (507)
+[2019.08.04-08.33.16:684][793]LogModuleManager: Shutting down and abandoning module HardwareTargeting (504)
+[2019.08.04-08.33.16:684][793]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (502)
+[2019.08.04-08.33.16:684][793]LogModuleManager: Shutting down and abandoning module UndoHistory (500)
+[2019.08.04-08.33.16:684][793]LogModuleManager: Shutting down and abandoning module XmlParser (498)
+[2019.08.04-08.33.16:684][793]LogModuleManager: Shutting down and abandoning module Blutility (496)
+[2019.08.04-08.33.16:684][793]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (494)
+[2019.08.04-08.33.16:684][793]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (493)
+[2019.08.04-08.33.16:684][793]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (490)
+[2019.08.04-08.33.16:684][793]LogModuleManager: Shutting down and abandoning module SettingsEditor (488)
+[2019.08.04-08.33.16:684][793]LogModuleManager: Shutting down and abandoning module ProjectLauncher (486)
+[2019.08.04-08.33.16:684][793]LogModuleManager: Shutting down and abandoning module SessionFrontend (484)
+[2019.08.04-08.33.16:684][793]LogModuleManager: Shutting down and abandoning module ProfilerClient (482)
+[2019.08.04-08.33.16:684][793]LogModuleManager: Shutting down and abandoning module DeviceManager (480)
+[2019.08.04-08.33.16:684][793]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (479)
+[2019.08.04-08.33.16:728][793]LogModuleManager: Shutting down and abandoning module AutomationController (476)
+[2019.08.04-08.33.16:728][793]LogModuleManager: Shutting down and abandoning module AutomationWindow (474)
+[2019.08.04-08.33.16:728][793]LogModuleManager: Shutting down and abandoning module Layers (472)
+[2019.08.04-08.33.16:728][793]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (470)
+[2019.08.04-08.33.16:728][793]LogModuleManager: Shutting down and abandoning module DetailCustomizations (468)
+[2019.08.04-08.33.16:728][793]LogModuleManager: Shutting down and abandoning module PackagesDialog (466)
+[2019.08.04-08.33.16:728][793]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (464)
+[2019.08.04-08.33.16:728][793]LogModuleManager: Shutting down and abandoning module Persona (462)
+[2019.08.04-08.33.16:728][793]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (461)
+[2019.08.04-08.33.16:728][793]LogModuleManager: Shutting down and abandoning module AnimGraph (459)
+[2019.08.04-08.33.16:728][793]LogModuleManager: Shutting down and abandoning module Kismet (456)
+[2019.08.04-08.33.16:736][793]LogModuleManager: Shutting down and abandoning module GraphEditor (454)
+[2019.08.04-08.33.16:736][793]LogModuleManager: Shutting down and abandoning module ClassViewer (452)
+[2019.08.04-08.33.16:737][793]LogModuleManager: Shutting down and abandoning module Toolbox (450)
+[2019.08.04-08.33.16:737][793]LogModuleManager: Shutting down and abandoning module ModuleUI (448)
+[2019.08.04-08.33.16:737][793]LogModuleManager: Shutting down and abandoning module MovieSceneTools (446)
+[2019.08.04-08.33.16:737][793]LogModuleManager: Shutting down and abandoning module OutputLog (444)
+[2019.08.04-08.33.16:737][793]LogModuleManager: Shutting down and abandoning module GammaUI (442)
+[2019.08.04-08.33.16:737][793]LogModuleManager: Shutting down and abandoning module Documentation (440)
+[2019.08.04-08.33.16:737][793]LogModuleManager: Shutting down and abandoning module LiveCoding (438)
+[2019.08.04-08.33.16:737][793]LogModuleManager: Shutting down and abandoning module LevelSequence (436)
+[2019.08.04-08.33.16:737][793]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (434)
+[2019.08.04-08.33.16:737][793]LogModuleManager: Shutting down and abandoning module MovieScene (432)
+[2019.08.04-08.33.16:737][793]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (430)
+[2019.08.04-08.33.16:737][793]LogModuleManager: Shutting down and abandoning module LauncherPlatform (428)
+[2019.08.04-08.33.16:737][793]LogModuleManager: Shutting down and abandoning module AnalyticsET (426)
+[2019.08.04-08.33.16:737][793]LogModuleManager: Shutting down and abandoning module PortalServices (424)
+[2019.08.04-08.33.16:737][793]LogModuleManager: Shutting down and abandoning module PortalRpc (422)
+[2019.08.04-08.33.16:737][793]LogModuleManager: Shutting down and abandoning module MessagingRpc (420)
+[2019.08.04-08.33.16:737][793]LogModuleManager: Shutting down and abandoning module AIModule (418)
+[2019.08.04-08.33.16:737][793]LogModuleManager: Shutting down and abandoning module GameplayDebugger (417)
+[2019.08.04-08.33.16:737][793]LogModuleManager: Shutting down and abandoning module AITestSuite (415)
+[2019.08.04-08.33.16:737][793]LogModuleManager: Shutting down and abandoning module NavigationSystem (413)
+[2019.08.04-08.33.16:737][793]LogModuleManager: Shutting down and abandoning module DesktopPlatform (410)
+[2019.08.04-08.33.16:737][793]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (408)
+[2019.08.04-08.33.16:740][793]LogModuleManager: Shutting down and abandoning module ProfilerService (406)
+[2019.08.04-08.33.16:758][793]LogModuleManager: Shutting down and abandoning module TaskGraph (404)
+[2019.08.04-08.33.16:758][793]LogModuleManager: Shutting down and abandoning module SteamVRController (402)
+[2019.08.04-08.33.16:758][793]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (400)
+[2019.08.04-08.33.16:758][793]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (398)
+[2019.08.04-08.33.16:758][793]LogModuleManager: Shutting down and abandoning module OculusEditor (396)
+[2019.08.04-08.33.16:758][793]LogModuleManager: Shutting down and abandoning module OculusInput (394)
+[2019.08.04-08.33.16:758][793]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (392)
+[2019.08.04-08.33.16:758][793]LogModuleManager: Shutting down and abandoning module EditableMesh (390)
+[2019.08.04-08.33.16:758][793]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (388)
+[2019.08.04-08.33.16:759][793]LogModuleManager: Shutting down and abandoning module CableComponent (386)
+[2019.08.04-08.33.16:759][793]LogModuleManager: Shutting down and abandoning module AudioCapture (384)
+[2019.08.04-08.33.16:759][793]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (382)
+[2019.08.04-08.33.16:759][793]LogModuleManager: Shutting down and abandoning module AndroidPermission (380)
+[2019.08.04-08.33.16:759][793]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (378)
+[2019.08.04-08.33.16:759][793]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (376)
+[2019.08.04-08.33.16:759][793]LogModuleManager: Shutting down and abandoning module MediaCompositing (374)
+[2019.08.04-08.33.16:759][793]LogModuleManager: Shutting down and abandoning module LinearTimecode (372)
+[2019.08.04-08.33.16:759][793]LogModuleManager: Shutting down and abandoning module ImgMedia (370)
+[2019.08.04-08.33.16:759][793]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (368)
+[2019.08.04-08.33.16:759][793]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (366)
+[2019.08.04-08.33.16:759][793]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (364)
+[2019.08.04-08.33.16:759][793]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2019.08.04-08.33.16:759][793]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2019.08.04-08.33.16:759][793]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2019.08.04-08.33.16:759][793]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2019.08.04-08.33.16:759][793]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2019.08.04-08.33.16:759][793]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (352)
+[2019.08.04-08.33.16:759][793]LogModuleManager: Shutting down and abandoning module AppleImageUtils (350)
+[2019.08.04-08.33.16:759][793]LogModuleManager: Shutting down and abandoning module AlembicImporter (348)
+[2019.08.04-08.33.16:759][793]LogModuleManager: Shutting down and abandoning module AlembicLibrary (347)
+[2019.08.04-08.33.16:759][793]LogModuleManager: Shutting down and abandoning module GeometryCache (346)
+[2019.08.04-08.33.16:759][793]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (345)
+[2019.08.04-08.33.16:759][793]LogModuleManager: Shutting down and abandoning module VariantManagerContent (340)
+[2019.08.04-08.33.16:759][793]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (338)
+[2019.08.04-08.33.16:759][793]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (336)
+[2019.08.04-08.33.16:759][793]LogModuleManager: Shutting down and abandoning module PluginBrowser (334)
+[2019.08.04-08.33.16:759][793]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (332)
+[2019.08.04-08.33.16:759][793]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (330)
+[2019.08.04-08.33.16:759][793]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2019.08.04-08.33.16:759][793]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2019.08.04-08.33.16:759][793]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2019.08.04-08.33.16:759][793]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2019.08.04-08.33.16:759][793]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2019.08.04-08.33.16:759][793]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2019.08.04-08.33.16:759][793]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2019.08.04-08.33.16:759][793]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2019.08.04-08.33.16:759][793]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2019.08.04-08.33.16:759][793]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2019.08.04-08.33.16:759][793]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (308)
+[2019.08.04-08.33.16:759][793]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (306)
+[2019.08.04-08.33.16:759][793]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (304)
+[2019.08.04-08.33.16:759][793]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (302)
+[2019.08.04-08.33.16:759][793]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (300)
+[2019.08.04-08.33.16:759][793]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (298)
+[2019.08.04-08.33.16:759][793]LogModuleManager: Shutting down and abandoning module Paper2DEditor (296)
+[2019.08.04-08.33.16:759][793]LogModuleManager: Shutting down and abandoning module SignificanceManager (294)
+[2019.08.04-08.33.16:759][793]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (292)
+[2019.08.04-08.33.16:759][793]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (290)
+[2019.08.04-08.33.16:759][793]LogModuleManager: Shutting down and abandoning module PhysXVehicles (288)
+[2019.08.04-08.33.16:759][793]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2019.08.04-08.33.16:759][793]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.08.04-08.33.16:759][793]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.08.04-08.33.16:861][793]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.08.04-08.33.16:961][793]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (278)
+[2019.08.04-08.33.16:961][793]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (276)
+[2019.08.04-08.33.16:961][793]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (274)
+[2019.08.04-08.33.16:961][793]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (272)
+[2019.08.04-08.33.16:961][793]LogModuleManager: Shutting down and abandoning module MagicLeapController (270)
+[2019.08.04-08.33.16:961][793]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.08.04-08.33.16:961][793]LogModuleManager: Shutting down and abandoning module MagicLeapAR (268)
+[2019.08.04-08.33.16:961][793]LogModuleManager: Shutting down and abandoning module AugmentedReality (267)
+[2019.08.04-08.33.16:961][793]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (264)
+[2019.08.04-08.33.16:961][793]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (262)
+[2019.08.04-08.33.16:961][793]LogModuleManager: Shutting down and abandoning module FacialAnimation (260)
+[2019.08.04-08.33.16:961][793]LogModuleManager: Shutting down and abandoning module DataValidation (258)
+[2019.08.04-08.33.16:961][793]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (256)
+[2019.08.04-08.33.16:961][793]LogModuleManager: Shutting down and abandoning module LevelEditor (255)
+[2019.08.04-08.33.16:961][793]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (254)
+[2019.08.04-08.33.16:962][793]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (252)
+[2019.08.04-08.33.16:962][793]LogModuleManager: Shutting down and abandoning module MainFrame (250)
+[2019.08.04-08.33.16:962][793]LogModuleManager: Shutting down and abandoning module HotReload (249)
+[2019.08.04-08.33.16:962][793]LogModuleManager: Shutting down and abandoning module ContentBrowser (245)
+[2019.08.04-08.33.16:963][793]LogModuleManager: Shutting down and abandoning module TreeMap (243)
+[2019.08.04-08.33.16:963][793]LogModuleManager: Shutting down and abandoning module AnimationSharing (240)
+[2019.08.04-08.33.16:963][793]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2019.08.04-08.33.16:963][793]LogModuleManager: Shutting down and abandoning module AISupportModule (236)
+[2019.08.04-08.33.16:963][793]LogModuleManager: Shutting down and abandoning module Paper2D (234)
+[2019.08.04-08.33.16:963][793]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (232)
+[2019.08.04-08.33.16:963][793]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (230)
+[2019.08.04-08.33.16:963][793]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2019.08.04-08.33.16:963][793]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2019.08.04-08.33.16:963][793]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2019.08.04-08.33.16:963][793]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2019.08.04-08.33.16:963][793]LogModuleManager: Shutting down and abandoning module Overlay (220)
+[2019.08.04-08.33.16:963][793]LogModuleManager: Shutting down and abandoning module OverlayEditor (219)
+[2019.08.04-08.33.16:963][793]LogModuleManager: Shutting down and abandoning module VREditor (216)
+[2019.08.04-08.33.16:963][793]LogModuleManager: Shutting down and abandoning module StringTableEditor (214)
+[2019.08.04-08.33.16:963][793]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (212)
+[2019.08.04-08.33.16:963][793]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (210)
+[2019.08.04-08.33.16:963][793]LogModuleManager: Shutting down and abandoning module FunctionalTesting (208)
+[2019.08.04-08.33.16:963][793]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (206)
+[2019.08.04-08.33.16:963][793]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (205)
+[2019.08.04-08.33.16:963][793]LogModuleManager: Shutting down and abandoning module UMG (202)
+[2019.08.04-08.33.16:963][793]LogModuleManager: Shutting down and abandoning module UMGEditor (201)
+[2019.08.04-08.33.16:963][793]LogModuleManager: Shutting down and abandoning module Sequencer (200)
+[2019.08.04-08.33.16:963][793]LogModuleManager: Shutting down and abandoning module MessageLog (197)
+[2019.08.04-08.33.16:963][793]LogModuleManager: Shutting down and abandoning module SlateReflector (192)
+[2019.08.04-08.33.16:963][793]LogModuleManager: Shutting down and abandoning module Slate (190)
+[2019.08.04-08.33.16:963][793]LogModuleManager: Shutting down and abandoning module EditorStyle (188)
+[2019.08.04-08.33.16:964][793]LogModuleManager: Shutting down and abandoning module UnrealEd (186)
+[2019.08.04-08.33.16:964][793]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2019.08.04-08.33.16:964][793]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2019.08.04-08.33.16:964][793]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2019.08.04-08.33.16:964][793]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2019.08.04-08.33.16:964][793]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2019.08.04-08.33.16:964][793]LogModuleManager: Shutting down and abandoning module Core (174)
+[2019.08.04-08.33.16:964][793]LogModuleManager: Shutting down and abandoning module KismetCompiler (172)
+[2019.08.04-08.33.16:964][793]LogModuleManager: Shutting down and abandoning module MeshUtilities (170)
+[2019.08.04-08.33.16:964][793]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (169)
+[2019.08.04-08.33.16:964][793]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (168)
+[2019.08.04-08.33.16:964][793]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (167)
+[2019.08.04-08.33.16:964][793]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (165)
+[2019.08.04-08.33.16:965][793]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (163)
+[2019.08.04-08.33.16:965][793]LogModuleManager: Shutting down and abandoning module MaterialBaking (159)
+[2019.08.04-08.33.16:965][793]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2019.08.04-08.33.16:966][793]LogDerivedDataCache: Shutdown
+[2019.08.04-08.33.16:966][793]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2019.08.04-08.33.16:966][793]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2019.08.04-08.33.16:966][793]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2019.08.04-08.33.16:966][793]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2019.08.04-08.33.16:966][793]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2019.08.04-08.33.16:966][793]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2019.08.04-08.33.16:966][793]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2019.08.04-08.33.16:966][793]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2019.08.04-08.33.16:966][793]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2019.08.04-08.33.16:966][793]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2019.08.04-08.33.16:966][793]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2019.08.04-08.33.16:967][793]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2019.08.04-08.33.16:967][793]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2019.08.04-08.33.16:967][793]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2019.08.04-08.33.16:967][793]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2019.08.04-08.33.16:967][793]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2019.08.04-08.33.16:967][793]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2019.08.04-08.33.16:967][793]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (119)
+[2019.08.04-08.33.16:967][793]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (117)
+[2019.08.04-08.33.16:967][793]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (115)
+[2019.08.04-08.33.16:967][793]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (113)
+[2019.08.04-08.33.16:967][793]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (111)
+[2019.08.04-08.33.16:967][793]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (109)
+[2019.08.04-08.33.16:968][793]LogModuleManager: Shutting down and abandoning module Messaging (107)
+[2019.08.04-08.33.16:968][793]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (105)
+[2019.08.04-08.33.16:968][793]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (103)
+[2019.08.04-08.33.16:968][793]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (101)
+[2019.08.04-08.33.16:974][793]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (99)
+[2019.08.04-08.33.16:974][793]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (97)
+[2019.08.04-08.33.16:974][793]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (95)
+[2019.08.04-08.33.16:974][793]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (93)
+[2019.08.04-08.33.16:974][793]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (91)
+[2019.08.04-08.33.16:974][793]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (89)
+[2019.08.04-08.33.16:974][793]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (87)
+[2019.08.04-08.33.16:974][793]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (85)
+[2019.08.04-08.33.16:974][793]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (83)
+[2019.08.04-08.33.16:974][793]LogModuleManager: Shutting down and abandoning module InputCore (80)
+[2019.08.04-08.33.16:974][793]LogModuleManager: Shutting down and abandoning module Settings (78)
+[2019.08.04-08.33.16:974][793]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (76)
+[2019.08.04-08.33.16:974][793]LogModuleManager: Shutting down and abandoning module PhysXCooking (74)
+[2019.08.04-08.33.16:974][793]LogModuleManager: Shutting down and abandoning module SteamVR (72)
+[2019.08.04-08.33.16:974][793]LogHMD: Freeing OpenVRDLLHandle.
+[2019.08.04-08.33.16:974][793]LogModuleManager: Shutting down and abandoning module OculusHMD (70)
+[2019.08.04-08.33.16:974][793]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (68)
+[2019.08.04-08.33.16:974][793]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (66)
+[2019.08.04-08.33.16:974][793]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (64)
+[2019.08.04-08.33.16:974][793]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (60)
+[2019.08.04-08.33.16:975][793]LogModuleManager: Shutting down and abandoning module XMPP (55)
+[2019.08.04-08.33.16:975][793]LogModuleManager: Shutting down and abandoning module WebSockets (54)
+[2019.08.04-08.33.16:992][793]LogModuleManager: Shutting down and abandoning module HTTP (51)
+[2019.08.04-08.33.16:992][793]LogHttp: Display: Http module shutting down, but needs to wait on 2 outstanding Http requests:
+[2019.08.04-08.33.16:992][793]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B51C6729C-4338-D0B3-5525-64B7DBF134B7%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=6d30cd754e3947c11f30e5b629ececbd%7C18a034e806be4860a525251c4bb9b145%7C87c2e2e3-c373-400e-8496-9d63d3348c77&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.08.04-08.33.16:992][793]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B51C6729C-4338-D0B3-5525-64B7DBF134B7%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=6d30cd754e3947c11f30e5b629ececbd%7C18a034e806be4860a525251c4bb9b145%7C87c2e2e3-c373-400e-8496-9d63d3348c77&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.08.04-08.33.17:018][793]LogModuleManager: Shutting down and abandoning module SSL (50)
+[2019.08.04-08.33.17:019][793]LogModuleManager: Shutting down and abandoning module WmfMedia (46)
+[2019.08.04-08.33.17:020][793]LogModuleManager: Shutting down and abandoning module Media (45)
+[2019.08.04-08.33.17:026][793]LogModuleManager: Shutting down and abandoning module MagicLeap (42)
+[2019.08.04-08.33.17:026][793]LogModuleManager: Shutting down and abandoning module DatasmithContent (40)
+[2019.08.04-08.33.17:026][793]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2019.08.04-08.33.17:026][793]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2019.08.04-08.33.17:026][793]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2019.08.04-08.33.17:027][793]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2019.08.04-08.33.17:027][793]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2019.08.04-08.33.17:027][793]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2019.08.04-08.33.17:027][793]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2019.08.04-08.33.17:027][793]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2019.08.04-08.33.17:027][793]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2019.08.04-08.33.17:027][793]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2019.08.04-08.33.17:028][793]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2019.08.04-08.33.17:028][793]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2019.08.04-08.33.17:028][793]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2019.08.04-08.33.17:028][793]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2019.08.04-08.33.17:028][793]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2019.08.04-08.33.17:028][793]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2019.08.04-08.33.17:028][793]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2019.08.04-08.33.17:028][793]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2019.08.04-08.33.17:028][793]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2019.08.04-08.33.17:037][793]LogExit: Exiting.
+[2019.08.04-08.33.17:040][793]Log file closed, 08/04/19 10:33:17
