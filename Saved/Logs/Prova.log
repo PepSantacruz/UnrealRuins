@@ -685,3 +685,334 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.08.07-16.32.11:799][183]LogSlate: Window 'Message Log' being destroyed
 [2019.08.07-16.32.11:804][183]LogSlate: Window 'Message Log' being destroyed
 [2019.08.07-16.32.36:595][594]LogSavePackage: Moving '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Saved/GameModeRuin810CA52F4E7A3567AAB3519CB7CB4BDC.tmp' to '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Content/RuinLevel/Blueprints/assets/Character/GameModeRuin.uasset'
+[2019.08.07-18.12.44:512][680]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.07-18.12.44:512][680]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.07-18.12.44:512][680]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.07-18.12.44:512][680]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.07-18.12.44:512][680]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.07-18.12.44:512][680]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.07-18.12.44:512][680]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.07-18.12.44:512][680]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.07-18.12.44:512][680]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.07-18.12.44:512][680]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.07-18.12.44:513][680]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.07-18.12.44:513][680]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.07-18.12.44:513][680]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.07-18.12.44:513][680]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.07-18.12.44:513][680]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.07-18.12.44:513][680]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.07-18.12.44:513][680]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.07-18.12.44:513][680]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.07-18.12.44:513][680]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.07-18.12.44:513][680]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.07-18.12.44:513][680]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.07-18.12.44:513][680]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.07-18.12.44:513][680]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.07-18.12.44:513][680]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.07-18.12.44:513][680]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.07-18.12.44:513][680]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.07-18.12.44:513][680]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.07-18.12.44:514][680]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.07-18.12.44:514][680]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.07-18.12.44:514][680]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.07-18.12.44:514][680]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.07-18.12.44:514][680]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.07-18.12.44:514][680]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.07-18.12.44:514][680]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.07-18.12.44:514][680]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.07-18.12.44:514][680]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.07-18.12.44:514][680]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.07-18.12.44:514][680]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.07-18.12.44:514][680]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.07-18.12.44:514][680]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.07-18.12.44:514][680]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.07-18.12.44:514][680]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.07-18.12.44:515][680]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.07-18.12.44:515][680]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.07-18.12.44:515][680]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.07-18.12.44:515][680]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.07-18.12.44:515][680]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.07-18.12.44:515][680]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.07-18.12.44:515][680]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.07-18.12.44:515][680]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.07-18.12.44:515][680]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.07-18.12.44:515][680]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.07-18.12.44:515][680]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.07-18.12.44:515][680]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.07-18.12.44:515][680]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.07-18.12.44:515][680]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.07-18.12.44:516][680]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.07-18.12.44:516][680]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.07-18.12.44:516][680]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.07-18.12.44:516][680]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.07-18.12.44:516][680]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.07-18.12.44:516][680]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.07-18.12.44:516][680]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.07-18.12.44:516][680]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.07-18.12.44:516][680]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.07-18.12.44:516][680]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.07-18.12.44:516][680]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.07-18.12.44:516][680]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.07-18.12.44:516][680]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.07-18.12.44:516][680]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.07-18.12.44:516][680]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.07-18.12.44:516][680]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.07-18.12.44:516][680]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.07-18.12.44:517][680]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.07-18.12.44:517][680]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.07-18.12.44:517][680]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.07-18.12.44:517][680]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.07-18.12.44:517][680]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.07-18.12.44:517][680]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.07-18.12.44:517][680]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.07-18.12.44:517][680]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.07-18.12.44:517][680]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.07-18.12.44:517][680]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.07-18.12.44:517][680]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.07-18.12.44:517][680]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.07-18.12.44:517][680]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.07-18.12.44:517][680]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.07-18.12.44:517][680]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.07-18.12.44:517][680]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.07-18.12.44:517][680]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.07-18.12.44:517][680]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.07-18.12.44:517][680]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.07-18.12.44:517][680]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.07-18.12.44:517][680]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.07-18.12.44:517][680]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.07-18.12.45:890][683]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2019.08.07-18.12.45:933][683]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.421 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.07-18.12.49:162][692]LogInit: XAudio2 using 'Altavoces (LG LAS260B(DD) Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.07-18.12.54:708][709]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2019.08.07-18.12.54:708][709]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/RuinLevel/RuinLevel' took 0.033
+[2019.08.07-18.12.54:710][709]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/RuinLevel/Blueprints/assets/Character/GameModeRuin] ([1] browsable assets)...
+[2019.08.07-18.12.54:710][709]OBJ SavePackage: Finished generating thumbnails for package [/Game/RuinLevel/Blueprints/assets/Character/GameModeRuin]
+[2019.08.07-18.12.54:743][709]LogSavePackage: Moving '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Saved/GameModeRuin_Auto11E17803B4ADCDB344578678102980335.tmp' to '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Saved/Autosaves/Game/RuinLevel/Blueprints/assets/Character/GameModeRuin_Auto1.uasset'
+[2019.08.07-18.12.54:744][709]LogFileHelpers: Auto-saving content packages took 0.036
+[2019.08.07-18.14.00:925][ 38]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.07-18.14.09:455][187]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2019.08.07-18.14.09:505][187]LogSavePackage: Moving '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Saved/GameModeRuinA9015D1A4C1893A49E799A90DE094530.tmp' to '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Content/RuinLevel/Blueprints/assets/Character/GameModeRuin.uasset'
+[2019.08.07-18.14.16:438][596]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2019.08.07-18.14.16:469][597]LogMaterial: Display: Missing cached shader map for material Material_1, compiling. 
+[2019.08.07-18.15.11:821][822]LogAssetEditorManager: Opening Asset editor for Material /Game/RuinLevel/Blueprints/assets/Materials/M_CharacterMaster.M_CharacterMaster
+[2019.08.07-18.15.11:824][822]LogMaterial: Display: Missing cached shader map for material M_CharacterMaster, compiling. 
+[2019.08.07-18.15.12:050][822]LogMaterial: Display: Missing cached shader map for material M_CharacterMaster, compiling. 
+[2019.08.07-18.15.12:079][822]LogMaterial: Display: Missing cached shader map for material M_CharacterMaster, compiling. 
+[2019.08.07-18.15.12:138][822]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2019.08.07-18.15.12:145][822]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.08.07-18.15.12:150][822]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.08.07-18.15.12:156][822]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.08.07-18.15.12:846][858]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.08.07-18.15.13:422][893]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.08.07-18.15.13:878][920]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.08.07-18.15.14:294][945]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.08.07-18.15.14:756][973]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.08.07-18.15.15:218][  0]MaterialEditorStats: Base pass shader: 124 instructions
+[2019.08.07-18.15.15:218][  0]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 198 instructions
+[2019.08.07-18.15.15:218][  0]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2019.08.07-18.15.15:218][  0]MaterialEditorStats: Base pass vertex shader: 87 instructions
+[2019.08.07-18.15.15:218][  0]MaterialEditorStats: Texture samplers: 6/16
+[2019.08.07-18.15.15:218][  0]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2019.08.07-18.15.15:218][  0]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.08.07-18.15.19:263][242]LogMaterial: Display: Missing cached shader map for material M_CharacterMaster, compiling. 
+[2019.08.07-18.15.19:291][242]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.08.07-18.15.19:299][242]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.08.07-18.15.19:332][242]LogMaterial: Display: Missing cached shader map for material M_CharacterMaster, compiling. 
+[2019.08.07-18.15.19:398][242]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.08.07-18.15.19:533][249]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.08.07-18.15.19:820][266]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.08.07-18.15.20:436][303]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.08.07-18.15.20:750][322]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.08.07-18.15.21:319][356]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.08.07-18.15.21:650][376]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.08.07-18.15.22:443][423]MaterialEditorStats: Base pass shader: 125 instructions
+[2019.08.07-18.15.22:443][423]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 199 instructions
+[2019.08.07-18.15.22:443][423]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2019.08.07-18.15.22:443][423]MaterialEditorStats: Base pass vertex shader: 87 instructions
+[2019.08.07-18.15.22:443][423]MaterialEditorStats: Texture samplers: 6/16
+[2019.08.07-18.15.22:443][423]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2019.08.07-18.15.22:443][423]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.08.07-18.15.36:984][800]LogMaterialEditor: Saving and Compiling material M_CharacterMaster
+[2019.08.07-18.15.37:331][800]LogMaterial: Display: Missing cached shader map for material M_CharacterMaster, compiling. 
+[2019.08.07-18.15.37:411][800]LogMaterial: Display: Missing cached shader map for material M_CharacterMaster, compiling. 
+[2019.08.07-18.15.37:457][800]LogMaterial: Display: Missing cached shader map for material M_CharacterMaster, compiling. 
+[2019.08.07-18.15.37:559][800]LogUObjectHash: Compacting FUObjectHashTables data took   6.22ms
+[2019.08.07-18.15.37:570][800]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.08.07-18.15.39:702][800]LogShaderCompilers: Display: Shaders left to compile 110
+[2019.08.07-18.15.39:702][800]LogShaderCompilers: Display: Shaders left to compile 100
+[2019.08.07-18.15.39:702][800]LogShaderCompilers: Display: Shaders left to compile 90
+[2019.08.07-18.15.39:702][800]LogShaderCompilers: Display: Shaders left to compile 80
+[2019.08.07-18.15.39:702][800]LogShaderCompilers: Display: Shaders left to compile 70
+[2019.08.07-18.15.39:702][800]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.08.07-18.15.39:702][800]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.08.07-18.15.39:702][800]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.08.07-18.15.39:702][800]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.08.07-18.15.39:702][800]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.08.07-18.15.39:702][800]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.08.07-18.15.39:705][800]TextureStreamingBuild: Display: Compiling optional shaders took 2.147 seconds.
+[2019.08.07-18.15.39:750][800]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2019.08.07-18.15.42:408][800]LogSavePackage: Moving '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Saved/M_CharacterMasterD4CB23EF48E52898289FD388E29479B3.tmp' to '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Content/RuinLevel/Blueprints/assets/Materials/M_CharacterMaster.uasset'
+[2019.08.07-18.16.12:992][806]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/RuinLevel/Blueprints/assets/Character/EnemyCharacterRuin.EnemyCharacterRuin
+[2019.08.07-18.20.19:524][242]BlueprintLog: New page: Compile EnemyCharacterRuin
+[2019.08.07-18.20.19:740][242]LogUObjectHash: Compacting FUObjectHashTables data took   4.28ms
+[2019.08.07-18.20.22:079][375]LogSavePackage: Moving '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Saved/EnemyCharacterRuinE8400664467A72CA3F085692A1193B0D.tmp' to '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Content/RuinLevel/Blueprints/assets/Character/EnemyCharacterRuin.uasset'
+[2019.08.07-18.21.18:857][779]BlueprintLog: New page: Compile EnemyCharacterRuin
+[2019.08.07-18.21.19:051][779]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2019.08.07-18.21.25:826][ 26]LogSlate: Window 'Color Picker' being destroyed
+[2019.08.07-18.21.31:708][180]LogSlate: Window 'Color Picker' being destroyed
+[2019.08.07-18.21.34:006][303]BlueprintLog: New page: Compile EnemyCharacterRuin
+[2019.08.07-18.21.34:159][303]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2019.08.07-18.21.38:491][444]LogSlate: Window 'Color Picker' being destroyed
+[2019.08.07-18.21.50:336][826]LogSavePackage: Moving '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Saved/EnemyCharacterRuin590FFAC04482657F977A599DC105AC27.tmp' to '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Content/RuinLevel/Blueprints/assets/Character/EnemyCharacterRuin.uasset'
+[2019.08.07-18.21.52:558][958]LogRenderer: Reallocating scene render targets to support 912x708 Format 10 NumSamples 1 (Frame:1).
+[2019.08.07-18.23.11:110][790]BlueprintLog: New page: Compile EnemyCharacterRuin
+[2019.08.07-18.23.11:272][790]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2019.08.07-18.23.15:383][ 35]LogSlate: Window 'Color Picker' being destroyed
+[2019.08.07-18.23.27:795][779]BlueprintLog: New page: Compile EnemyCharacterRuin
+[2019.08.07-18.23.27:950][779]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2019.08.07-18.24.00:427][721]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2019.08.07-18.24.00:427][721]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/RuinLevel/RuinLevel' took 0.032
+[2019.08.07-18.24.00:428][721]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RuinLevel/Blueprints/assets/Character/EnemyCharacterRuin] ([1] browsable assets)...
+[2019.08.07-18.24.00:450][721]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/RuinLevel/Blueprints/assets/Character/EnemyCharacterRuin.EnemyCharacterRuin]
+[2019.08.07-18.24.00:450][721]OBJ SavePackage: Finished generating thumbnails for package [/Game/RuinLevel/Blueprints/assets/Character/EnemyCharacterRuin]
+[2019.08.07-18.24.00:509][721]LogSavePackage: Moving '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Saved/EnemyCharacterRuin_Auto28CF28D4640DD6193BC736B90FFE1355A.tmp' to '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Saved/Autosaves/Game/RuinLevel/Blueprints/assets/Character/EnemyCharacterRuin_Auto2.uasset'
+[2019.08.07-18.24.00:510][721]LogFileHelpers: Auto-saving content packages took 0.082
+[2019.08.07-18.25.55:700][661]BlueprintLog: New page: Compile EnemyCharacterRuin
+[2019.08.07-18.25.55:855][661]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2019.08.07-18.26.08:764][431]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2019.08.07-18.26.08:844][431]LogSavePackage: Moving '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Saved/EnemyCharacterRuinB4319FF14E3A724A715F93BD03DC8B8F.tmp' to '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Content/RuinLevel/Blueprints/assets/Character/EnemyCharacterRuin.uasset'
+[2019.08.07-18.26.42:715][463]BlueprintLog: New page: Compile EnemyCharacterRuin
+[2019.08.07-18.26.42:840][463]LogMaterial: Warning: Material /Game/StarterContent/Props/Materials/M_Chair.M_Chair needed to have new flag set bUsedWithSkeletalMesh !
+[2019.08.07-18.26.42:843][463]LogMaterial: Display: Missing cached shader map for material M_Chair, compiling. 
+[2019.08.07-18.26.42:917][463]LogUObjectHash: Compacting FUObjectHashTables data took   3.91ms
+[2019.08.07-18.27.03:072][665]LogSavePackage: Moving '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Saved/EnemyCharacterRuin700F8D7E4B8E3788243B6388B702BE18.tmp' to '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Content/RuinLevel/Blueprints/assets/Character/EnemyCharacterRuin.uasset'
+[2019.08.07-18.27.13:319][280]BlueprintLog: New page: Compile EnemyCharacterRuin
+[2019.08.07-18.27.13:476][280]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2019.08.07-18.27.15:553][402]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2019.08.07-18.27.15:602][402]LogSavePackage: Moving '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Saved/M_ChairC5F1220A4880CCB1DFC07F9ABA866A98.tmp' to '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Content/StarterContent/Props/Materials/M_Chair.uasset'
+[2019.08.07-18.30.55:267][977]LogSlate: Took 0.000119 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.08.07-18.30.58:640][177]BlueprintLog: New page: Compile EnemyCharacterRuin
+[2019.08.07-18.30.58:806][177]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2019.08.07-18.32.04:375][519]LogSavePackage: Moving '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Saved/EnemyCharacterRuin1C57849340C91622260A57B0170DC122.tmp' to '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Content/RuinLevel/Blueprints/assets/Character/EnemyCharacterRuin.uasset'
+[2019.08.07-18.33.03:583][736]BlueprintLog: New page: Compile EnemyCharacterRuin
+[2019.08.07-18.33.03:626][736]LogBlueprint: Warning: [Compiler StateMachineAnimatorCharacter] Node  Result  uses potentially thread-unsafe call  Try Get Pawn Owner . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2019.08.07-18.33.03:627][736]LogBlueprint: Warning: [Compiler StateMachineAnimatorCharacter] Node  Result  uses potentially thread-unsafe call  Try Get Pawn Owner . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2019.08.07-18.33.03:627][736]LogBlueprint: Warning: [Compiler StateMachineAnimatorCharacter] Node  Result  uses potentially thread-unsafe call  Get Movement Component . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2019.08.07-18.33.03:627][736]LogBlueprint: Warning: [Compiler StateMachineAnimatorCharacter] Node  Result  uses potentially thread-unsafe call  Try Get Pawn Owner . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2019.08.07-18.33.03:627][736]LogBlueprint: Warning: [Compiler StateMachineAnimatorCharacter] Node  Result  uses potentially thread-unsafe call  Try Get Pawn Owner . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2019.08.07-18.33.03:627][736]LogBlueprint: Warning: [Compiler StateMachineAnimatorCharacter] Node  Result  uses potentially thread-unsafe call  Get Movement Component . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2019.08.07-18.33.03:632][736]LogBlueprint: Warning: [Compiler StateMachineAnimatorCharacter] [7585,30] Compile of StateMachineAnimatorCharacter successful, but with 6 Warning(s) [in 48 ms] (/Game/RuinLevel/Blueprints/assets/Character/Animations/StateMachine/StateMachineAnimatorCharacter.StateMachineAnimatorCharacter)
+[2019.08.07-18.33.03:777][736]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2019.08.07-18.33.06:591][900]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/RuinLevel/Blueprints/assets/Character/EnemyAIRuin.EnemyAIRuin
+[2019.08.07-18.33.34:816][565]BlueprintLog: New page: Compile EnemyCharacterRuin
+[2019.08.07-18.33.34:984][565]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2019.08.07-18.33.35:871][610]LogSavePackage: Moving '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Saved/EnemyCharacterRuin734B9EB243240A47AF85E09BB4A318A5.tmp' to '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Content/RuinLevel/Blueprints/assets/Character/EnemyCharacterRuin.uasset'
+[2019.08.07-18.33.43:935][ 92]LogBlueprint: Error: [Compiler EnemyAIRuin] Internal Compiler Error: Tried to create a property PrimaryAttack in scope SKEL_EnemyAIRuin_C, but another object (Function PrimaryAttack) already exists there.
+[2019.08.07-18.33.43:935][ 92]LogBlueprint: Warning: [Compiler EnemyAIRuin] [7625,60] Compile of EnemyAIRuin failed. 1 Fatal Issue(s) 0 Warning(s) [in 0 ms] (/Game/RuinLevel/Blueprints/assets/Character/EnemyAIRuin.EnemyAIRuin)
+[2019.08.07-18.34.06:637][451]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2019.08.07-18.34.06:684][451]LogSavePackage: Moving '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Saved/EnemyAIRuin331F741A41480424C8791088FF55B024.tmp' to '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Content/RuinLevel/Blueprints/assets/Character/EnemyAIRuin.uasset'
+[2019.08.07-18.34.10:597][686]BlueprintLog: New page: Compile EnemyAIRuin
+[2019.08.07-18.34.10:598][686]LogBlueprint: Error: [Compiler EnemyAIRuin] Internal Compiler Error: Tried to create a property PrimaryAttack in scope SKEL_EnemyAIRuin_C, but another object (Function PrimaryAttack) already exists there.
+[2019.08.07-18.34.10:603][686]LogBlueprint: Error: [Compiler EnemyAIRuin] Name collision - function and property have the same name - 'PrimaryAttack'.  PrimaryAttack
+[2019.08.07-18.34.10:744][686]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2019.08.07-18.34.10:752][686]LogBlueprint: Warning: [Compiler EnemyAIRuin] [7652,41] Compile of EnemyAIRuin failed. 2 Fatal Issue(s) 0 Warning(s) [in 153 ms] (/Game/RuinLevel/Blueprints/assets/Character/EnemyAIRuin.EnemyAIRuin)
+[2019.08.07-18.34.15:284][954]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2019.08.07-18.34.15:328][954]LogSavePackage: Moving '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Saved/EnemyAIRuin62F6366945F44E1E285020BAB8CDFED6.tmp' to '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Content/RuinLevel/Blueprints/assets/Character/EnemyAIRuin.uasset'
+[2019.08.07-18.34.17:296][ 72]BlueprintLog: New page: Compile EnemyAIRuin
+[2019.08.07-18.34.17:441][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2019.08.07-18.35.43:812][232]BlueprintLog: New page: Compile EnemyAIRuin
+[2019.08.07-18.35.43:824][232]LogClass: Warning: Type mismatch in PrimaryAttack of EnemyAIRuin_C - Previous (BoolProperty) Current(FloatProperty) for package:  FObjectReader
+[2019.08.07-18.35.43:967][232]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2019.08.07-18.35.46:321][370]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2019.08.07-18.35.46:368][370]LogSavePackage: Moving '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Saved/EnemyAIRuin7F047D1A424D848C14224A92C84E0FC0.tmp' to '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Content/RuinLevel/Blueprints/assets/Character/EnemyAIRuin.uasset'
+[2019.08.07-18.37.03:690][395]BlueprintLog: New page: Compile EnemyCharacterRuin
+[2019.08.07-18.37.03:853][395]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2019.08.07-18.37.04:481][424]LogSavePackage: Moving '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Saved/EnemyCharacterRuinB091001940BF335D165CD394C31AF74A.tmp' to '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Content/RuinLevel/Blueprints/assets/Character/EnemyCharacterRuin.uasset'
+[2019.08.07-18.38.06:708][748]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2019.08.07-18.38.06:708][748]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/RuinLevel/RuinLevel' took 0.034
+[2019.08.07-18.38.06:709][748]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/RuinLevel/Blueprints/assets/Character/EnemyAIRuin] ([1] browsable assets)...
+[2019.08.07-18.38.06:709][748]OBJ SavePackage: Finished generating thumbnails for package [/Game/RuinLevel/Blueprints/assets/Character/EnemyAIRuin]
+[2019.08.07-18.38.06:737][748]LogSavePackage: Moving '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Saved/EnemyAIRuin_Auto35F9891F94E069FE6A110FDBCE718DF23.tmp' to '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Saved/Autosaves/Game/RuinLevel/Blueprints/assets/Character/EnemyAIRuin_Auto3.uasset'
+[2019.08.07-18.38.06:738][748]LogFileHelpers: Auto-saving content packages took 0.029
+[2019.08.07-18.43.17:904][821]LogSavePackage: Moving '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Saved/EnemyAIRuin02FB8FCD4BD77F4C560393A4339D893D.tmp' to '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Content/RuinLevel/Blueprints/assets/Character/EnemyAIRuin.uasset'
+[2019.08.07-18.43.18:818][876]BlueprintLog: New page: Compile EnemyAIRuin
+[2019.08.07-18.43.18:976][876]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2019.08.07-18.43.21:033][993]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/RuinLevel/Blueprints/assets/Character/EnemyCharacterRuin.EnemyCharacterRuin
+[2019.08.07-18.43.42:322][219]LogSavePackage: Moving '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Saved/EnemyCharacterRuinF9D6E084476784F4D30E07B028494D7C.tmp' to '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Content/RuinLevel/Blueprints/assets/Character/EnemyCharacterRuin.uasset'
+[2019.08.07-18.44.17:604][ 31]LogSavePackage: Moving '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Saved/EnemyAIRuin2B10066149E3E2E7DB5BEE843E7836DC.tmp' to '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Content/RuinLevel/Blueprints/assets/Character/EnemyAIRuin.uasset'
+[2019.08.07-18.44.18:267][ 71]BlueprintLog: New page: Compile EnemyAIRuin
+[2019.08.07-18.44.18:422][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2019.08.07-18.44.25:040][464]LogBlueprint: Error: [Compiler EnemyCharacterRuin] Internal Compiler Error: Tried to create a property PrimaryAttack in scope SKEL_EnemyCharacterRuin_C, but another object (Function PrimaryAttack) already exists there.
+[2019.08.07-18.44.25:040][464]LogBlueprint: Warning: [Compiler EnemyCharacterRuin] [8266,70] Compile of EnemyCharacterRuin failed. 1 Fatal Issue(s) 0 Warning(s) [in 0 ms] (/Game/RuinLevel/Blueprints/assets/Character/EnemyCharacterRuin.EnemyCharacterRuin)
+[2019.08.07-18.45.18:273][655]LogBlueprint: Error: [Compiler EnemyCharacterRuin] Internal Compiler Error: Tried to create a property PrimaryAttack in scope SKEL_EnemyCharacterRuin_C, but another object (Function PrimaryAttack) already exists there.
+[2019.08.07-18.45.18:274][655]LogBlueprint: Warning: [Compiler EnemyCharacterRuin] [8319,94] Compile of EnemyCharacterRuin failed. 1 Fatal Issue(s) 0 Warning(s) [in 0 ms] (/Game/RuinLevel/Blueprints/assets/Character/EnemyCharacterRuin.EnemyCharacterRuin)
+[2019.08.07-18.45.18:974][694]LogBlueprint: Error: [Compiler EnemyCharacterRuin] Internal Compiler Error: Tried to create a property PrimaryAttack in scope SKEL_EnemyCharacterRuin_C, but another object (Function PrimaryAttack) already exists there.
+[2019.08.07-18.45.18:974][694]LogBlueprint: Warning: [Compiler EnemyCharacterRuin] [8320,64] Compile of EnemyCharacterRuin failed. 1 Fatal Issue(s) 0 Warning(s) [in 0 ms] (/Game/RuinLevel/Blueprints/assets/Character/EnemyCharacterRuin.EnemyCharacterRuin)
+[2019.08.07-18.45.19:457][720]LogBlueprint: Error: [Compiler EnemyCharacterRuin] Internal Compiler Error: Tried to create a property PrimaryAttack in scope SKEL_EnemyCharacterRuin_C, but another object (Function PrimaryAttack) already exists there.
+[2019.08.07-18.45.19:457][720]LogBlueprint: Warning: [Compiler EnemyCharacterRuin] [8321,12] Compile of EnemyCharacterRuin failed. 1 Fatal Issue(s) 0 Warning(s) [in 0 ms] (/Game/RuinLevel/Blueprints/assets/Character/EnemyCharacterRuin.EnemyCharacterRuin)
+[2019.08.07-18.45.21:887][863]BlueprintLog: New page: Compile EnemyCharacterRuin
+[2019.08.07-18.45.21:889][863]LogBlueprint: Error: [Compiler EnemyCharacterRuin] Internal Compiler Error: Tried to create a property PrimaryAttack in scope SKEL_EnemyCharacterRuin_C, but another object (Function PrimaryAttack) already exists there.
+[2019.08.07-18.45.21:902][863]LogBlueprint: Error: [Compiler EnemyCharacterRuin] Name collision - function and property have the same name - 'PrimaryAttack'.  PrimaryAttack
+[2019.08.07-18.45.22:047][863]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2019.08.07-18.45.22:067][863]LogBlueprint: Warning: [Compiler EnemyCharacterRuin] [8323,73] Compile of EnemyCharacterRuin failed. 2 Fatal Issue(s) 0 Warning(s) [in 179 ms] (/Game/RuinLevel/Blueprints/assets/Character/EnemyCharacterRuin.EnemyCharacterRuin)
+[2019.08.07-18.46.07:702][567]BlueprintLog: New page: Compile EnemyCharacterRuin
+[2019.08.07-18.46.07:717][567]LogClass: Warning: Type mismatch in PrimaryAttackRange of EnemyCharacterRuin_C - Previous (BoolProperty) Current(FloatProperty) for package:  FObjectReader
+[2019.08.07-18.46.07:717][567]LogBlueprint: Warning: [Compiler EnemyCharacterRuin] Can't parse default value 'False' for  . Property: PrimaryAttackRange.
+[2019.08.07-18.46.07:866][567]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2019.08.07-18.46.07:888][567]LogBlueprint: Warning: [Compiler EnemyCharacterRuin] [8369,55] Compile of EnemyCharacterRuin successful, but with 1 Warning(s) [in 186 ms] (/Game/RuinLevel/Blueprints/assets/Character/EnemyCharacterRuin.EnemyCharacterRuin)
+[2019.08.07-18.46.30:725][940]BlueprintLog: New page: Compile EnemyCharacterRuin
+[2019.08.07-18.46.30:892][940]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2019.08.07-18.46.32:087][  6]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2019.08.07-18.46.32:166][  6]LogSavePackage: Moving '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Saved/EnemyCharacterRuin92C31DC141BBAFE5307ED1AEBACF6CDA.tmp' to '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Content/RuinLevel/Blueprints/assets/Character/EnemyCharacterRuin.uasset'
+[2019.08.07-18.48.31:925][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2019.08.07-18.48.31:925][ 43]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/RuinLevel/RuinLevel' took 0.025
+[2019.08.07-18.48.31:926][ 43]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/RuinLevel/Blueprints/assets/Character/EnemyAIRuin] ([1] browsable assets)...
+[2019.08.07-18.48.31:926][ 43]OBJ SavePackage: Finished generating thumbnails for package [/Game/RuinLevel/Blueprints/assets/Character/EnemyAIRuin]
+[2019.08.07-18.48.31:954][ 43]LogSavePackage: Moving '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Saved/EnemyAIRuin_Auto411D7F8DA477FEF395044498AAB67ACD1.tmp' to '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Saved/Autosaves/Game/RuinLevel/Blueprints/assets/Character/EnemyAIRuin_Auto4.uasset'
+[2019.08.07-18.48.31:955][ 43]LogFileHelpers: Auto-saving content packages took 0.030
+[2019.08.07-18.49.44:673][372]BlueprintLog: New page: Compile EnemyAIRuin
+[2019.08.07-18.49.44:833][372]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2019.08.07-18.49.55:822][ 24]LogSavePackage: Moving '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Saved/EnemyCharacterRuinF1DB310142EEA85DA39FAABE03E6AF1C.tmp' to '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Content/RuinLevel/Blueprints/assets/Character/EnemyCharacterRuin.uasset'
+[2019.08.07-18.49.56:655][ 74]BlueprintLog: New page: Compile EnemyCharacterRuin
+[2019.08.07-18.49.56:822][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2019.08.07-18.52.54:545][604]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2019.08.07-18.52.54:592][604]LogSavePackage: Moving '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Saved/EnemyAIRuin1C35BE2941C49F362160528914DA3D75.tmp' to '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Content/RuinLevel/Blueprints/assets/Character/EnemyAIRuin.uasset'
+[2019.08.07-18.52.56:976][744]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.07-18.52.56:993][744]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel' has LevelScriptBlueprint '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.RuinLevel' with GeneratedClass '/Game/RuinLevel/RuinLevel.RuinLevel_C' with ClassGeneratedBy '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.RuinLevel'
+[2019.08.07-18.52.56:993][744]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.07-18.52.56:993][744]PIE: New page: PIE session: RuinLevel (7/8/2019 22:52:56)
+[2019.08.07-18.52.56:993][744]LogPlayLevel: Creating play world package: /Game/RuinLevel/UEDPIE_0_RuinLevel
+[2019.08.07-18.52.57:030][744]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036432s)
+[2019.08.07-18.52.57:030][744]LogAIModule: Creating AISystem for world RuinLevel
+[2019.08.07-18.52.57:031][744]LogPlayLevel: PIE: World Init took: (0.000604s)
+[2019.08.07-18.52.57:031][744]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RuinLevel/RuinLevel.RuinLevel to /Game/RuinLevel/UEDPIE_0_RuinLevel.RuinLevel (0.037195s)
+[2019.08.07-18.52.57:060][744]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2019.08.07-18.52.57:066][744]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.07-18.52.57:081][744]LogInit: FAudioDevice initialized.
+[2019.08.07-18.52.57:107][744]LogLoad: Game class is 'GameModeRuin_C'
+[2019.08.07-18.52.57:113][744]LogWorld: Bringing World /Game/RuinLevel/UEDPIE_0_RuinLevel.RuinLevel up for play (max tick rate 60) at 2019.08.07-20.52.57
+[2019.08.07-18.52.57:113][744]LogWorld: Bringing up level for play took: 0.005034
+[2019.08.07-18.52.57:127][744]PIE: Play in editor start time for /Game/RuinLevel/UEDPIE_0_RuinLevel 0,243
+[2019.08.07-18.52.57:127][744]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel' has LevelScriptBlueprint '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.RuinLevel' with GeneratedClass '/Game/RuinLevel/RuinLevel.RuinLevel_C' with ClassGeneratedBy '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.RuinLevel'
+[2019.08.07-18.53.54:650][193]LogScript: Warning: Attempted to access index 2 from array WaveEnemies of length 2!
+	GameModeRuin_C /Game/RuinLevel/UEDPIE_0_RuinLevel.RuinLevel:PersistentLevel.GameModeRuin_C_0
+	Function /Game/RuinLevel/Blueprints/assets/Character/GameModeRuin.GameModeRuin_C:ExecuteUbergraph_GameModeRuin:0050
+[2019.08.07-18.53.54:650][193]PIE: Error: Blueprint Runtime Error: "Attempted to access index 2 from array WaveEnemies of length 2!". Blueprint:  GameModeRuin Function:  Execute Ubergraph Game Mode Ruin Graph:  EventGraph Node:  Set EnemiesCue
+[2019.08.07-18.53.54:650][193]LogScript: Warning: Accessed None reading structure WaveEnemies_4_C6B831D24F7A366828B177B44CC4FD38
+	GameModeRuin_C /Game/RuinLevel/UEDPIE_0_RuinLevel.RuinLevel:PersistentLevel.GameModeRuin_C_0
+	Function /Game/RuinLevel/Blueprints/assets/Character/GameModeRuin.GameModeRuin_C:ExecuteUbergraph_GameModeRuin:0050
+[2019.08.07-18.53.54:650][193]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure WaveEnemies_4_C6B831D24F7A366828B177B44CC4FD38". Blueprint:  GameModeRuin Function:  Execute Ubergraph Game Mode Ruin Graph:  EventGraph Node:  Set EnemiesCue
+[2019.08.07-18.54.00:383][537]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.07-18.54.00:501][544]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel' has LevelScriptBlueprint '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.RuinLevel' with GeneratedClass '/Game/RuinLevel/RuinLevel.RuinLevel_C' with ClassGeneratedBy '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.RuinLevel'
+[2019.08.07-18.54.00:501][544]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.07-18.54.00:533][544]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.07-18.54.00:533][544]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel' has LevelScriptBlueprint '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.RuinLevel' with GeneratedClass '/Game/RuinLevel/RuinLevel.RuinLevel_C' with ClassGeneratedBy '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.RuinLevel'
+[2019.08.07-18.54.00:568][544]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.07-18.54.00:574][544]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2019.08.07-18.54.00:605][545]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2019.08.07-18.54.02:488][658]LogSlate: Window 'Message Log' being destroyed
+[2019.08.07-18.54.02:493][658]LogSlate: Window 'Message Log' being destroyed
+[2019.08.07-18.56.16:376][691]BlueprintLog: New page: Compile EnemyAIRuin
+[2019.08.07-18.56.16:535][691]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2019.08.07-18.56.19:407][860]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2019.08.07-18.56.19:454][860]LogSavePackage: Moving '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Saved/EnemyAIRuin9C9081F0440F333A7FB0ADBC70B610B7.tmp' to '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Content/RuinLevel/Blueprints/assets/Character/EnemyAIRuin.uasset'
