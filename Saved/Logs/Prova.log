@@ -7343,3 +7343,371 @@ Script call stack:
 [2019.08.08-08.26.22:268][397]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2019.08.08-08.26.22:274][397]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
 [2019.08.08-08.26.22:314][399]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2019.08.08-08.31.55:731][968]BlueprintLog: New page: Compile EnemyCharacterRuin
+[2019.08.08-08.31.55:914][968]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2019.08.08-08.31.58:848][132]LogSavePackage: Moving '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Saved/EnemyCharacterRuin09AF33A2430A451AAEAA6B93E5FF9109.tmp' to '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Content/RuinLevel/Blueprints/assets/Character/EnemyCharacterRuin.uasset'
+[2019.08.08-08.32.17:166][219]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.08-08.32.17:183][219]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel' has LevelScriptBlueprint '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.RuinLevel' with GeneratedClass '/Game/RuinLevel/RuinLevel.RuinLevel_C' with ClassGeneratedBy '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.RuinLevel'
+[2019.08.08-08.32.17:183][219]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.08-08.32.17:183][219]PIE: New page: PIE session: RuinLevel (8/8/2019 12:32:17)
+[2019.08.08-08.32.17:183][219]LogPlayLevel: Creating play world package: /Game/RuinLevel/UEDPIE_0_RuinLevel
+[2019.08.08-08.32.17:218][219]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034733s)
+[2019.08.08-08.32.17:219][219]LogAIModule: Creating AISystem for world RuinLevel
+[2019.08.08-08.32.17:219][219]LogPlayLevel: PIE: World Init took: (0.000517s)
+[2019.08.08-08.32.17:219][219]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RuinLevel/RuinLevel.RuinLevel to /Game/RuinLevel/UEDPIE_0_RuinLevel.RuinLevel (0.035406s)
+[2019.08.08-08.32.17:253][219]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2019.08.08-08.32.17:259][219]LogInit: XAudio2 using 'Altavoces (LG LAS260B(DD) Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.08-08.32.17:267][219]LogInit: FAudioDevice initialized.
+[2019.08.08-08.32.17:297][219]LogLoad: Game class is 'GameModeRuin_C'
+[2019.08.08-08.32.17:303][219]LogWorld: Bringing World /Game/RuinLevel/UEDPIE_0_RuinLevel.RuinLevel up for play (max tick rate 60) at 2019.08.08-10.32.17
+[2019.08.08-08.32.17:304][219]LogWorld: Bringing up level for play took: 0.005030
+[2019.08.08-08.32.17:318][219]PIE: Play in editor start time for /Game/RuinLevel/UEDPIE_0_RuinLevel 0,446
+[2019.08.08-08.32.17:318][219]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel' has LevelScriptBlueprint '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.RuinLevel' with GeneratedClass '/Game/RuinLevel/RuinLevel.RuinLevel_C' with ClassGeneratedBy '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.RuinLevel'
+[2019.08.08-08.32.40:880][631]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.08-08.32.40:948][635]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel' has LevelScriptBlueprint '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.RuinLevel' with GeneratedClass '/Game/RuinLevel/RuinLevel.RuinLevel_C' with ClassGeneratedBy '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.RuinLevel'
+[2019.08.08-08.32.40:948][635]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.08-08.32.40:980][635]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.08-08.32.40:980][635]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel' has LevelScriptBlueprint '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.RuinLevel' with GeneratedClass '/Game/RuinLevel/RuinLevel.RuinLevel_C' with ClassGeneratedBy '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.RuinLevel'
+[2019.08.08-08.32.41:016][635]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.08-08.32.41:022][635]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2019.08.08-08.32.41:062][637]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2019.08.08-08.33.32:757][817]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.08.08-08.33.44:515][522]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/RuinLevel/Blueprints/assets/Items/BP_HealthItem.BP_HealthItem
+[2019.08.08-08.35.11:312][403]BlueprintLog: New page: Compile BP_HealthItem
+[2019.08.08-08.35.11:465][403]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2019.08.08-08.35.47:356][233]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2019.08.08-08.35.47:356][233]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/RuinLevel/RuinLevel' took 0.029
+[2019.08.08-08.35.47:357][233]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/RuinLevel/Blueprints/assets/Items/BP_HealthItem] ([1] browsable assets)...
+[2019.08.08-08.35.47:357][233]OBJ SavePackage: Finished generating thumbnails for package [/Game/RuinLevel/Blueprints/assets/Items/BP_HealthItem]
+[2019.08.08-08.35.47:364][233]LogSavePackage: Moving '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Saved/BP_HealthItem_Auto3F1FAA9DC494323196932F68F0D0F0A62.tmp' to '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Saved/Autosaves/Game/RuinLevel/Blueprints/assets/Items/BP_HealthItem_Auto3.uasset'
+[2019.08.08-08.35.47:365][233]LogFileHelpers: Auto-saving content packages took 0.009
+[2019.08.08-08.38.37:835][322]BlueprintLog: New page: Compile BP_HealthItem
+[2019.08.08-08.38.37:989][322]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2019.08.08-08.39.12:908][156]BlueprintLog: New page: Compile BP_HealthItem
+[2019.08.08-08.39.13:057][156]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2019.08.08-08.40.53:367][194]BlueprintLog: New page: Compile BP_HealthItem
+[2019.08.08-08.40.53:522][194]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2019.08.08-08.42.37:348][404]LogSavePackage: Moving '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Saved/BP_HealthItem0580F109489DE43FD190288D81AA0DF7.tmp' to '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Content/RuinLevel/Blueprints/assets/Items/BP_HealthItem.uasset'
+[2019.08.08-08.42.39:463][531]BlueprintLog: New page: Compile BP_HealthItem
+[2019.08.08-08.42.39:617][531]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2019.08.08-08.43.26:176][423]LogSavePackage: Moving '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Saved/BP_HealthItem30EB36E54BFF83D3755A2F9DFD39921E.tmp' to '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Content/RuinLevel/Blueprints/assets/Items/BP_HealthItem.uasset'
+[2019.08.08-08.43.27:173][483]BlueprintLog: New page: Compile BP_HealthItem
+[2019.08.08-08.43.27:325][483]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2019.08.08-08.44.20:541][623]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.08-08.44.20:640][629]BlueprintLog: New page: Compile BP_HealthItem
+[2019.08.08-08.44.20:792][629]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2019.08.08-08.44.31:206][886]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2019.08.08-08.44.31:265][886]LogSavePackage: Moving '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Saved/BP_HealthItem0FF6B9714B87BD653578658F14F96D0E.tmp' to '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Content/RuinLevel/Blueprints/assets/Items/BP_HealthItem.uasset'
+[2019.08.08-08.45.03:784][826]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Plains_Floors_Block16)
+[2019.08.08-08.45.03:825][826]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.08-08.45.04:507][866]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Plains_Floors_Block15)
+[2019.08.08-08.45.04:554][866]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.08-08.45.06:204][964]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_Floors_Block16)
+[2019.08.08-08.45.07:021][ 10]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_Floors_Block16)
+[2019.08.08-08.45.12:795][356]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.08-08.45.12:912][363]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.08-08.45.12:932][363]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel' has LevelScriptBlueprint '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.RuinLevel' with GeneratedClass '/Game/RuinLevel/RuinLevel.RuinLevel_C' with ClassGeneratedBy '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.RuinLevel'
+[2019.08.08-08.45.12:932][363]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.08-08.45.12:932][363]PIE: New page: PIE session: RuinLevel (8/8/2019 12:45:12)
+[2019.08.08-08.45.12:932][363]LogPlayLevel: Creating play world package: /Game/RuinLevel/UEDPIE_0_RuinLevel
+[2019.08.08-08.45.12:965][363]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032381s)
+[2019.08.08-08.45.12:965][363]LogAIModule: Creating AISystem for world RuinLevel
+[2019.08.08-08.45.12:965][363]LogPlayLevel: PIE: World Init took: (0.000510s)
+[2019.08.08-08.45.12:965][363]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RuinLevel/RuinLevel.RuinLevel to /Game/RuinLevel/UEDPIE_0_RuinLevel.RuinLevel (0.033042s)
+[2019.08.08-08.45.12:998][363]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2019.08.08-08.45.13:004][363]LogInit: XAudio2 using 'Altavoces (LG LAS260B(DD) Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.08-08.45.13:012][363]LogInit: FAudioDevice initialized.
+[2019.08.08-08.45.13:044][363]LogLoad: Game class is 'GameModeRuin_C'
+[2019.08.08-08.45.13:050][363]LogWorld: Bringing World /Game/RuinLevel/UEDPIE_0_RuinLevel.RuinLevel up for play (max tick rate 60) at 2019.08.08-10.45.13
+[2019.08.08-08.45.13:050][363]LogWorld: Bringing up level for play took: 0.005335
+[2019.08.08-08.45.13:064][363]PIE: Play in editor start time for /Game/RuinLevel/UEDPIE_0_RuinLevel 0,192
+[2019.08.08-08.45.13:064][363]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel' has LevelScriptBlueprint '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.RuinLevel' with GeneratedClass '/Game/RuinLevel/RuinLevel.RuinLevel_C' with ClassGeneratedBy '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.RuinLevel'
+[2019.08.08-08.45.43:573][189]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.08-08.45.43:673][195]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel' has LevelScriptBlueprint '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.RuinLevel' with GeneratedClass '/Game/RuinLevel/RuinLevel.RuinLevel_C' with ClassGeneratedBy '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.RuinLevel'
+[2019.08.08-08.45.43:673][195]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.08-08.45.43:707][195]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.08-08.45.43:707][195]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel' has LevelScriptBlueprint '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.RuinLevel' with GeneratedClass '/Game/RuinLevel/RuinLevel.RuinLevel_C' with ClassGeneratedBy '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.RuinLevel'
+[2019.08.08-08.45.43:743][195]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.08-08.45.43:749][195]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2019.08.08-08.45.43:789][197]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2019.08.08-08.46.18:662][952]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2019.08.08-08.46.19:107][952]LogSavePackage: Moving '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Saved/RuinLevel_Auto4442A1EDD4AD714AF794BE29AC05028E4.tmp' to '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Saved/Autosaves/Game/RuinLevel/RuinLevel_Auto4.umap'
+[2019.08.08-08.46.19:110][952]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/RuinLevel/RuinLevel' took 0.477
+[2019.08.08-08.46.19:110][952]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.477
+[2019.08.08-08.47.07:610][301]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.08-08.47.11:267][509]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.08.08-08.47.35:053][931]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2019.08.08-08.47.35:071][931]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RuinLevel/RuinLevel" FILE="../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Content/RuinLevel/RuinLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.08.08-08.47.35:099][931]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2019.08.08-08.47.35:519][931]LogSavePackage: Moving '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Saved/RuinLevel63E4584E40DDF52AD1A8C59629D347BD.tmp' to '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Content/RuinLevel/RuinLevel.umap'
+[2019.08.08-08.47.35:545][931]LogFileHelpers: Saving map 'RuinLevel' took 0.475
+[2019.08.08-08.48.09:878][991]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.08-08.48.24:912][890]LogSavePackage: Moving '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Saved/ParticleHealthItemC908C1294A3F4D86646A2E923092C61B.tmp' to '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Content/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.uasset'
+[2019.08.08-08.48.25:056][890]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2019.08.08-08.48.25:085][890]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2019.08.08-08.48.25:112][890]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2019.08.08-08.48.27:227][ 15]LogAssetEditorManager: Opening Asset editor for ParticleSystem /Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem
+[2019.08.08-08.48.27:235][ 15]LogBlueprintActionDatabase: Requesting refresh due to module change: Cascade (loaded)
+[2019.08.08-08.48.27:235][ 15]LogContentBrowser: Native class hierarchy updated for 'Cascade' in 0.0002 seconds. Added 2 classes and 2 folders.
+[2019.08.08-08.48.27:263][ 15]LogBlueprintActionDatabase: Requesting refresh due to module change: DistCurveEditor (loaded)
+[2019.08.08-08.48.42:021][422]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.08-08.48.43:225][494]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.43:226][494]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.43:291][498]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.43:291][498]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.43:308][499]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.43:309][499]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.43:325][500]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.43:325][500]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.43:341][501]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.43:341][501]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.43:358][502]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.43:358][502]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.43:374][503]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.43:375][503]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.43:392][504]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.43:392][504]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.43:393][504]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.43:409][505]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.43:409][505]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.43:425][506]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.43:426][506]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.43:442][507]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.43:442][507]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.43:458][508]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.43:459][508]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.43:460][508]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.43:460][508]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.43:475][509]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.43:475][509]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.43:558][514]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.43:559][514]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.43:575][515]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.43:575][515]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.43:591][516]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.43:592][516]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.43:608][517]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.43:608][517]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.43:624][518]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.43:625][518]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.43:641][519]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.43:642][519]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.43:658][520]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.43:658][520]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.43:675][521]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.43:676][521]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.43:692][522]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.43:692][522]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.43:707][523]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.43:708][523]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.43:724][524]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.43:725][524]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.43:741][525]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.43:741][525]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.43:758][526]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.43:758][526]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.43:775][527]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.43:775][527]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.43:825][530]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.43:825][530]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.43:858][532]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.43:859][532]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.43:874][533]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.43:874][533]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.43:908][535]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.43:908][535]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.43:924][536]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.43:925][536]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.44:008][541]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.44:008][541]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.44:024][542]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.44:025][542]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.44:041][543]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.44:041][543]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.44:491][570]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.44:492][570]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.44:508][571]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.44:508][571]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.44:525][572]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.44:525][572]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.44:541][573]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.44:542][573]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.44:575][575]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.44:575][575]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.44:591][576]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.44:591][576]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.44:724][584]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.44:725][584]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.44:741][585]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.44:742][585]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.44:841][591]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.44:841][591]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.44:908][595]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.44:908][595]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.44:941][597]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.44:942][597]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.45:008][601]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.45:009][601]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.45:291][618]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.45:292][618]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.45:308][619]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.45:308][619]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.45:324][620]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.45:325][620]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.45:358][622]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.45:358][622]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.45:374][623]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.45:375][623]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.45:392][624]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.45:392][624]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.45:424][626]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.45:426][626]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.45:458][628]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.45:458][628]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.45:458][628]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.45:459][628]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.45:491][630]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.45:491][630]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.45:542][633]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.45:542][633]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.45:559][634]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.45:559][634]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.45:576][635]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.45:576][635]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.45:591][636]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.45:608][637]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.45:658][640]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.45:958][658]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.45:975][659]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.45:992][660]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.46:025][662]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.46:042][663]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.46:058][664]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.46:059][664]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.51:741][  5]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.51:742][  5]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.51:758][  6]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.51:758][  6]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.51:775][  7]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.51:775][  7]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.51:791][  8]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.51:792][  8]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.51:808][  9]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.51:809][  9]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.51:825][ 10]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.51:825][ 10]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.51:842][ 11]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.51:842][ 11]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.51:843][ 11]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.51:843][ 11]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.51:858][ 12]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.51:859][ 12]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.51:859][ 12]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.51:860][ 12]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.51:875][ 13]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.51:875][ 13]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.51:891][ 14]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.51:892][ 14]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.51:908][ 15]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.51:908][ 15]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.51:924][ 16]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.51:925][ 16]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.51:942][ 17]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.51:942][ 17]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.51:958][ 18]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.51:959][ 18]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.51:975][ 19]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.51:975][ 19]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.53:758][126]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.53:759][126]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.53:775][127]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.53:775][127]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.53:792][128]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.53:792][128]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.53:808][129]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.53:809][129]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.53:825][130]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.53:825][130]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.53:841][131]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.53:842][131]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.53:858][132]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.53:859][132]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.53:859][132]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.53:860][132]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.53:875][133]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.53:875][133]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.53:892][134]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.53:893][134]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.53:908][135]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.53:908][135]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.53:925][136]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.53:925][136]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.53:958][138]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.53:959][138]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.53:975][139]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.53:975][139]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.53:992][140]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.53:992][140]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.54:008][141]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.54:009][141]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.54:092][146]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.54:092][146]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.54:225][154]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.54:226][154]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.54:242][155]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.54:242][155]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.54:275][157]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.54:276][157]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.54:292][158]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.54:292][158]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.54:359][162]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.54:359][162]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.54:374][163]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.54:375][163]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.54:391][164]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.54:392][164]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.48.56:108][267]LogSlate: Window 'Color Picker' being destroyed
+[2019.08.08-08.49.32:096][624]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.08-08.49.32:163][628]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.49.34:180][749]LogParticles: Warning: MaxCount =  641 for Emitter ParticleSpriteEmitter_1 (/Game/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.ParticleHealthItem)
+[2019.08.08-08.49.45:364][996]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2019.08.08-08.49.45:404][996]LogSavePackage: Moving '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Saved/ParticleHealthItemFEEB4D8346BC7DF29FF303BD7A8E6CE6.tmp' to '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Content/RuinLevel/Blueprints/assets/Effects/ParticleHealthItem.uasset'
+[2019.08.08-08.49.46:652][ 71]LogCascade: Quitting Cascade. FXSystem=0x0000021DE104E440
+[2019.08.08-08.49.59:756][846]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/RuinLevel/Blueprints/assets/Items/BP_HealthItem.BP_HealthItem
+[2019.08.08-08.50.29:068][584]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.08-08.50.38:468][148]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.08-08.51.25:176][805]BlueprintLog: New page: Compile BP_HealthItem
+[2019.08.08-08.51.25:366][805]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2019.08.08-08.51.26:137][848]LogSavePackage: Moving '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Saved/BP_HealthItemC5FD77414643FDF21FB4A79061DB0696.tmp' to '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Content/RuinLevel/Blueprints/assets/Items/BP_HealthItem.uasset'
+[2019.08.08-08.51.30:261][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2019.08.08-08.51.30:277][ 94]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RuinLevel/RuinLevel" FILE="../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Content/RuinLevel/RuinLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.08.08-08.51.30:303][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2019.08.08-08.51.30:727][ 94]LogSavePackage: Moving '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Saved/RuinLevelEE0F17AD4C6E361FFBA754A68A5A7F9E.tmp' to '../../../../../../Users/tecla/Documents/Unreal Projects/Prova/Content/RuinLevel/RuinLevel.umap'
+[2019.08.08-08.51.30:750][ 94]LogFileHelpers: Saving map 'RuinLevel' took 0.473
+[2019.08.08-08.51.31:428][135]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.08-08.51.31:445][135]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel' has LevelScriptBlueprint '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.RuinLevel' with GeneratedClass '/Game/RuinLevel/RuinLevel.RuinLevel_C' with ClassGeneratedBy '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.RuinLevel'
+[2019.08.08-08.51.31:445][135]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.08-08.51.31:445][135]PIE: New page: PIE session: RuinLevel (8/8/2019 12:51:31)
+[2019.08.08-08.51.31:445][135]LogPlayLevel: Creating play world package: /Game/RuinLevel/UEDPIE_0_RuinLevel
+[2019.08.08-08.51.31:479][135]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034332s)
+[2019.08.08-08.51.31:480][135]LogAIModule: Creating AISystem for world RuinLevel
+[2019.08.08-08.51.31:480][135]LogPlayLevel: PIE: World Init took: (0.000473s)
+[2019.08.08-08.51.31:480][135]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RuinLevel/RuinLevel.RuinLevel to /Game/RuinLevel/UEDPIE_0_RuinLevel.RuinLevel (0.034943s)
+[2019.08.08-08.51.31:506][135]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2019.08.08-08.51.31:512][135]LogInit: XAudio2 using 'Altavoces (LG LAS260B(DD) Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.08-08.51.31:520][135]LogInit: FAudioDevice initialized.
+[2019.08.08-08.51.31:551][135]LogLoad: Game class is 'GameModeRuin_C'
+[2019.08.08-08.51.31:557][135]LogWorld: Bringing World /Game/RuinLevel/UEDPIE_0_RuinLevel.RuinLevel up for play (max tick rate 60) at 2019.08.08-10.51.31
+[2019.08.08-08.51.31:557][135]LogWorld: Bringing up level for play took: 0.005311
+[2019.08.08-08.51.31:571][135]PIE: Play in editor start time for /Game/RuinLevel/UEDPIE_0_RuinLevel 0,699
+[2019.08.08-08.51.31:571][135]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel' has LevelScriptBlueprint '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.RuinLevel' with GeneratedClass '/Game/RuinLevel/RuinLevel.RuinLevel_C' with ClassGeneratedBy '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.RuinLevel'
+[2019.08.08-08.51.57:540][692]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.08-08.52.03:940][ 76]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.08-08.52.08:390][343]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.08-08.52.08:491][349]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel' has LevelScriptBlueprint '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.RuinLevel' with GeneratedClass '/Game/RuinLevel/RuinLevel.RuinLevel_C' with ClassGeneratedBy '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.RuinLevel'
+[2019.08.08-08.52.08:491][349]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.08-08.52.08:527][349]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.08-08.52.08:527][349]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel' has LevelScriptBlueprint '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.RuinLevel' with GeneratedClass '/Game/RuinLevel/RuinLevel.RuinLevel_C' with ClassGeneratedBy '/Game/RuinLevel/RuinLevel.RuinLevel:PersistentLevel.RuinLevel'
+[2019.08.08-08.52.08:559][349]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.08-08.52.08:566][349]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2019.08.08-08.52.08:597][351]LogPlayLevel: Display: Destroying online subsystem :Context_48
